@@ -1,0 +1,54 @@
+
+
+Subject: N2Women 2014 Workshop - Travel Grant Application
+
+
+[Apologies if you receive multiple copies of this call]
+
+---------------------------------------------------------------------------------
+      Call for Participation: N2Women 2014 Travel Grant Application
+
+              Fourth Networking Networking Women Workshop -
+             N2Women: Broadening Participation (N2Women 2014)
+
+         http://conferences.sigcomm.org/sigcomm/2014/n2women.php
+
+                    on August 17, Chicago, USA
+---------------------------------------------------------------------------------
+
+*** Important Dates ***
+Student Travel Grant application deadline: May 26, 2014
+Student Travel Grant notification: June 16, 2014
+
+*** Overview ***
+
+N2Women is pleased to provide travel grants to broaden the participation in our workshop. Bachelor, Master, and PhD students as well as junior faculty/researchers are eligible to apply.
+
+This support is made possible by generous support from the US National Science Foundation (NSF), CRA-W/CDC Alliance, HP Labs, INRIA, Alcatel-Lucent France, ACM SIGCOMM, and ACM SIGMOBILE. The grants will partially cover an applicant's travel cost to Chicago, USA, where the N2Women 2014 Workshop will be held. Most funds must support US citizens and US-based students, however limited funds are also available for international attendees.
+
+Priority for travel grants will be given to applicants  (1) who do not have papers at the SIGCOMM conference, (2) whose advisors have promised some cost sharing, and (3) who are in the first 2-3 years of the PhD. Underrepresented minorities and female students from diverse institutions are particularly encouraged to apply. In addition, U.S. citizens/residents will be given priority on some of the travel funds. 
+
+*** How to Apply? ***
+
+Applicants for the travel award should apply using the following link: http://form.jotformeu.com/form/41174051814346
+
+In addition, student applicants (i.e., Bachelors, Masters, or PhDs) should have their advisor send to n2women-travel-grant-committee@googlegroups.com a supporting letter including:
+
+- Confirmation that the student is a Bachelor, a Master, or a Ph.D. candidate in good standing.
+- Ways in which attending the workshop and main conference would benefit the particular student.
+- The strengths and potential contributions of the student.
+- Indicate how the remainder of the student travel cost, not covered by the award, will be covered.
+
+*** Travel Support: ***
+The N2Women Travel Grants Committee will review applications, and the grants will be announced by June 16, 2014. The reimbursement amount will be around $750 per student and they will be directly reimbursed  after the N2Women workshop and under receipts reception.
+
+*** Contact: ***
+For any questions, please contact the N2Women Travel Grant Chair, Aline C. Viana at aline.viana@inria.fr.
+
+
+############################
+
+To unsubscribe from the n2women-workshop list:
+write to: mailto:n2women-workshop-SIGNOFF-REQUEST@LISTSERV.ACM.ORG
+or click the following link:
+http://listserv.acm.org/SCRIPTS/WA-ACMLPX.CGI?SUBED1=n2women-workshop&A=1

@@ -1,0 +1,8 @@
+Sitemap: http://conferences.sigcomm.org/sigcomm/2014/sitemap.xml
+
+User-agent: *
+
+Disallow: /css
+Disallow: /include
+Disallow: /js
+Disallow: /paper
