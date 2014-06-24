@@ -92,4 +92,3 @@ However, another option for uploading is lftp, which uploads a diff like rsync. 
 	lftp> mirror -Reva web 2014
 
 where 2014 is replaced with the year of the SIGCOMM conference.
-test
