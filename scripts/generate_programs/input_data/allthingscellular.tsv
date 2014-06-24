@@ -1,0 +1,21 @@
+Time (If present, indicates this begins a new session)	Session or paper title	Session chair, speaker, or authors	Paper filename
+8:45am - 9:00am	Opening 	Jeffrey Pang (AT&T Research), Kun Tan (Microsoft Research)	
+9:00am - 10:15am	Keynote: Networking with Massive MU-MIMO Base Stations	Lin Zhong (Rice University)	
+10:15am - 10:45am	Coffee		
+10:45am - 12:00pm	Session 1: Architecture and Protocols	TBD	
+	How Green is Multipath TCP for Mobile Devices?	Yeon-sup Lim and Yung-Chih Chen (University of Massachusetts Amherst), Erich M. Nahum (IBM T.J. Watson Research Center), Don Towsley (University of Massachusetts Amherst), and Richard J. Gibbens (University of Cambridge)	
+	Increasing Cellular Capacity Using ISM Band Side-channels: A First Study	Jingwen Bai (Rice University), Chenxi Liu (Tsinghua University), and Ashutosh Sabharwal (Rice University)	
+	SON Conflict Resolution using Reinforcement Learning with State Aggregation	Ovidiu-Constantin Iacoboaiea (Orange Labs and Telecom ParisTech), Berna Sayrac and Sana Ben Jemaa (Orange Labs), and Pascal Bianchi (Telecom ParisTech)	
+12:00am - 1:30pm	Lunch		
+1:30pm - 2:45pm	Session 2: Software Defined Networking / Network Function Virtualization	TBD	
+	SMORE: Software-Defined Networking Mobile Offloading Architecture	Junguk Cho, Binh Nguyen, Arijit Banerjee, and Jacobus Van der Merwe (School of Computing, University of Utah)	
+	Dynamic Tunnel Switching for SDN-Based Cellular Core Networks	Johanna Heinonen and Tapio Partti (Nokia Solutions and Networks), Marko Kallio and Kari Lappalainen (Tieto), and Hannu Flinck and Jarmo Hillo (Nokia Solutions and Networks)	
+	Applying NFV and SDN to LTE Mobile Core Gateways; The Functions Placement Problem	Arsany Basta and Wolfgang kellerer (LKN, TUM) and Marco Hoffmann, Hans Jochen Morper, and Klaus Hoffmann (NSN)	
+2:45pm - 3:15pm	Coffee		
+3:15pm - 4:15pm	Panel: Building a Cellular Networking Research Program	Li Erran Li (Alcatel-Lucent), Songwu Lu (UCLA), Chunyi Peng (Ohio State), Jacobus Van der Merwe (University of Utah), Lin Zhong (Rice University)	
+4:15pm - 4:20pm	Break		
+4:20pm - 5:35pm	Session 3: Measurements	TBD	
+	Towards understanding TCP performance on LTE/EPC mobile networks	Binh Nguyen and Arijit Banerjee (University of Utah), Vijay Gopalakrishnan (AT&T Labs - Research), Sneha Kasera (University of Utah), Seungjoon Lee and Aman Shaikh (AT&T Labs - Research), and Jacobus Van der Merwe (University of Utah)	
+	Performance of LTE in a High-velocity Environment: A Measurement Study	Ruben Merz, Daniel Wenger, Damiano Scanferla, and Stefan Mauron (Swisscom, Group Strategy & Innovation)	
+	Cacheability of YouTube Videos in Cellular Networks	Fehmi Ben Abdesslem and Anders Lindgren (SICS Swedish ICT AB)	
+5:35pm-5:45pm	Closing	Jeffrey Pang (AT&T Research), Kun Tan (Microsoft Research)	
