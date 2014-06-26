@@ -16,6 +16,14 @@ $mypage = current_pagename();
 		margin: 30px 0px 20px 24px;
 		outline: rgb(51, 51, 51) none 0px;
 	}
+
+	.subnav-c{
+		border-right:0;
+		border-left:0;
+	}
+	.ui-collapsible-content{
+		border-right:0;
+	}
 </style>
 <div id="left-column">
 	<a href="index.php"><img class="center conflogo" src="images/logo.png" alt="ACM SIGCOMM 2014, August 2014, Chicago, Illinois" /></a>
@@ -27,7 +35,7 @@ $mypage = current_pagename();
 
 		<li data-icon="false" <?php if ($mypage=="supporters.php") echo 'class="navselected"' ?> style="border-radius: 0;"><a href="supporters.php" >Supporters</a></li>
 		<div data-role="collapsible" data-theme="c" data-content-theme="d" data-collapsed-icon="arrow-d" data-expanded-icon="arrow-u" data-iconpos="right" 
-		<?php if ($mypage=="submission.php" || $mypage=="cfp.php" || $mypage=="program.php" || $mypage=="pc.php") echo 'data-collapsed=false'?> style="border-radius: 0;margin: 0;">
+		<?php if ($mypage=="submission.php" || $mypage=="cfp.php" || $mypage=="program.php" || $mypage=="pc.php") echo 'data-collapsed=false'?> style="border-radius: 0;margin: 0;border-right: 1px solid rgb(187, 187, 187);">
 			<h4>Conference</h4>
 			<ul data-role="listview" data-inset="false">
 				<li data-icon="false" class="subnav-c <?php if ($mypage=="program.php") echo 'navselected' ?>" ><a href="program.php">Program</a></li>
@@ -38,33 +46,33 @@ $mypage = current_pagename();
 		</div>
 
 		<div data-role="collapsible" data-theme="c" data-content-theme="d" data-collapsed-icon="arrow-d" data-expanded-icon="arrow-u" data-iconpos="right" 
-		<?php if ($mypage=="allthingscellular.php" || $mypage=="csws.php" || $mypage=="dcc.php" || $mypage=="hotsdn.php" || $mypage=="n2women.php" || $mypage=="srif.php") echo 'data-collapsed=false'?> style="border-radius: 0;margin: 0;">
+		<?php if ($mypage=="allthingscellular.php" || $mypage=="csws.php" || $mypage=="dcc.php" || $mypage=="hotsdn.php" || $mypage=="n2women.php" || $mypage=="srif.php") echo 'data-collapsed=false'?> style="border-radius: 0;margin: 0; border-right: 1px solid rgb(187, 187, 187);">
 			<h4>Workshops</h4>
 			<ul data-role="listview" data-inset="false">
-				<li data-icon=false class="subnav-a <?php if ($mypage=="allthingscellular.php") echo 'navselected' ?>"><a href="allthingscellular.php">All Things Cellular</a></li>
-				<li data-icon=false class="subnav-a <?php if ($mypage=="csws.php") echo 'navselected' ?>"><a href="csws.php">CSWS</a></li>
-				<li data-icon=false class="subnav-a <?php if ($mypage=="dcc.php") echo 'navselected' ?>"><a href="dcc.php">DCC</a></li>
-				<li data-icon=false class="subnav-a <?php if ($mypage=="hotsdn.php") echo 'navselected' ?>"><a href="hotsdn.php">HotSDN</a></li>
-				<li data-icon=false class="subnav-a <?php if ($mypage=="n2women.php") echo 'navselected' ?>"><a href="n2women.php">N2Women</a></li>
-				<li data-icon=false class="subnav-a <?php if ($mypage=="srif.php") echo 'navselected' ?>"><a href="srif.php">SRIF</a></li>
+				<li data-icon=false class="subnav-c <?php if ($mypage=="allthingscellular.php") echo 'navselected' ?>"><a href="allthingscellular.php">All Things Cellular</a></li>
+				<li data-icon=false class="subnav-c <?php if ($mypage=="csws.php") echo 'navselected' ?>"><a href="csws.php">CSWS</a></li>
+				<li data-icon=false class="subnav-c <?php if ($mypage=="dcc.php") echo 'navselected' ?>"><a href="dcc.php">DCC</a></li>
+				<li data-icon=false class="subnav-c <?php if ($mypage=="hotsdn.php") echo 'navselected' ?>"><a href="hotsdn.php">HotSDN</a></li>
+				<li data-icon=false class="subnav-c <?php if ($mypage=="n2women.php") echo 'navselected' ?>"><a href="n2women.php">N2Women</a></li>
+				<li data-icon=false class="subnav-c <?php if ($mypage=="srif.php") echo 'navselected' ?>"><a href="srif.php">SRIF</a></li>
 			</ul>
 		</div>
 
 		<div data-role="collapsible" data-theme="c" data-content-theme="d" data-collapsed-icon="arrow-d" data-expanded-icon="arrow-u" data-iconpos="right" 
-		<?php if ($mypage=="tutorial-smartphone.php" || $mypage=="tutorial-mininet.php" || $mypage=="tutorial-theory+eng.php" || $mypage=="tutorial-geni.php" || $mypage=="tutorial-fitiotlab.php" || $mypage=="tutorial-virtualization.php") echo 'data-collapsed=false'?> style="border-radius: 0;margin: 0;">
+		<?php if ($mypage=="tutorial-smartphone.php" || $mypage=="tutorial-mininet.php" || $mypage=="tutorial-theory+eng.php" || $mypage=="tutorial-geni.php" || $mypage=="tutorial-fitiotlab.php" || $mypage=="tutorial-virtualization.php") echo 'data-collapsed=false'?> style="border-radius: 0;margin: 0;border-right: 1px solid rgb(187, 187, 187);">
 			<h4>Tutorials</h4>
 			<ul data-role="listview" data-inset="false">
-				<li data-icon=false class="subnav-b <?php if ($mypage=="tutorial-smartphone.php") echo 'navselected' ?>"><a href="tutorial-smartphone.php">Smartphone Performance</a></li>
-				<li data-icon=false class="subnav-b <?php if ($mypage=="tutorial-mininet.php") echo 'navselected' ?>"><a href="tutorial-mininet.php">Mininet</a></li>
-				<li data-icon=false class="subnav-b <?php if ($mypage=="tutorial-theory+eng.php") echo 'navselected' ?>"><a href="tutorial-theory+eng.php">Theory &cap; Engineering</a></li>
-				<li data-icon=false class="subnav-b <?php if ($mypage=="tutorial-geni.php") echo 'navselected' ?>"><a href="tutorial-geni.php">GENI</a></li>
-				<li data-icon=false class="subnav-b <?php if ($mypage=="tutorial-fitiotlab.php") echo 'navselected' ?>"><a href="tutorial-fitiotlab.php">FIT IoT-LAB</a></li>
-				<li data-icon=false class="subnav-b <?php if ($mypage=="tutorial-virtualization.php") echo 'navselected' ?>"><a href="tutorial-virtualization.php">Virtualization</a></li>
+				<li data-icon=false class="subnav-c <?php if ($mypage=="tutorial-smartphone.php") echo 'navselected' ?>"><a href="tutorial-smartphone.php">Smartphone Performance</a></li>
+				<li data-icon=false class="subnav-c <?php if ($mypage=="tutorial-mininet.php") echo 'navselected' ?>"><a href="tutorial-mininet.php">Mininet</a></li>
+				<li data-icon=false class="subnav-c <?php if ($mypage=="tutorial-theory+eng.php") echo 'navselected' ?>"><a href="tutorial-theory+eng.php">Theory &cap; Engineering</a></li>
+				<li data-icon=false class="subnav-c <?php if ($mypage=="tutorial-geni.php") echo 'navselected' ?>"><a href="tutorial-geni.php">GENI</a></li>
+				<li data-icon=false class="subnav-c <?php if ($mypage=="tutorial-fitiotlab.php") echo 'navselected' ?>"><a href="tutorial-fitiotlab.php">FIT IoT-LAB</a></li>
+				<li data-icon=false class="subnav-c <?php if ($mypage=="tutorial-virtualization.php") echo 'navselected' ?>"><a href="tutorial-virtualization.php">Virtualization</a></li>
 			</ul>
 		</div>
 
 		<div data-role="collapsible" data-theme="c" data-content-theme="d" data-collapsed-icon="arrow-d" data-expanded-icon="arrow-u" data-iconpos="right" 
-		<?php if ($mypage=="venue.php" || $mypage=="hotel.php" || $mypage=="childcare.php" || $mypage=="visa.php" || $mypage=="travelgrants.php") echo 'data-collapsed=false'?> style="border-radius: 0;margin: 0;">
+		<?php if ($mypage=="venue.php" || $mypage=="hotel.php" || $mypage=="childcare.php" || $mypage=="visa.php" || $mypage=="travelgrants.php") echo 'data-collapsed=false'?> style="border-radius: 0;margin: 0;border-right: 1px solid rgb(187, 187, 187);">
 			<h4>Local Information</h4>
 			<ul data-role="listview" data-inset="false">
 				<li data-icon="false" class="subnav-c"><a href="https://www.regonline.com/acmsigcomm2014" rel="external">Registration</a></li>
@@ -78,7 +86,7 @@ $mypage = current_pagename();
 
 
 		<div data-role="collapsible" data-theme="c" data-content-theme="d" data-collapsed-icon="arrow-d" data-expanded-icon="arrow-u" data-iconpos="right" 
-		<?php if ($mypage=="organization.php" || $mypage=="cfpd.php" || $mypage=="cfw.php" || $mypage=="cft.php" || $mypage=="policies.php") echo 'data-collapsed=false'?> style="border-radius: 0;margin: 0;border-bottom-left-radius: 0.6em;border-bottom-right-radius: 0.6em;">
+		<?php if ($mypage=="organization.php" || $mypage=="cfpd.php" || $mypage=="cfw.php" || $mypage=="cft.php" || $mypage=="policies.php") echo 'data-collapsed=false'?> style="border-radius: 0;margin: 0;border-bottom-left-radius: 0.6em;border-bottom-right-radius: 0.6em;border-right: 1px solid rgb(187, 187, 187);">
 			<h4>Organization</h4>
 			<ul data-role="listview" data-inset="false">
 				<li data-icon="false" class="subnav-c <?php if ($mypage=="organization.php") echo 'navselected' ?>" ><a href="organization.php">Organization Committee</a></li>
