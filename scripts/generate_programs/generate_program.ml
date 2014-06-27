@@ -6,10 +6,12 @@ let encode_html str =
 	let str = Str.global_replace (Str.regexp "è") "&egrave;" str in
 	let str = Str.global_replace (Str.regexp "ó") "&oacute;" str in
 	let str = Str.global_replace (Str.regexp "á") "&aacute;" str in
+	let str = Str.global_replace (Str.regexp "ä") "&auml;" str in
 	let str = Str.global_replace (Str.regexp "ü") "&uuml;" str in
 	let str = Str.global_replace (Str.regexp "Ö") "&Ouml;" str in
+	let str = Str.global_replace (Str.regexp "ö") "&ouml;" str in
 	let str = Str.global_replace (Str.regexp "\"") "&quot;" str in
-	if matches str ".*[^a-zA-Z0-9 –:#';,\\.\\?()&/ -].*" then (
+	if matches str ".*[^a-zA-Z0-9 –:#';,\\.\\?\\+()&/ -].*" then (
 		printf "String needs to be escaped: \"%s\"\n" str;
 		assert false
 		)
@@ -77,7 +79,8 @@ let programs = [
 	"n2women";
 	"csws";
 	"dcc";
-	"sigcomm"
+	"sigcomm";
+	"srif"
 	]
 
 let tsv_base_path = "input_data"

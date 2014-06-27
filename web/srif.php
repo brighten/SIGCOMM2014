@@ -6,6 +6,12 @@
 <h1 class="hcls">ACM SIGCOMM Software Radio Implementation Forum (SRIF) 2014</h1>
 
 
+<h2 class="hcls">Technical Program</h2>
+
+<?php
+        include("include/program/srif.php");
+?>
+
 <h2 class="hcls">Call for Papers</h2>
 
 <p>The Software Radio Implementation Forum (SRIF) seeks papers for the SRIF 2014 workshop to be held August 2014 in conjunction with ACM SIGCOMM in Chicago.</p>

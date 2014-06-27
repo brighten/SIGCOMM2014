@@ -1,0 +1,27 @@
+Time (If present, indicates this begins a new session)	Session or paper title	Session chair, speaker, or authors	Paper filename
+9:00am – 9:15am	Opening 	Shyam Gollakota, Marina Petrova, Patrick Murphy	
+9:15am – 10:00am	Keynote TBD		
+10:00am – 10:15am	Coffee Break		
+10:15am – 11:30am	Transport and Applications		
+	Improving Transport Design for WARP SDR Deployments 	Krishna C. Garikipati; Kang G. Shin.	
+	SDR-based Passive Indoor Localization System for GSM	Islam Alyafawi; Desislava Dimitrova; Torsten Ingo Braun	
+	A real-time and Protocol-aware Reactive Jamming Framework Built on Software-Defined Radios	Danh Nguyen; Cem Sahin; Boris Shishkin; Nagarajan Kandasamy; Kapil Dandekar	
+11:30am - 11:45am	Coffee Break		
+11:45am - 12:30pm	Short papers  + Demo session		
+	CogMAC+ - A Decentralized Multichannel MAC Protocol for Cognitive Wireless Networks	Peng Wang; Junaid Ansari; Marina Petrova; Petri Mähönen	
+	802.11a/g PHY  implementation in Blink, domain-specific language for wireless programming	Gordon Stewart; Mahanth Gowda; Geoff Mainland; Bozidar Radunovic; Dimitrios Vytiniotis	
+	WARP Drive - Accelerating Wireless Multi-hop Cross-layer Experimentation on SDRs	Adrian Loch; Matthias Schulz; Matthias Hollick. 	
+12:30pm - 2:00pm	Lunch Break		
+2:00pm - 2:50pm	Platforms		
+	Software Defined Radios for Smart Utility Networks	Srinivas Lingam; Tim Schmidl; Anuj Batra, Texas Instruments	
+	WhiteLAN: Facilitate Cost-Efficient SDR Research with COTS IEEE 802.11b/g devices	Arun Ashok; Iyappan Subbiah; Gabor Varga; Moritz Schrey; Andreas Achtzehn; Marina Petrova; Stefan Heinen. 	
+2:50pm - 3:00pm 	Coffee Break		
+3:00pm - 4:15pm	MAC and Analog Network Coding		
+	Exploring MAC Parallelization on Software Defined RAdio Platforms	Junaid Ansari; Xi Zhang; Sameer Gaikwad; Petri Mähönen	
+	Implementing TD-LTE as software defined radio in general purpose processor	Jussi Kerttula; Nicolas Malm; Kalle Ruttik; Riku Jäntti; Olav Tirkkonen	
+	Joint Phase Tracking and Channel Decoding for OFDM PNC: Algorithm and Experimental Evaluation	Taotao Wang; Soung Chang Liew; Lizhao You	
+4:15pm - 4:30pm	Coffee Break		
+4:30pm - 5:20pm	Physical Layer Designs		
+	Proof-of-concept Implementation for Network Orchestrated Relay Selection Mechanism	Vicknesan Ayadurai; Mikael Prytz	
+	MIMO-OFDM spatial multiplexing technique implementation for GNU Radios	Francesca Martelli; Alexander Kocian; Paolo Santi; Vanessa Gardellin	
+5:20pm - 5:30pm	Closing Remarks		
