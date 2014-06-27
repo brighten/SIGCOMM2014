@@ -53,6 +53,8 @@ function init_sps() {
 }
 
 function choose_logo_idx() {
+  if (typeof sps == 'undefined') return;
+
   var idx = -1;
   if (gidx < sps.length) idx = gidx;
   else {
@@ -80,6 +82,7 @@ function choose_logo_idx() {
 
 function onfinish() {
   // If there are more pigeon-holes than pigeons.
+  if (typeof lcnt == 'undefined' || typeof sps == 'undefined') return;
   if (lcnt >= sps.length) return;
 
   var tid = lidx % lcnt;
@@ -109,6 +112,8 @@ function onfinish() {
 }
 
 function get_logo(tid) {
+  if (typeof sps == 'undefined') return;
+
   var idx = choose_logo_idx();
   var logoimg = "images/" + sps[idx][1];
   var goldenimg = "";
