@@ -538,6 +538,9 @@ div.fees {
 	.fees td, .fees th {
 			padding: .2em;
 	}
+	#left-column{
+		margin: 0 !important;
+	}
 }
 
 @media all and (min-width: 650px){
@@ -611,3 +614,5 @@ div.fees {
     }
 
   }
+
+
