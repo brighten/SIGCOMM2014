@@ -50,7 +50,7 @@
 <h2 class="hcls">Technical Program</h2>
 
         <ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
-                <?php tprog_add_session("9:00 &mdash; 9:40", "Introduction to Mininet"); ?>
+                <?php tprog_add_session("8:30 &mdash; 9:10", "Introduction to Mininet"); ?>
                 <?php
                         tprog_add_item("", "", "
 <p>Overview on the architecture of Mininet.</p>
@@ -58,7 +58,7 @@
                         ", "");
                 ?>
 
-                <?php tprog_add_session("9:40 &mdash; 10:40", "Hands-on Laboratory Example: BufferBloat"); ?>
+                <?php tprog_add_session("9:10 &mdash; 10:10", "Hands-on Laboratory Example: BufferBloat"); ?>
                 <?php
                         tprog_add_item("", "", "
 <p>Run through an in-class exercise used in CS144 (Introduction to Computer Networking) at Stanford.</p>
@@ -66,9 +66,9 @@
                         ", "");
                 ?>
 
-                <?php tprog_add_session("10:40 &mdash; 11:10", "Coffee Break"); ?>
+                <?php tprog_add_session("10:10 &mdash; 10:40", "Coffee Break"); ?>
 
-                <?php tprog_add_session("11:10 &mdash; 12:30", "Teaching Experiences"); ?>
+                <?php tprog_add_session("10:40 &mdash; 12:00", "Teaching Experiences"); ?>
                 <?php
                         tprog_add_item("", "", "
 <p>Present experiences and lessons learned from Mininet-based demonstrations, lab exercises, and assignments for on-campus and massive online courses at Stanford, Georgia Tech and MIT.</p>

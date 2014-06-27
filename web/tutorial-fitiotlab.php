@@ -49,7 +49,7 @@
 <h2 class="hcls">Schedule</h2>
 
         <ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
-                <?php tprog_add_session("9:00 &mdash; 9:30", "Introduction to FIT IoT-LAB"); ?>
+                <?php tprog_add_session("8:30 &mdash; 9:00", "Introduction to FIT IoT-LAB"); ?>
                 <?php
                         tprog_add_item("", "", "
 <p>Experimentation</p>
@@ -57,7 +57,7 @@
 <p>Hardware</p>", "");
                 ?>
 
-                <?php tprog_add_session("9:30 &mdash; 10:00", "First example: Energy Consumption"); ?>
+                <?php tprog_add_session("9:00 &mdash; 9:30", "First example: Energy Consumption"); ?>
                 <?php
                         tprog_add_item("", "", "
 <p>First run on the testbed</p>
@@ -65,23 +65,23 @@
                         ", "");
                 ?>
 
-                <?php tprog_add_session("10:00 &mdash; 10:30", "Coffee Break"); ?>
+                <?php tprog_add_session("9:30 &mdash; 10:00", "Coffee Break"); ?>
 
-                <?php tprog_add_session("10:30 &mdash; 11:00", "Second example: Serial Port Communication"); ?>
+                <?php tprog_add_session("10:00 &mdash; 10:30", "Second example: Serial Port Communication"); ?>
                 <?php
                         tprog_add_item("", "", "
 <p>Read/Write remotely</p>
 <p>SSH frontend</p>", "");
                 ?>
 
-                <?php tprog_add_session("11:00 &mdash; 11:45", "Third example: Radio Communication"); ?>
+                <?php tprog_add_session("10:30 &mdash; 11:15", "Third example: Radio Communication"); ?>
                 <?php
                         tprog_add_item("", "", "
 <p>Message broadcasting</p>
 <p>Nodes interaction during an experiment</p>", "");
                 ?>
 
-                <?php tprog_add_session("11:45 &mdash; 12:30", "Fourth example: Running Contiki"); ?>
+                <?php tprog_add_session("11:15 &mdash; 12:00", "Fourth example: Running Contiki"); ?>
                 <?php
                         tprog_add_item("", "", "
 <p>Usage of ported Operating System</p>", "");

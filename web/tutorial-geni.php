@@ -32,7 +32,7 @@
 <h2 class="hcls">Technical Program</h2>
 
         <ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
-                <?php tprog_add_session("9:00 &mdash; 9:45", "An Introduction to GENI and Experimentation with GENI"); ?>
+                <?php tprog_add_session("8:30 &mdash; 9:15", "An Introduction to GENI and Experimentation with GENI"); ?>
                 <?php
                         tprog_add_item("", "", "
 <p>An Overview of GENI including how it is being built and used.</p>
@@ -42,53 +42,53 @@
                         ", "");
                 ?>
 
-                <?php tprog_add_session("9:45 &mdash; 10:30", "The GENI Experiment Workflow—Hands On Exercise"); ?>
+                <?php tprog_add_session("9:15 &mdash; 10:00", "The GENI Experiment Workflow—Hands On Exercise"); ?>
                 <?php
                         tprog_add_item("", "", "
 <p>Set up and run a simple experiment using GENI</p>
                         ", "");
                 ?>
 
-                <?php tprog_add_session("10:30 &mdash; 10:45", "Coffee Break"); ?>
+                <?php tprog_add_session("10:00 &mdash; 10:15", "Coffee Break"); ?>
 
-                <?php tprog_add_session("10:45 &mdash; 11:30", "Future Internet Architecture (FIA) Experiment—Hands On"); ?>
+                <?php tprog_add_session("10:15 &mdash; 11:00", "Future Internet Architecture (FIA) Experiment—Hands On"); ?>
                 <?php
                         tprog_add_item("", "", "
 <p>Run an experiment based on the <a href='http://www.cs.cmu.edu/~./xia/'>eXpressive Internet Architecture</a> (XIA) or the <a href='http://named-data.net'>Named Data Networking</a> (NDN) projects.</p>", "");
                 ?>
 
-                <?php tprog_add_session("11:30 &mdash; 12:00", "Overview of Diversity of Research on GENI"); ?>
+                <?php tprog_add_session("11:00 &mdash; 11:30", "Overview of Diversity of Research on GENI"); ?>
                 <?php
                         tprog_add_item("", "", "
 <p>Examples of projects using GENI for research in the areas of cloud computing, middleware for computational sciences and wireless networking.</p>
 	<p>Demonstration of the <a href='http://mobilityfirst.winlab.rutgers.edu'>MobilityFirst</a> FIA project.</p>", "");
                 ?>
 
-                <?php tprog_add_session("12:00 &mdash; 12:30", "Using GENI OpenFlow Resources"); ?>
+                <?php tprog_add_session("11:30 &mdash; 12:00", "Using GENI OpenFlow Resources"); ?>
                 <?php
                         tprog_add_item("", "", "
 <p>Brief introduction to OpenFlow and OpenFlow resources in GENI</p>
 <p>Hands-on: Set up an OpenFlow experiment on GENI</p>", "");
                 ?>
 
-                <?php tprog_add_session("12:30 &mdash; 14:00", "Lunch"); ?>
+                <?php tprog_add_session("12:00 &mdash; 13:30", "Lunch"); ?>
 
-                <?php tprog_add_session("14:00 &mdash; 15:00", "Programming the GENI OpenFlow Switches &mdash; Hands On"); ?>
+                <?php tprog_add_session("13:30 &mdash; 14:30", "Programming the GENI OpenFlow Switches &mdash; Hands On"); ?>
                 <?php
                         tprog_add_item("", "", "
 <p>Develop simple OpenFlow controllers for hardware switches in GENI</p>", "");
                 ?>
 
-                <?php tprog_add_session("15:00 &mdash; 15:40", "Connecting GENI Resources at Layers 2 and 3"); ?>
+                <?php tprog_add_session("14:30 &mdash; 15:10", "Connecting GENI Resources at Layers 2 and 3"); ?>
                 <?php
                         tprog_add_item("", "", "
 <p>Options available to experimenters for connecting GENI resources using Layer 2 or Layer 3 links</p>
 <p>Demonstration of the XIA or NDN FIA project (whichever project is not covered by the hands-on exercise in the morning).</p>", "");
                 ?>
 
-                <?php tprog_add_session("10:30 &mdash; 10:45", "Coffee Break"); ?>
+                <?php tprog_add_session("15:10 &mdash; 15:25", "Coffee Break"); ?>
 
-                <?php tprog_add_session("16:00 &mdash; 17:00", "Resources for GENI Experimenters"); ?>
+                <?php tprog_add_session("15:25 &mdash; 16:25", "Resources for GENI Experimenters"); ?>
                 <?php
                         tprog_add_item("", "", "
 <p>Tips for experimenters: Debugging common problems.</p>

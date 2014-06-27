@@ -48,7 +48,7 @@ AT&amp;T Labs, Bedminster, NJ, USA
 <h2 class="hcls">Tutorial Outline</h2>
 
         <ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
-                <?php tprog_add_session("9:00 &mdash; 10:00", "Introduction to mobile devices, cellular networks and service quality management"); ?>
+                <?php tprog_add_session("8:30 &mdash; 9:30", "Introduction to mobile devices, cellular networks and service quality management"); ?>
                 <?php
                         tprog_add_item("", "", "
 <p>Cellular network overview </p>
@@ -58,7 +58,7 @@ AT&amp;T Labs, Bedminster, NJ, USA
                         ", "");
                 ?>
 
-                <?php tprog_add_session("10:00 &mdash; 10:40", "Detection of service issues"); ?>
+                <?php tprog_add_session("9:30 &mdash; 10:10", "Detection of service issues"); ?>
                 <?php
                         tprog_add_item("", "", "
 <p>Service monitoring and event detection </p>
@@ -66,7 +66,7 @@ AT&amp;T Labs, Bedminster, NJ, USA
                         ", "");
                 ?>
 
-                <?php tprog_add_session("11:00 &mdash; 12:30", "Isolating and troubleshooting complex service issues"); ?>
+                <?php tprog_add_session("10:30 &mdash; 12:00", "Isolating and troubleshooting complex service issues"); ?>
                 <?php
                         tprog_add_item("", "", "
 <p>Isolating issues: device, network or application? </p>
@@ -76,7 +76,7 @@ AT&amp;T Labs, Bedminster, NJ, USA
                         ", "");
                 ?>
 
-                <?php tprog_add_session("14:00 &mdash; 15:30", "Service impact assessment of network events and changes"); ?>
+                <?php tprog_add_session("13:30 &mdash; 15:00", "Service impact assessment of network events and changes"); ?>
                 <?php
                         tprog_add_item("", "", "
 <p>Quantifying the impact of network issues (e.g., cellular tower outages)</p>
@@ -84,7 +84,7 @@ AT&amp;T Labs, Bedminster, NJ, USA
                         ", "");
                 ?>
 
-                <?php tprog_add_session("16:00 &mdash; 17:00", "Issue resolution and avoidance: driving service impairments out of the ecosystem"); ?>
+                <?php tprog_add_session("15:30 &mdash; 16:30", "Issue resolution and avoidance: driving service impairments out of the ecosystem"); ?>
                 <?php
                         tprog_add_item("", "", "
 <p>Resolving service impairments</p>
@@ -92,7 +92,7 @@ AT&amp;T Labs, Bedminster, NJ, USA
                         ", "");
                 ?>
 
-                <?php tprog_add_session("17:00 &mdash; 17:30", "Research opportunities"); ?>
+                <?php tprog_add_session("16:30 &mdash; 17:00", "Research opportunities"); ?>
 		</ul>
 
 
