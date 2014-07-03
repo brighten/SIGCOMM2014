@@ -28,7 +28,7 @@ $mypage = current_pagename();
 <div id="left-column">
 	<a href="index.php"><img class="center conflogo" src="images/logo.png" alt="ACM SIGCOMM 2014, August 2014, Chicago, Illinois" /></a>
 
-	<a href="#" onclick="$.mobile.silentScroll(0)" class="ui-btn-right" data-icon="grid"><h2 class="hcls">Site Menu</h2></a>
+	<!-- <a href="#" onclick="$.mobile.silentScroll(0)" class="ui-btn-right" data-icon="grid"><h2 class="hcls">Site Menu</h2></a> -->
 
 	<ul class="navlist" data-role="listview" data-inset="true" data-theme="d" data-divider-theme="b">
 		<li data-icon="false" <?php if ($mypage=="index.php") echo 'class="navselected"' ?> ><a href="index.php">Home</a></li>
