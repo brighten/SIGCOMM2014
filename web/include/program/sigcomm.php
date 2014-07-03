@@ -80,7 +80,7 @@
 					?>
 							
 				<?php tprog_add_item(
-					"Ib-KV: Using Infiniband Effectively for Key-Value Services",
+					"Using RDMA Efficiently for Key-Value Services",
 					"",
 					"Anuj Kalia (Carnegie Mellon University); Michael Kaminsky (Intel Labs); David Andersen (Carnegie Mellon University)",
 					"",

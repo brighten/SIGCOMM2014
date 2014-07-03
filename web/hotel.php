@@ -85,6 +85,7 @@
 
 <ul>
 		<li>Rate: $150/night, includes complimentary high-speed Internet access</li>
+		<li>Group name: SIGCOMM Overflow</li>
 		<li>Hotel cut-off date: July 16, 2014</li>
 
 	<li>Directions to the conference venue:
