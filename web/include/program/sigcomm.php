@@ -316,7 +316,7 @@
 				<?php tprog_add_item(
 					"Application-Driven Bandwidth Guarantees in Datacenters",
 					"",
-					"Jeongkeun Lee (HP Labs); Yoshio Turner (HP Labs); Myungjin Lee (Edinburgh University); Lucian Popa (Databricks); Joon-Myung Kang (HP Labs); Sujata Banerjee (HP Labs); Puneet Sharma (HP Labs)",
+					"Jeongkeun Lee (HP Labs); Yoshio Turner (HP Labs); Myungjin Lee (Edinburgh University); Lucian Popa (Databricks); Sujata Banerjee (HP Labs); Joon-Myung Kang (HP Labs); Puneet Sharma (HP Labs)",
 					"",
 					"",
 					"");
