@@ -89,7 +89,7 @@
 					?>
 							
 				<?php tprog_add_item(
-					"ProCel: Smart Traffic handling for a Scalable Software EPC",
+					"ProCel: Smart Traffic Handling for a Scalable Software EPC",
 					"",
 					"Kanthi Nagaraj; Sachin Katti",
 					"",
@@ -137,7 +137,7 @@
 					?>
 							
 				<?php tprog_add_item(
-					"Toward Systematic Detection and Resolution of Network Control Conflicts",
+					"Towards Systematic Detection and Resolution of Network Control Conflicts",
 					"",
 					"Dennis Volpano; Xin Sun; Geoffrey Xie",
 					"",
@@ -164,7 +164,7 @@
 					?>
 							
 				<?php tprog_add_item(
-					"Distributed Collaborative Monitoring in Software Defined Networks",
+					"Distributed and Collaborative Traffic Monitoring in Software Defined Networks",
 					"",
 					"Ye Yu; Chen Qian; Xin Li",
 					"",
@@ -227,7 +227,7 @@
 					?>
 							
 				<?php tprog_add_item(
-					"Using Mac Addresses as Efficient Routing Labels in Data Centers",
+					"Using MAC Addresses as Efficient Routing Labels in Data Centers",
 					"",
 					"Arne Schwabe; Holger Karl",
 					"",
@@ -245,7 +245,7 @@
 					?>
 							
 				<?php tprog_add_item(
-					"Optimizing rules placement in OpenFlow networks: trading routing for better efficiency",
+					"Optimizing Rules Placement in OpenFlow Networks: Trading Routing for Better Efficiency",
 					"",
 					"Xuan-Nam NGUYEN; Damien SAUCEZ; Chadi BARAKAT; Thierry TURLETTI",
 					"",
@@ -305,7 +305,7 @@
 					?>
 							
 				<?php tprog_add_item(
-					"CAB: A Reactive Wildcard Rule Caching System for Software Defined Networks",
+					"CAB: A Reactive Wildcard Rule Caching System for Software-Defined Networks",
 					"",
 					"Bo Yan; Yang Xu; Hongya Xing; Kang Xi; H. Jonathan Chao",
 					"",
@@ -377,7 +377,7 @@
 					?>
 							
 				<?php tprog_add_item(
-					"Real-time alpha fairness based traffic engineering",
+					"Real Time Alpha-fairness Based Traffic Engineering",
 					"",
 					"Bill McCormick; Frank Kelly; Patrice Plante; Paul Gunning; Peter Ashwood-Smith",
 					"",
@@ -422,7 +422,7 @@
 					?>
 							
 				<?php tprog_add_item(
-					"A Secure Computation Framework for Software Defined Networks",
+					"A Secure Computation Framework for SDNs",
 					"",
 					"Nachikethas A. Jagadeesan; Ranjan Pal; Kaushik Nadikuditi; Yan Huang; Minlan Yu; Elaine Shi",
 					"",
@@ -440,7 +440,7 @@
 					?>
 							
 				<?php tprog_add_item(
-					"Flow-Based Load Balancing in Multipathed Layer-2 Networks using OpenFlow and Multipath TCP",
+					"Flow-Based Load Balancing in Multipathed Layer-2 Networks using OpenFlow and Multipath-TCP",
 					"",
 					"Michael Bredel; Zdravko Bozakov; Artur Barczyk; Harvey Newman",
 					"",
@@ -449,7 +449,7 @@
 					?>
 							
 				<?php tprog_add_item(
-					"SDLoad: An extensible framework for SDN workload generation",
+					"SDLoad: An Extensible Framework for SDN Workload Generation",
 					"",
 					"Nicolas Laurent; Stefano Vissicchio; Marco Canini",
 					"",
@@ -458,7 +458,7 @@
 					?>
 							
 				<?php tprog_add_item(
-					"AeroFlux: A Near-Sighted Controller Architecture for Software-Defined Wireless Networks",
+					"Towards a Scalable and Near-Sighted Control Plane Architecture for WiFi SDNs",
 					"",
 					"Julius Schulz-Zander; Nadi Sarrar; Stefan Schmid",
 					"",
@@ -548,7 +548,7 @@
 					?>
 							
 				<?php tprog_add_item(
-					"RadioVisor: A Slicing Plane for Radio Access Networks",
+					"Radio Visor : A Slicing Plane for Radio Access Networks",
 					"",
 					"Aditya Gudipati; Li Erran Li; Sachin Katti",
 					"",
