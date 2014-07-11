@@ -1,0 +1,19 @@
+<ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
+{% for session in session_list %}
+	{% if session.time and session.speaker %}
+		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
+			<h3 class="ui-li-heading">{{session.time | e}} {{session.title | e}}</h3>
+			<p class="ui-li-desc">{{session.speaker | e}}</p>
+		</li>
+	{% elif session.speaker %}
+		<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
+			<h3 class="ui-li-heading">{{session.title | e}}</h3>
+			<p class="ui-li-desc">{{session.speaker | e}}</p>
+		</li>
+	{% else %}
+		<li class="ui-bar-d ui-li ui-li-divider ui-bar-b" data-role="list-divider" role="heading">
+			<h3 class="ui-li-heading">{{session.time | e}} {{session.title | e}}</h3>
+		</li>
+	{% endif %}
+{% endfor %}
+</ul>
