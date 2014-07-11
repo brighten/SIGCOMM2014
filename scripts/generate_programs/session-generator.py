@@ -19,5 +19,5 @@ template = env.get_template('session-template.html')
 output_from_parsed_template = template.render(session_list=session_list)
 
 # to save the results
-with open("my_new_file.html", "wb") as fh:
+with open("../../web/include/program/dcc.php", "wb") as fh:
     fh.write(output_from_parsed_template.encode('ascii', 'xmlcharrefreplace'))
