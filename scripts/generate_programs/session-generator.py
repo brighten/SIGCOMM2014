@@ -4,7 +4,7 @@ import gspread
 session_list = []
 # Login with your Google account
 gc = gspread.login('sigcomm14@gmail.com', 'sigcomm2014')
-wks = gc.open("dcc").sheet1
+wks = gc.open("sigcomm2014").worksheet("dcc")
 list_of_lists = wks.get_all_values()
 list_of_lists.pop(0)
 
