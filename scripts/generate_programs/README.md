@@ -1,3 +1,9 @@
+`upload_google_sheet.py` is used for uploading xlsx sheet in the input_data folder.
+
+`sesssion-generator.py` is used for generating .php file in web/include/program.
+
+`xlsx_list.txt` contains a list of xlsx files read by scripts
+
 ## Install Dependency 
 ###From PyPI
 ```
