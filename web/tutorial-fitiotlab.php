@@ -5,6 +5,8 @@
 
 <h1 class="hcls">Tutorial: FIT IoT-LAB: A Powerful Tool for Very Large Scale Open Wireless Sensor Network Experimentation</h1>
 
+<div class="border ui-corner-all ui-shadow"><div style="padding:2em;"><b><i>Due to low enrollment, this tutorial has been cancelled. We sincerely apologize for the inconvenience.</i></b></div></div>
+
 <p><b>Half day tutorial: Friday morning, 22 August 2014</b></p>
 
 

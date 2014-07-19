@@ -5,7 +5,7 @@
 
 <h1 class="hcls">Tutorial: Protocols for Data Center Network Virtualization and Cloud Computing</h1>
 
-<p><b>Half day tutorial: Friday afternoon, 22 August 2014</b></p>
+<p><b>Half day tutorial: Friday morning, 22 August 2014</b></p>
 
 
 <h2 class=hcls>Organizer</h2>

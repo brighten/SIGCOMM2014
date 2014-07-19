@@ -7,6 +7,7 @@
 <h3 class=hcls>Gold</h3>
 
 <div class=supporter><div>
+<a href="https://meraki.cisco.com"><img src="images/sponsors/cisco_meraki.png" alt="Cisco Meraki" style="width: 220px;"/></a>
 <a href="http://www.ericsson.com/"><img src="images/sponsors/ericsson.png" alt=ERICSSON style="width: 110px;"/></a>
 </div></div>
 

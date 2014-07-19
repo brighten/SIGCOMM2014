@@ -5,6 +5,8 @@
 
 <h1 class="hcls">Tutorial: GENI: A Virtual Laboratory for Exploring Novel Networking and Distributed Systems Architectures</h1>
 
+<div class="border ui-corner-all ui-shadow"><div style="padding:2em;"><b><i>Due to low enrollment, this tutorial has been cancelled. We sincerely apologize for the inconvenience.</i></b></div></div>
+
 <p><b>Full day Tutorial: Friday, 22 August 2014</b></p>
 
 <h2 class=hcls>Organizers</h2>

@@ -5,6 +5,7 @@
 
 <h1 class="hcls">Tutorial: Managing Smartphone Performance</h1>
 
+<div class="border ui-corner-all ui-shadow"><div style="padding:2em;"><b><i>Due to low enrollment, this tutorial has been cancelled. We sincerely apologize for the inconvenience.</i></b></div></div>
 
 <p><b>Full-day Tutorial: Monday, 18th August 2014</b></p>
 

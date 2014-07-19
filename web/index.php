@@ -9,10 +9,6 @@
 
 <p>SIGCOMM is the flagship annual conference of the ACM Special Interest Group on Data Communication (SIGCOMM) on the applications, technologies, architectures, and protocols for computer communication.</p>
 
-<h2 class="hcls">Conference Schedule</h2>
-
-<a href="doc/schedule.pdf"  rel="external"><img src="doc/schedule.png" alt="SIGCOMM Schedule" style="width: 100%;"></a>
-
 <h2 class="hcls">News</h2>
 <ul data-role="listview" data-inset="true" data-theme="d" class="datetbl">
 <?php
@@ -20,8 +16,12 @@
 ?>
 </ul>
 <script>
-$(".newslibtn").siblings().slice(10).hide();
+$(".newslibtn").siblings().slice(6).hide();
 </script>
+
+<h2 class="hcls">Conference Schedule</h2>
+
+<a href="doc/schedule.pdf"  rel="external"><img src="doc/schedule.png" alt="SIGCOMM Schedule" style="width: 100%;"></a>
 
 <h2 class=hcls>Important Dates</h2>
 

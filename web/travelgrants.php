@@ -53,9 +53,9 @@
 </ol>
 
 
-<h2 class="hcls">AT&amp;T Future Star Sigcomm Travel Award</h2>
+<h2 class="hcls">AT&amp;T SIGCOMM Travel Award</h2>
  
-<p>The AT&amp;T Future Star Sigcomm Travel award is to encourage and support students who have serious interest in computer networking and telecommunication and work on research topics towards solving real world problems and challenges to attend the SIGCOMM conference. </p>
+<p>The AT&amp;T SIGCOMM Travel award is to encourage and support students who have serious interest in computer networking and telecommunication and work on research topics towards solving real world problems and challenges to attend the SIGCOMM conference. </p>
 
 <h3 class="hcls">Eligibility</h3>
 <ol>
