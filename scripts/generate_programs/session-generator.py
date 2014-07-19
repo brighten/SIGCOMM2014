@@ -1,14 +1,26 @@
+#
+# Code developed by Xuefeng Zhu <xzhu15@illinois.edu> for SIGCOMM 2014 web site.
+# Original verison July 2014
+#
+
 from jinja2 import Environment, FileSystemLoader
 import gspread
 
+
+# Configuration item: Google username and password
 gc = gspread.login('sigcomm14@gmail.com', 'sigcomm2014')
+
+# Configuration item: Spreadsheet storing each program.
 sh = gc.open("sigcomm2014")
 
+
+# After this, nothing should need to change
 def generate_session(name):
 	session_list = []
 	# Login with your Google account
 	wks = sh.worksheet(name)
 	list_of_lists = wks.get_all_values()
+	# Remove the header row
 	list_of_lists.pop(0)	
 
 	for row in list_of_lists:
