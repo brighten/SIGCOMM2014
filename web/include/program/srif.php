@@ -27,7 +27,7 @@
 
 	
 		<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
-			<h3 class="ui-li-heading">None</h3>
+			<h3 class="ui-li-heading">Improving Transport Design for WARP SDR Deployments </h3>
 			<p class="ui-li-desc">Krishna C. Garikipati; Kang G. Shin.</p>
 		</li>
 	

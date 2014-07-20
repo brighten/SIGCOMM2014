@@ -10,7 +10,7 @@
 	
 		<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
 			<h3 class="ui-li-heading">Millions of Little Minions: Using Packets for Low Latency Network Programming and Visibility</h3>
-			<p class="ui-li-desc">Vimalkumar Jeyakumar (Stanford University); Mohammad Alizadeh (Cisco); Yilong Geng (Stanford University); Changhoon Kim (Windows Azure); David Mazi&#195;&#168;res (Stanford University)</p>
+			<p class="ui-li-desc">Vimalkumar Jeyakumar (Stanford University); Mohammad Alizadeh (Cisco); Yilong Geng (Stanford University); Changhoon Kim (Windows Azure); David Mazi&#232;res (Stanford University)</p>
 		</li>
 	
 
@@ -45,20 +45,20 @@
 	
 		<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
 			<h3 class="ui-li-heading">Guarantee IP Lookup Performance with FIB Explosion</h3>
-			<p class="ui-li-desc">Tong Yang (Institute of Computing Technology, Chinese Academy of Sciences); Gaogang xie (Institute of Computing Technology, Chinese Academy of Sciences); Yanbiao Li (Hunan University); Qiaobin Fu (Institute of Computing Technology, Chinese Academy of Sciences); Alex X. Liu (Dept of Computer Science &amp; Engineering, Michigan State University, East Lansing, MI, USA); Qi Li (Institute of Computing Technology, Chinese Academy of Sciences); Laurent Mathy (University of Li`ege)</p>
+			<p class="ui-li-desc">Tong Yang (Institute of Computing Technology, Chinese Academy of Sciences); Gaogang xie (Institute of Computing Technology, Chinese Academy of Sciences); Yanbiao Li (Hunan University); Qiaobin Fu (Institute of Computing Technology, Chinese Academy of Sciences); Alex X. Liu (Dept of Computer Science &amp; Engineering, Michigan State University, East Lansing, MI, USA); Qi Li (Institute of Computing Technology, Chinese Academy of Sciences); Laurent Mathy (University of Li&#232;ge)</p>
 		</li>
 	
 
 	
 		<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
-			<h3 class="ui-li-heading">Statesman: A Network-State Management Service</h3>
-			<p class="ui-li-desc">Peng Sun (Princeton University); Ahsan Arefin (Microsoft Corporation); Ratul Mahajan (Microsoft Research); Jennifer Rexford (Princeton University); Lihua Yuan (Microsoft Corporation); Ming Zhang (Microsoft Research)</p>
+			<h3 class="ui-li-heading">A Network-State Management Service</h3>
+			<p class="ui-li-desc">Peng Sun (Princeton University); Ratul Mahajan (Microsoft Research); Jennifer Rexford (Princeton University); Lihua Yuan (Microsoft Corporation); Ming Zhang (Microsoft Research); Ahsan Arefin (Microsoft Corporation)</p>
 		</li>
 	
 
 	
 		<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
-			<h3 class="ui-li-heading">Ib-KV: Using Infiniband Effectively for Key-Value Services</h3>
+			<h3 class="ui-li-heading">Using RDMA Efficiently for Key-Value Services</h3>
 			<p class="ui-li-desc">Anuj Kalia (Carnegie Mellon University); Michael Kaminsky (Intel Labs); David Andersen (Carnegie Mellon University)</p>
 		</li>
 	
@@ -66,7 +66,7 @@
 	
 		<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
 			<h3 class="ui-li-heading">SDX: A Software Defined Internet Exchange</h3>
-			<p class="ui-li-desc">Arpit Gupta (Georgia Institute of Technology); Laurent Vanbever (Princeton University); Muhammad Shahbaz (Georgia Institute of Technology); Sean P. Donovan (Georgia Institute of Technology); Brandon Schlinker (University of Southern California); Nick Feamster (Georgia Institute of Technology); Jennifer Rexford (Princeton University); Scott Shenker (UC Berkeley); Russ Clark (Georgia Institute of Technology); Ethan Katz-Bassett (University of Southern California); Scott Shenker (UC Berkeley and ICSI)</p>
+			<p class="ui-li-desc">Arpit Gupta (Georgia Institute of Technology); Laurent Vanbever (Princeton University); Muhammad Shahbaz (Georgia Institute of Technology); Sean P. Donovan (Georgia Institute of Technology); Brandon Schlinker (University of Southern California); Nick Feamster (Georgia Institute of Technology); Jennifer Rexford (Princeton University); Scott Shenker (UC Berkeley); Russ Clark (Georgia Institute of Technology); Ethan Katz-Bassett (University of Southern California)</p>
 		</li>
 	
 
@@ -121,7 +121,7 @@
 
 	
 		<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
-			<h3 class="ui-li-heading">FastPass: A Zero-Queue Datacenter Network Architecture</h3>
+			<h3 class="ui-li-heading">Fastpass: A Centralized &#34;Zero-Queue&#34;  Datacenter Network</h3>
 			<p class="ui-li-desc">Jonathan Perry (MIT); Amy Ousterhout (MIT); Hari Balakrishnan (MIT); Devavrat Shah (MIT); Hans Fugal (Facebook)</p>
 		</li>
 	
@@ -142,7 +142,7 @@
 
 	
 		<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
-			<h3 class="ui-li-heading">Turbocharging Backscatter Communication</h3>
+			<h3 class="ui-li-heading">Turbocharging Ambient Backscatter Communication</h3>
 			<p class="ui-li-desc">Aaron N. Parks (University of Washington); Angli Liu (University of Washington); Shyamnath Gollakota (University of Washington); Joshua R. Smith (University of Washington)</p>
 		</li>
 	
@@ -191,7 +191,7 @@
 
 	
 		<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
-			<h3 class="ui-li-heading">Connecting RF-Powered &#34;Things&#34; to the Internet</h3>
+			<h3 class="ui-li-heading">Wi-Fi Backscatter: Internet Connectivity for RF-Powered Devices</h3>
 			<p class="ui-li-desc">Bryce Kellogg (University of Washington); Aaron N. Parks (University of Washington); Shyamnath Gollakota (University of Washington); Joshua R. Smith (University of Washington); David Wetherall (University of Washington)</p>
 		</li>
 	
@@ -241,7 +241,7 @@
 	
 		<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
 			<h3 class="ui-li-heading">Application-Driven Bandwidth Guarantees in Datacenters</h3>
-			<p class="ui-li-desc">Jeongkeun Lee (HP Labs); Yoshio Turner (HP Labs); Myungjin Lee (Edinburgh University); Lucian Popa (Databricks); Joon-Myung Kang (HP Labs); Sujata Banerjee (HP Labs); Puneet Sharma (HP Labs)</p>
+			<p class="ui-li-desc">Jeongkeun Lee (HP Labs); Yoshio Turner (HP Labs); Myungjin Lee (Edinburgh University); Lucian Popa (Databricks); Sujata Banerjee (HP Labs); Joon-Myung Kang (HP Labs); Puneet Sharma (HP Labs)</p>
 		</li>
 	
 
