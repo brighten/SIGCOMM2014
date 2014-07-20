@@ -6,7 +6,7 @@
 
 ## Basic Usage for `session-generator`
 
-make sure to create a file named `google_info.txt`, which will look like
+Create a file named `google_info.txt`, which will look like
 ```
 xxxxx@gmail.com
 xxxxx
@@ -15,8 +15,9 @@ https://docs.google.com/spreadsheets/...........
 The first line is google account, the second line is password for the account, and the third line is url to the sheet.
 `google_info.txt` will be ingored by git, so do not worry that it will be commited to github by accident.
 
-Run the script after intalling dependencies using `python session-genertor.py
-`
+Run the script after intalling dependencies using `python session-genertor.py < google_info.txt`
+
+If you do not want to expose your Google Account info in a file, just run script using `python session-genertor.py`
 
 
 ## Install Dependency 
