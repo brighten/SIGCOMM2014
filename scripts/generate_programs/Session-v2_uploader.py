@@ -6,14 +6,12 @@ import string
 def upload_sheet(name):
 	book = Workbook("input_data/%s.xlsx" %name)
 	for sheet in book:
-		worksheet = sh.add_worksheet(title=name, rows=str(len(sheet.rows())), cols=str(len(sheet.cols())+1))
-
-		row_count = 0 
+		worksheet = sh.add_worksheet(title=name, rows=str(len(sheet.rows())), cols=str(len(sheet.cols())+2))
+		row_count = 1 
 		session_flag = False
 		for row, cells in sheet.rows().iteritems():
 			row_count += 1 if not session_flag else 0
 			col_count = 2
-			
 			for cell in cells:
 				if session_flag:
 					session_flag = False

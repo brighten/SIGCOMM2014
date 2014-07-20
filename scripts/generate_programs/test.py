@@ -8,7 +8,7 @@ def upload_sheet(name):
 	for sheet in book:
 		worksheet = sh.add_worksheet(title=name, rows=str(len(sheet.rows())), cols=str(len(sheet.cols())+1))
 
-		row_count = 0 
+		row_count = 1 
 		session_flag = False
 		for row, cells in sheet.rows().iteritems():
 			row_count += 1 if not session_flag else 0
