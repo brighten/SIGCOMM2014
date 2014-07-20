@@ -3,7 +3,7 @@
 	{% if session.time and session.speaker %}
 		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
 			<h3 class="ui-li-heading">{{session.time | e}} {{session.title | e}}</h3>
-			<p class="ui-li-desc">{{session.speaker | e}}</p>
+			<p class="ui-li-desc">Session Chair: {{session.speaker | e}}</p>
 		</li>
 	{% elif session.speaker %}
 		<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">

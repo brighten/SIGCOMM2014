@@ -25,6 +25,6 @@ if __name__ == '__main__':
 		try:
 			upload_sheet(xlsx.strip())
 		except Exception, message:
-			print "Fail! " + message
+			print message
 	print "All xlsx get uploaded"
 
