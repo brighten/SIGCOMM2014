@@ -1,0 +1,5 @@
+f = open('input_data/dcc.tsv')
+a = f.readlines()
+print len(a) 
+f.seek(0)
+print f.readline().split('\t')

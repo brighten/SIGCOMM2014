@@ -24,7 +24,7 @@ if __name__ == '__main__':
 	for xlsx in xlsx_list:
 		try:
 			upload_sheet(xlsx.strip())
-		except:
-		 	print "Fail! %s has existed in Google Sheet" %xlsx.strip()
+		except Exception, message:
+			print "Fail! " + message
 	print "All xlsx get uploaded"
 
