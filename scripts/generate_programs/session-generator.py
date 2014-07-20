@@ -7,10 +7,9 @@ from jinja2 import Environment, FileSystemLoader
 import gspread
 
 # After this, nothing should need to change
-def generate_session(name):
+def generate_session(wks):
 	session_list = []
 	# Login with your Google account
-	wks = sh.worksheet(name)
 	list_of_lists = wks.get_all_values()
 	# Remove the header row
 	list_of_lists.pop(0)	
@@ -26,16 +25,16 @@ def generate_session(name):
 	output_from_parsed_template = template.render(session_list=session_list)	
 
 	# to save the results
-	with open("../../web/include/program-tmp/%s.php" %name, "wb") as fh:
+	with open("../../web/include/program-tmp/%s.php" %wks.title, "wb") as fh:
 	    fh.write(output_from_parsed_template.encode('ascii', 'xmlcharrefreplace'))
-	    print "../../web/include/program-tmp/%s.php generates" %name
+	    print "../../web/include/program-tmp/%s.php generates" %wks.title
 
 if __name__ == '__main__':
 	account, password, url = [line.strip() for line in open("google_info.txt").readlines()]
 	gc = gspread.login(account, password)
 	sh = gc.open_by_url(url)
+	worksheet_list = sh.worksheets()
 
-	xlsx_list = open("xlsx_list.txt")
-	for xlsx in xlsx_list:
-		generate_session(xlsx.strip())
+	for worksheet in worksheet_list:
+		generate_session(worksheet)
 	print "All sessions get generated"
