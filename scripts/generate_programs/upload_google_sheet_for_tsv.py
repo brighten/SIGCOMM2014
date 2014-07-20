@@ -1,8 +1,5 @@
 import gspread
 
-gc = gspread.login('sigcomm14@gmail.com', 'sigcomm2014')
-sh = gc.open("sigcomm2014")
-
 def upload_sheet(name):
 	book = open("input_data/%s.tsv" %name)
 	content = book.readlines() 
@@ -14,11 +11,16 @@ def upload_sheet(name):
 	print "%s is successfully uploaded" %name
 
 if __name__ == '__main__':
+
+	account, password, url = [line.strip() for line in open("google_info.txt").readlines()]
+	gc = gspread.login(account, password)
+	sh = gc.open_by_url(url)
+
 	xlsx_list = open("xlsx_list.txt")
 	for xlsx in xlsx_list:
 		try:
 			upload_sheet(xlsx.strip())
 		except Exception, message:
-			print "Fail! " + message
+			print message
 	print "All xlsx get uploaded"
 
