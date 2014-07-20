@@ -30,7 +30,9 @@ def generate_session(wks):
 	    print "../../web/include/program-tmp/%s.php generates" %wks.title
 
 if __name__ == '__main__':
-	account, password, url = [line.strip() for line in open("google_info.txt").readlines()]
+	account = raw_input("Enter Your Google Account:\n")
+	password = raw_input("Enter Your Google Account Password:\n")
+	url = raw_input("Enter the Document URL:\n")
 	gc = gspread.login(account, password)
 	sh = gc.open_by_url(url)
 	worksheet_list = sh.worksheets()

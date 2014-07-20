@@ -17,7 +17,9 @@ def upload_sheet(name):
 	print "%s is successfully uploaded" %name
 
 if __name__ == '__main__':
-	account, password, url = [line.strip() for line in open("google_info.txt").readlines()]
+	account = raw_input("Enter Your Google Account:\n")
+	password = raw_input("Enter Your Google Account Password:\n")
+	url = raw_input("Enter the Document URL:\n")
 	gc = gspread.login(account, password)
 	sh = gc.open_by_url(url)
 	xlsx_list = open("xlsx_list.txt")
