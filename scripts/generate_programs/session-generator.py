@@ -6,14 +6,6 @@
 from jinja2 import Environment, FileSystemLoader
 import gspread
 
-
-# Configuration item: Google username and password
-gc = gspread.login('sigcomm14@gmail.com', 'sigcomm2014')
-
-# Configuration item: Spreadsheet storing each program.
-sh = gc.open("sigcomm2014")
-
-
 # After this, nothing should need to change
 def generate_session(name):
 	session_list = []
@@ -34,11 +26,15 @@ def generate_session(name):
 	output_from_parsed_template = template.render(session_list=session_list)	
 
 	# to save the results
-	with open("../../web/include/program/%s.php" %name, "wb") as fh:
+	with open("../../web/include/program-tmp/%s.php" %name, "wb") as fh:
 	    fh.write(output_from_parsed_template.encode('ascii', 'xmlcharrefreplace'))
-	    print "../../web/include/program/%s.php generates" %name
+	    print "../../web/include/program-tmp/%s.php generates" %name
 
 if __name__ == '__main__':
+	account, password, url = [line.strip() for line in open("google_info.txt").readlines()]
+	gc = gspread.login(account, password)
+	sh = gc.open_by_url(url)
+
 	xlsx_list = open("xlsx_list.txt")
 	for xlsx in xlsx_list:
 		generate_session(xlsx.strip())
