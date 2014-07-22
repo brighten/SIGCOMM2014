@@ -1,6 +1,7 @@
 <h3 class=hcls>Platinum</h3>
 <div class=supporter><div>
 <a href="//www.cisco.com/"><img src="images/sponsors/cisco.png" alt=Verisign style="width: 130px;"/></a>
+<a href="//www.nsf.gov/"><img src="images/sponsors/nsf.gif" alt=NSF style="width: 130px;"/></a>
 <a href="//www.verisigninc.com/"><img src="images/sponsors/verisign.png" alt=Verisign style="width: 130px;"/></a>
 </div></div>
 
