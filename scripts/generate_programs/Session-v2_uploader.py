@@ -44,8 +44,4 @@ if __name__ == '__main__':
 	name = "Session-v2"
 	upload_sheet(name)
 
-	try:
-		pass
-	except Exception, message:
-		print message
 	print "All xlsx get uploaded"
