@@ -1,8 +1,4 @@
-`upload_google_sheet.py` is used for uploading xlsx sheet in the input_data folder.
-
 `session-generator.py` is used for generating .php file in web/include/program.
-
-`xlsx_list.txt` contains a list of xlsx files read by scripts
 
 ## Basic Usage for `session-generator`
 
@@ -30,7 +26,7 @@ sudo port install py27-jinja2
 pip install gspread
 pip install Jinja2
 ```
-####From GitHub
+###From GitHub
 ```
 git clone https://github.com/burnash/gspread.git
 cd gspread
@@ -39,8 +35,14 @@ git clone git://github.com/mitsuhiko/jinja2.git
 cd jinja2
 ln -s jinja2 /usr/lib/python2.X/site-packages
 ```
-
-
-
+###From Macport
+```
 sudo port select --set python python27
 sudo port select --set pip pip27
+```
+
+##Files in the old folder
+`upload_google_sheet_for_***.py` is used for uploading xlsx sheet in the input_data folder.
+`session-v2_uploader.py` is used for uploading session-v2.xls file to Google Sheet
+'generate-prgram.ml' is the Ocaml script for generating static page
+
