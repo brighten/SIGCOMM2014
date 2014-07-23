@@ -15,9 +15,9 @@ https://docs.google.com/spreadsheets/...........
 The first line is google account, the second line is password for the account, and the third line is url to the sheet.
 `google_info.txt` will be ingored by git, so do not worry that it will be commited to github by accident.
 
-Run the script after intalling dependencies using `python session-generator.py < google_info.txt`
+Run the script after installing dependencies using `python session-generator.py < google_info.txt`
 
-If you do not want to expose your Google Account info in a file, just run script using `python session-genertor.py`
+If you do not want to expose your Google Account info in a file, just run script using `python session-generator.py`
 
 
 ## Install Dependency 

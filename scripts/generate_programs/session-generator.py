@@ -15,9 +15,10 @@ def generate_session(wks):
 	list_of_lists.pop(0)	
 
 	for row in list_of_lists:
-		session = { "time": row[0],
-					"title": row[1],	
-					"speaker": row[2]}
+		session = { "type": row[0],
+					"time": row[1],
+					"title": row[2],	
+					"speaker": row[3]}
 		session_list.append(session)	
 
 	env = Environment(loader=FileSystemLoader('templates'))

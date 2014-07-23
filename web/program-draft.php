@@ -10,6 +10,10 @@
     include ("include/program-tmp/sigcomm.php");
 ?>
 
+<p>
+If you have questions, please email the <a class="lnkcls" href="mailto:sigcomm2013-gen-chairs@acm.org">general chairs</a>.
+</p>
+
 
 <?php
     include ("include/footer.php");

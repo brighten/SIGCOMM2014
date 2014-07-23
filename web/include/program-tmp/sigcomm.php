@@ -1,8 +1,24 @@
-<ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
+<div id="prog_ctrl" data-role="navbar">
+	<ul>
+		<li><a href="#">Tuesday</a></li>
+		<li><a href="#">Wednesday</a></li>
+		<li><a href="#">Thursday</a></li>
+		<li><a href="#" class="ui-btn-active ui-state-persist">All</a></li>
+	</ul>
+</div>
+
+<ul id="proglist" data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-dividertheme="a">
+<!-- <ul id="proglist" data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog"> -->
+
 
 	
-		<li class="ui-bar-d ui-li ui-li-divider ui-bar-b" data-role="list-divider" role="heading">
+		<li class="heading" data-role="list-divider" style="display:block"><h3>Tuesday, August 18, 2014</h3></li>
+	
+
+	
+		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
 			<h3 class="ui-li-heading">8:30am - 10:10am  Session 1: Opening</h3>
+			
 		</li>
 	
 
@@ -14,9 +30,17 @@
 	
 
 	
+		<li class="ui-bar-d ui-li ui-li-divider ui-bar-b" data-role="list-divider" role="heading">
+			<h3 class="ui-li-heading">10:10am - 10:35am Coffee Break</h3>
+		</li>
+	
+
+	
 		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
-			<h3 class="ui-li-heading">10:35am - 12:15am  Session 2: Data Plane</h3>
-			<p class="ui-li-desc">Session Chair: Brighten Godfrey</p>
+			<h3 class="ui-li-heading">10:35am - 12:15pm  Session 2: Data Plane</h3>
+			
+				<p class="ui-li-desc">Session Chair: Brighten Godfrey</p>
+			
 		</li>
 	
 
@@ -49,9 +73,17 @@
 	
 
 	
+		<li class="ui-bar-d ui-li ui-li-divider ui-bar-b" data-role="list-divider" role="heading">
+			<h3 class="ui-li-heading">12:15pm - 1:30pm Lunch</h3>
+		</li>
+	
+
+	
 		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
 			<h3 class="ui-li-heading">1:30pm - 3:35pm  Session 3: Network Architecture (1)</h3>
-			<p class="ui-li-desc">Session Chair: Adrian Perrig</p>
+			
+				<p class="ui-li-desc">Session Chair: Adrian Perrig</p>
+			
 		</li>
 	
 
@@ -92,8 +124,17 @@
 
 	
 		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
+			<h3 class="ui-li-heading">3:35pm - 4:35pm Posters and Demos</h3>
+			
+		</li>
+	
+
+	
+		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
 			<h3 class="ui-li-heading">4:35pm - 6:15pm  Session 4: Middleboxes And Network Services</h3>
-			<p class="ui-li-desc">Session Chair: Vyas Sekar</p>
+			
+				<p class="ui-li-desc">Session Chair: Vyas Sekar</p>
+			
 		</li>
 	
 
@@ -126,9 +167,15 @@
 	
 
 	
+		<li class="heading" data-role="list-divider" style="display:block"><h3>Wednesday, August 20, 2014</h3></li>
+	
+
+	
 		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
 			<h3 class="ui-li-heading">8:30am - 10:10am  Session 5: Wireless (1)</h3>
-			<p class="ui-li-desc">Session Chair: Shyamnath Gollakota</p>
+			
+				<p class="ui-li-desc">Session Chair: Shyamnath Gollakota</p>
+			
 		</li>
 	
 
@@ -161,9 +208,17 @@
 	
 
 	
+		<li class="ui-bar-d ui-li ui-li-divider ui-bar-b" data-role="list-divider" role="heading">
+			<h3 class="ui-li-heading">10:10am - 10:35am Coffee Break</h3>
+		</li>
+	
+
+	
 		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
-			<h3 class="ui-li-heading">10:35am - 12:15am  Session 6: Monitoring And Diagnostics</h3>
-			<p class="ui-li-desc">Session Chair: Aditya Akella</p>
+			<h3 class="ui-li-heading">10:35am - 12:15pm  Session 6: Monitoring And Diagnostics</h3>
+			
+				<p class="ui-li-desc">Session Chair: Aditya Akella</p>
+			
 		</li>
 	
 
@@ -184,7 +239,7 @@
 	
 		<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
 			<h3 class="ui-li-heading">Planck: Millisecond-scale Monitoring and Control for Commodity Networks</h3>
-			<p class="ui-li-desc">Jeff Rasley (Brown University); Brent Stephens (Rice University); Colin Dixon (IBM Research -- Austin, TX); Eric Rozner (IBM Research -- Austin, TX); Wes Felter (IBM Research -- Austin, TX); Kanak Agarwal (IBM Research -- Austin, TX); John Carter (IBM Research -- Austin, TX); Rodrigo Fonseca (Brown University); Colin Dixon (personal)</p>
+			<p class="ui-li-desc">Jeff Rasley (Brown University); Brent Stephens (Rice University); Colin Dixon (Brocade); Eric Rozner (IBM Research -- Austin, TX); Wes Felter (IBM Research -- Austin, TX); Kanak Agarwal (IBM Research -- Austin, TX); John Carter (IBM Research -- Austin, TX); Rodrigo Fonseca (Brown University)</p>
 		</li>
 	
 
@@ -196,9 +251,17 @@
 	
 
 	
+		<li class="ui-bar-d ui-li ui-li-divider ui-bar-b" data-role="list-divider" role="heading">
+			<h3 class="ui-li-heading">12:15pm - 1:30pm Lunch</h3>
+		</li>
+	
+
+	
 		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
 			<h3 class="ui-li-heading">1:30pm - 3:35pm  Session 7: Novel Datacenter Network Designs</h3>
-			<p class="ui-li-desc">Session Chair: Ratul Mahajan</p>
+			
+				<p class="ui-li-desc">Session Chair: Ratul Mahajan</p>
+			
 		</li>
 	
 
@@ -226,7 +289,7 @@
 	
 		<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
 			<h3 class="ui-li-heading">FireFly: A Reconfigurable Wireless Datacenter Fabric using Free-Space Optics</h3>
-			<p class="ui-li-desc">Navid Hamedazimi (Stony Brook University); Zafar Ayyub Qazi (Stony Brook University); Himanshu Gupta (Stony Brook University); Samir R Das (Stony Brook University); Vyas Sekar (Carnegie Mellon); Jon P Longtin (Stony Brook University); himanshu shah (SBU); ashish tanwer (SBU); </p>
+			<p class="ui-li-desc">Navid Hamedazimi (Stony Brook University); Zafar Ayyub Qazi (Stony Brook University); Himanshu Gupta (Stony Brook University); Samir R Das (Stony Brook University); Vyas Sekar (Carnegie Mellon); Jon P Longtin (Stony Brook University); Himanshu Shah (SBU); Ashish Tanwer (SBU); </p>
 		</li>
 	
 
@@ -239,15 +302,24 @@
 
 	
 		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
+			<h3 class="ui-li-heading">3:35pm - 4:35pm Posters and Demos</h3>
+			
+		</li>
+	
+
+	
+		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
 			<h3 class="ui-li-heading">4:35pm - 6:05pm  Session 8: Network Architecture (2)</h3>
-			<p class="ui-li-desc">Session Chair: John Wroclawski</p>
+			
+				<p class="ui-li-desc">Session Chair: John Wroclawski</p>
+			
 		</li>
 	
 
 	
 		<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
-			<h3 class="ui-li-heading">Best of CCR: Bridging the Gap between Internet Standardization and Networking Research</h3>
-			<p class="ui-li-desc">Aaron Yi Ding (University of Cambridge), Jouni Korhonen(Broadcom), Teemu Savolainen (Nokia), Markku Kojo (Helsinki Institute for Information Technology), Joerg Ott (Aalto University), Sasu Tarkoma (University of Helsinki), Jon Crowcroft (University of Cambridge)</p>
+			<h3 class="ui-li-heading"><img src="images/star.png" alt="*" width="24px" height="25px"/>Best of CCR: Bridging the Gap between Internet Standardization and Networking Research</h3>
+			<p class="ui-li-desc">Aaron Yi Ding (University of Cambridge), Jouni Korhonen (Broadcom), Teemu Savolainen (Nokia), Markku Kojo (Helsinki Institute for Information Technology), Joerg Ott (Aalto University), Sasu Tarkoma (University of Helsinki), Jon Crowcroft (University of Cambridge)</p>
 		</li>
 	
 
@@ -273,9 +345,15 @@
 	
 
 	
+		<li class="heading" data-role="list-divider" style="display:block"><h3>Thursday, August 21, 2014</h3></li>
+	
+
+	
 		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
 			<h3 class="ui-li-heading">8:30am - 10:10am  Session 9: Scheduling In Datacenter Networks</h3>
-			<p class="ui-li-desc">Session Chair: Rodrigo Fonseca</p>
+			
+				<p class="ui-li-desc">Session Chair: Rodrigo Fonseca</p>
+			
 		</li>
 	
 
@@ -308,9 +386,17 @@
 	
 
 	
+		<li class="ui-bar-d ui-li ui-li-divider ui-bar-b" data-role="list-divider" role="heading">
+			<h3 class="ui-li-heading">10:10am - 10:35am Coffee Break</h3>
+		</li>
+	
+
+	
 		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
-			<h3 class="ui-li-heading">10:35am - 12:15am  Session 10: Wireless (2)</h3>
-			<p class="ui-li-desc">Session Chair: Kyle Jamieson</p>
+			<h3 class="ui-li-heading">10:35am - 12:15pm  Session 10: Wireless (2)</h3>
+			
+				<p class="ui-li-desc">Session Chair: Kyle Jamieson</p>
+			
 		</li>
 	
 
@@ -323,14 +409,14 @@
 
 	
 		<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
-			<h3 class="ui-li-heading">Connecting RF-Powered &#34;Things&#34; to the Internet</h3>
+			<h3 class="ui-li-heading">Wi-Fi Backscatter: Internet Connectivity for RF-Powered Devices</h3>
 			<p class="ui-li-desc">Bryce Kellogg (University of Washington); Aaron N. Parks (University of Washington); Shyamnath Gollakota (University of Washington); Joshua R. Smith (University of Washington); David Wetherall (University of Washington)</p>
 		</li>
 	
 
 	
 		<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
-			<h3 class="ui-li-heading">Turbocharging Backscatter Communication</h3>
+			<h3 class="ui-li-heading">Turbocharging Ambient Backscatter Communication</h3>
 			<p class="ui-li-desc">Aaron N. Parks (University of Washington); Angli Liu (University of Washington); Shyamnath Gollakota (University of Washington); Joshua R. Smith (University of Washington)</p>
 		</li>
 	
@@ -343,9 +429,17 @@
 	
 
 	
+		<li class="ui-bar-d ui-li ui-li-divider ui-bar-b" data-role="list-divider" role="heading">
+			<h3 class="ui-li-heading">12:15pm - 1:30pm Lunch</h3>
+		</li>
+	
+
+	
 		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
 			<h3 class="ui-li-heading">1:30pm - 3:35pm  Session 11: Network Operations</h3>
-			<p class="ui-li-desc">Session Chair: Andrew Moore</p>
+			
+				<p class="ui-li-desc">Session Chair: Andrew Moore</p>
+			
 		</li>
 	
 
@@ -386,14 +480,23 @@
 
 	
 		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
-			<h3 class="ui-li-heading">4:35pm - 6:05pm  Session 12: Transport And CC</h3>
-			<p class="ui-li-desc">Session Chair: Jitendra Padhye</p>
+			<h3 class="ui-li-heading">3:35pm - 4:35pm Posters and Demos</h3>
+			
+		</li>
+	
+
+	
+		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
+			<h3 class="ui-li-heading">4:35pm - 6:05pm  Session 12: Transport and CC</h3>
+			
+				<p class="ui-li-desc">Session Chair: Jitendra Padhye</p>
+			
 		</li>
 	
 
 	
 		<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
-			<h3 class="ui-li-heading">Best of CCR: Peeking into the Invitation-based Adoption Process of OSN-based Applications</h3>
+			<h3 class="ui-li-heading"><img src="images/star.png" alt="*" width="24px" height="25px"/>Best of CCR: Peeking into the Invitation-based Adoption Process of OSN-based Applications</h3>
 			<p class="ui-li-desc">Mohammad Rezaur Rahman (UC Davis), Pierre-Andr Nol (UC Davis), Chen-Nee Chuah (UC Davis), Balachander Krishnamurthy (AT&amp;T Labs), Raissa M. D&#39;Souza (UC Davis), S. Felix Wu (UC Davis)</p>
 		</li>
 	
