@@ -287,3 +287,38 @@ $(document).bind('pagebeforeshow', function(event){
 	}
 
 });
+
+$(document).ready(function() {
+    $.mobile.activePage.find("#prog_ctrl a").click(function() {
+        // reset the search filter
+        $('input[data-type="search"]').val("");
+        $('input[data-type="search"]').trigger("change");
+
+        var day = $(this).text();
+        var hide = true;
+        var re = new RegExp("^" + day, "i");
+        var kids = $.mobile.activePage.find("#proglist").children();
+
+        kids.each(function() {
+            // if we're hitting a date divider, determine if we need to show or hide items
+            if ($(this).text().match(re)) {
+                // show the date divider and all following items
+                hide = false;
+            } else if (day == "All") {
+                // this is a new date divider, hide it and all following items
+                hide = false;
+            } else if ($(this).text().match("Tuesday|Wednesday|Thursday")) {
+                // this is a new date divider, hide it and all following items
+                hide = true;
+            }
+
+            // show or hide the items
+            if (hide) {
+                $(this).addClass("ui-screen-hidden");
+            } else {
+                $(this).removeClass("ui-screen-hidden");
+            }
+        });
+        $('input[data-type="search"]').trigger("change");
+    });
+})
