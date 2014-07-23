@@ -9,7 +9,7 @@ import gspread
 # After this, nothing should need to change
 def generate_session(wks):
 	session_list = []
-	# Login with your Google account
+	# Get all values in worksheet
 	list_of_lists = wks.get_all_values()
 	# Remove the header row
 	list_of_lists.pop(0)	
