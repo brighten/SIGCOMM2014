@@ -46,5 +46,5 @@ sudo port select --set pip pip27
 
 `session-v2_uploader.py` is used for uploading session-v2.xls file to Google Sheet
 
-'generate-prgram.ml' is the Ocaml script for generating static page
+`generate-prgram.ml` is the Ocaml script for generating static page
 
