@@ -18,8 +18,10 @@ If you do not want to expose your Google Account info in a file, just run script
 
 ## Install Dependency 
 ### On a Mac running Macports
+```
 sudo port install py27-jinja2
-# gspread should already be installed.
+```
+### gspread should already be installed.
 
 ###From PyPI
 ```
