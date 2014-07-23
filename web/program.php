@@ -6,11 +6,13 @@
 
 <h1 class="hcls">Conference Program</h1>
 
-<p>The papers accepted to the SIGCOMM 2014 main conference are listed below.  Sessions and presentation times will be posted at a later date.</p>
-
 <?php
     include ("include/program/sigcomm.php");
 ?>
+
+<p>
+If you have questions, please email the <a class="lnkcls" href="mailto:sigcomm2014-gen-chairs@acm.org">general chairs</a>.
+</p>
 
 
 <?php
