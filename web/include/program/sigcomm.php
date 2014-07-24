@@ -1,3 +1,4 @@
+
 <div id="prog_ctrl" data-role="navbar">
 	<ul>
 		<li><a href="#">Tuesday</a></li>
@@ -6,6 +7,7 @@
 		<li><a href="#" class="ui-btn-active ui-state-persist">All</a></li>
 	</ul>
 </div>
+
 
 <ul id="proglist" data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-dividertheme="a">
 <!-- <ul id="proglist" data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog"> -->
@@ -274,7 +276,7 @@
 
 	
 		<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
-			<h3 class="ui-li-heading">Using RDMA Efficiently for Key-Value Services</h3>
+			<h3 class="ui-li-heading">Ib-KV: Using Infiniband Effectively for Key-Value Services</h3>
 			<p class="ui-li-desc">Anuj Kalia (Carnegie Mellon University); Michael Kaminsky (Intel Labs); David Andersen (Carnegie Mellon University)</p>
 		</li>
 	

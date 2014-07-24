@@ -62,7 +62,7 @@
 		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
 			<h3 class="ui-li-heading">10:20am &#8211; 11:35am Session 2: Networking and Security</h3>
 			
-				<p class="ui-li-desc">Session Chair: Laurent Vanbever</p>
+				<p class="ui-li-desc">Session Chair: Paolo Costa</p>
 			
 		</li>
 	
@@ -92,7 +92,7 @@
 		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
 			<h3 class="ui-li-heading">11:35am &#8211; noon Poster Pitches</h3>
 			
-				<p class="ui-li-desc">Session Chair: Sue Moon</p>
+				<p class="ui-li-desc">Session Chair: Rick McGeer</p>
 			
 		</li>
 	
@@ -142,7 +142,7 @@
 		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
 			<h3 class="ui-li-heading">1:45pm-3:00pm Session 3: Optimization and Resource Allocation </h3>
 			
-				<p class="ui-li-desc">Session Chair: Kobus Van der Merwe</p>
+				<p class="ui-li-desc">Session Chair: Stefan Schmid</p>
 			
 		</li>
 	
