@@ -1,15 +1,29 @@
-<ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
+<div id="prog_ctrl" data-role="navbar">
+	<ul>
+		<li><a href="#">Tuesday</a></li>
+		<li><a href="#">Wednesday</a></li>
+		<li><a href="#">Thursday</a></li>
+		<li><a href="#" class="ui-btn-active ui-state-persist">All</a></li>
+	</ul>
+</div>
+
+<ul id="proglist" data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-dividertheme="a">
+<!-- <ul id="proglist" data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog"> -->
+
 
 	
 		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
 			<h3 class="ui-li-heading">9:00am &#8211; 9:15am Opening </h3>
-			<p class="ui-li-desc">Shyam Gollakota, Marina Petrova, Patrick Murphy</p>
+			
+				<p class="ui-li-desc">Session Chair: Shyam Gollakota, Marina Petrova, Patrick Murphy</p>
+			
 		</li>
 	
 
 	
-		<li class="ui-bar-d ui-li ui-li-divider ui-bar-b" data-role="list-divider" role="heading">
+		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
 			<h3 class="ui-li-heading">9:15am &#8211; 10:00am Keynote TBD</h3>
+			
 		</li>
 	
 
@@ -20,8 +34,9 @@
 	
 
 	
-		<li class="ui-bar-d ui-li ui-li-divider ui-bar-b" data-role="list-divider" role="heading">
+		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
 			<h3 class="ui-li-heading">10:15am &#8211; 11:30am Transport and Applications</h3>
+			
 		</li>
 	
 
@@ -53,8 +68,9 @@
 	
 
 	
-		<li class="ui-bar-d ui-li ui-li-divider ui-bar-b" data-role="list-divider" role="heading">
+		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
 			<h3 class="ui-li-heading">11:45am - 12:30pm Short papers  + Demo session</h3>
+			
 		</li>
 	
 
@@ -86,8 +102,9 @@
 	
 
 	
-		<li class="ui-bar-d ui-li ui-li-divider ui-bar-b" data-role="list-divider" role="heading">
+		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
 			<h3 class="ui-li-heading">2:00pm - 2:50pm Platforms</h3>
+			
 		</li>
 	
 
@@ -112,8 +129,9 @@
 	
 
 	
-		<li class="ui-bar-d ui-li ui-li-divider ui-bar-b" data-role="list-divider" role="heading">
+		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
 			<h3 class="ui-li-heading">3:00pm - 4:15pm MAC and Analog Network Coding</h3>
+			
 		</li>
 	
 
@@ -145,8 +163,9 @@
 	
 
 	
-		<li class="ui-bar-d ui-li ui-li-divider ui-bar-b" data-role="list-divider" role="heading">
+		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
 			<h3 class="ui-li-heading">4:30pm - 5:20pm Physical Layer Designs</h3>
+			
 		</li>
 	
 
@@ -165,8 +184,9 @@
 	
 
 	
-		<li class="ui-bar-d ui-li ui-li-divider ui-bar-b" data-role="list-divider" role="heading">
+		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
 			<h3 class="ui-li-heading">5:20pm - 5:30pm Closing Remarks</h3>
+			
 		</li>
 	
 
