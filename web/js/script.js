@@ -321,4 +321,5 @@ $(document).bind('pagebeforeshow', function(event) {
         });
         $('input[data-type="search"]').trigger("change");
     });
+    $("#prog_ctrl a").last().trigger('click');
 });
