@@ -6,6 +6,15 @@
 
 <h1 class="hcls">Conference Program</h1>
 
+<div id="prog_ctrl" data-role="navbar">
+	<ul>
+		<li><a href="#">Tuesday</a></li>
+		<li><a href="#">Wednesday</a></li>
+		<li><a href="#">Thursday</a></li>
+		<li><a href="#" class="ui-btn-active ui-state-persist">All</a></li>
+	</ul>
+</div>
+
 <?php
     include ("include/program/sigcomm.php");
 ?>

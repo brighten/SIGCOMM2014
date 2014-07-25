@@ -14,6 +14,12 @@
         include("include/program/dcc.php");
 ?>
 
+<h2 class=hcls>Many thanks to our sponsor</h2>
+
+<div class=supporter><div>
+<a href="http://www.ericsson.com/"><img src="images/sponsors/ericsson.png" alt=ERICSSON style="width: 110px;"/></a>
+</div></div>
+
 <h2 class="hcls">Workshop Goal</h2>
 
 <p>The DCC workshop is interdisciplinary and touches both distributed systems and networking aspects as well as cloud computing. We want to attract both industry relevant papers as well as papers from academic researchers working on the foundations of the distributed cloud.</p>

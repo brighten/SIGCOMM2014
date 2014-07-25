@@ -1,15 +1,22 @@
-<ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
+<ul id="proglist" data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-dividertheme="a">
+<!-- <ul id="proglist" data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog"> -->
+
 
 	
 		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
 			<h3 class="ui-li-heading">9:00am &#8211; 9:15am Opening </h3>
-			<p class="ui-li-desc">Shyam Gollakota, Marina Petrova, Patrick Murphy</p>
+			
+				<p class="ui-li-desc">Session Chair: Shyam Gollakota, Marina Petrova, Patrick Murphy</p>
+			
 		</li>
 	
 
 	
-		<li class="ui-bar-d ui-li ui-li-divider ui-bar-b" data-role="list-divider" role="heading">
-			<h3 class="ui-li-heading">9:15am &#8211; 10:00am Keynote TBD</h3>
+		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
+			<h3 class="ui-li-heading">9:15am &#8211; 10:00am Keynote </h3>
+			
+				<p class="ui-li-desc">Session Chair: Petri M&#228;h&#246;nen, RWTH Aachen University, Germany</p>
+			
 		</li>
 	
 
@@ -20,41 +27,30 @@
 	
 
 	
-		<li class="ui-bar-d ui-li ui-li-divider ui-bar-b" data-role="list-divider" role="heading">
-			<h3 class="ui-li-heading">10:15am &#8211; 11:30am Transport and Applications</h3>
+		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
+			<h3 class="ui-li-heading">10:15am &#8211; 11:10am Session 1: Platforms</h3>
+			
 		</li>
 	
 
 	
 		<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
-			<h3 class="ui-li-heading">Improving Transport Design for WARP SDR Deployments </h3>
-			<p class="ui-li-desc">Krishna C. Garikipati; Kang G. Shin.</p>
+			<h3 class="ui-li-heading">Software Defined Radios for Smart Utility Networks</h3>
+			<p class="ui-li-desc">Srinivas Lingam; Tim Schmidl; Anuj Batra, Texas Instruments</p>
 		</li>
 	
 
 	
 		<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
-			<h3 class="ui-li-heading">SDR-based Passive Indoor Localization System for GSM</h3>
-			<p class="ui-li-desc">Islam Alyafawi; Desislava Dimitrova; Torsten Ingo Braun</p>
+			<h3 class="ui-li-heading">WhiteLAN: Facilitate Cost-Efficient SDR Research with COTS IEEE 802.11b/g devices</h3>
+			<p class="ui-li-desc">Arun Ashok; Iyappan Subbiah; Gabor Varga; Moritz Schrey; Andreas Achtzehn; Marina Petrova; Stefan Heinen</p>
 		</li>
 	
 
 	
-		<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
-			<h3 class="ui-li-heading">A real-time and Protocol-aware Reactive Jamming Framework Built on Software-Defined Radios</h3>
-			<p class="ui-li-desc">Danh Nguyen; Cem Sahin; Boris Shishkin; Nagarajan Kandasamy; Kapil Dandekar</p>
-		</li>
-	
-
-	
-		<li class="ui-bar-d ui-li ui-li-divider ui-bar-b" data-role="list-divider" role="heading">
-			<h3 class="ui-li-heading">11:30am - 11:45am Coffee Break</h3>
-		</li>
-	
-
-	
-		<li class="ui-bar-d ui-li ui-li-divider ui-bar-b" data-role="list-divider" role="heading">
-			<h3 class="ui-li-heading">11:45am - 12:30pm Short papers  + Demo session</h3>
+		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
+			<h3 class="ui-li-heading">11:10am - 12:00pm Session 2: Short papers  + Demo session</h3>
+			
 		</li>
 	
 
@@ -75,45 +71,54 @@
 	
 		<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
 			<h3 class="ui-li-heading">WARP Drive - Accelerating Wireless Multi-hop Cross-layer Experimentation on SDRs</h3>
-			<p class="ui-li-desc">Adrian Loch; Matthias Schulz; Matthias Hollick. </p>
+			<p class="ui-li-desc">Adrian Loch; Matthias Schulz; Matthias Hollick</p>
 		</li>
 	
 
 	
 		<li class="ui-bar-d ui-li ui-li-divider ui-bar-b" data-role="list-divider" role="heading">
-			<h3 class="ui-li-heading">12:30pm - 2:00pm Lunch Break</h3>
+			<h3 class="ui-li-heading">12:00pm - 1:30pm Lunch Break</h3>
 		</li>
 	
 
 	
-		<li class="ui-bar-d ui-li ui-li-divider ui-bar-b" data-role="list-divider" role="heading">
-			<h3 class="ui-li-heading">2:00pm - 2:50pm Platforms</h3>
+		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
+			<h3 class="ui-li-heading">1:30pm - 3:00pm Session 3: Transport and Applications</h3>
+			
 		</li>
 	
 
 	
 		<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
-			<h3 class="ui-li-heading">Software Defined Radios for Smart Utility Networks</h3>
-			<p class="ui-li-desc">Srinivas Lingam; Tim Schmidl; Anuj Batra, Texas Instruments</p>
+			<h3 class="ui-li-heading">Improving Transport Design for WARP SDR Deployments </h3>
+			<p class="ui-li-desc">Krishna C. Garikipati; Kang G. Shin</p>
 		</li>
 	
 
 	
 		<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
-			<h3 class="ui-li-heading">WhiteLAN: Facilitate Cost-Efficient SDR Research with COTS IEEE 802.11b/g devices</h3>
-			<p class="ui-li-desc">Arun Ashok; Iyappan Subbiah; Gabor Varga; Moritz Schrey; Andreas Achtzehn; Marina Petrova; Stefan Heinen. </p>
+			<h3 class="ui-li-heading">SDR-based Passive Indoor Localization System for GSM</h3>
+			<p class="ui-li-desc">Islam Alyafawi; Desislava Dimitrova; Torsten Ingo Braun</p>
+		</li>
+	
+
+	
+		<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
+			<h3 class="ui-li-heading">A real-time and Protocol-aware Reactive Jamming Framework Built on Software-Defined Radios</h3>
+			<p class="ui-li-desc">Danh Nguyen; Cem Sahin; Boris Shishkin; Nagarajan Kandasamy; Kapil Dandekar</p>
 		</li>
 	
 
 	
 		<li class="ui-bar-d ui-li ui-li-divider ui-bar-b" data-role="list-divider" role="heading">
-			<h3 class="ui-li-heading">2:50pm - 3:00pm  Coffee Break</h3>
+			<h3 class="ui-li-heading">3:00pm - 3:15pm  Coffee Break</h3>
 		</li>
 	
 
 	
-		<li class="ui-bar-d ui-li ui-li-divider ui-bar-b" data-role="list-divider" role="heading">
-			<h3 class="ui-li-heading">3:00pm - 4:15pm MAC and Analog Network Coding</h3>
+		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
+			<h3 class="ui-li-heading">3:15pm - 4:30pm Session 4: MAC and Analog Network Coding</h3>
+			
 		</li>
 	
 
@@ -139,21 +144,16 @@
 	
 
 	
-		<li class="ui-bar-d ui-li ui-li-divider ui-bar-b" data-role="list-divider" role="heading">
-			<h3 class="ui-li-heading">4:15pm - 4:30pm Coffee Break</h3>
-		</li>
-	
-
-	
-		<li class="ui-bar-d ui-li ui-li-divider ui-bar-b" data-role="list-divider" role="heading">
-			<h3 class="ui-li-heading">4:30pm - 5:20pm Physical Layer Designs</h3>
+		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
+			<h3 class="ui-li-heading">4:30pm - 5:20pm Session 5: Physical Layer Designs</h3>
+			
 		</li>
 	
 
 	
 		<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
 			<h3 class="ui-li-heading">Proof-of-concept Implementation for Network Orchestrated Relay Selection Mechanism</h3>
-			<p class="ui-li-desc">Vicknesan Ayadurai; Mikael Prytz</p>
+			<p class="ui-li-desc">Vicknesan Ayadurai; Mikael Prytz, Ericsson</p>
 		</li>
 	
 
@@ -165,8 +165,9 @@
 	
 
 	
-		<li class="ui-bar-d ui-li ui-li-divider ui-bar-b" data-role="list-divider" role="heading">
+		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
 			<h3 class="ui-li-heading">5:20pm - 5:30pm Closing Remarks</h3>
+			
 		</li>
 	
 

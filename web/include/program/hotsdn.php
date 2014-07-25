@@ -1,16 +1,22 @@
-<ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
+<ul id="proglist" data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-dividertheme="a">
+<!-- <ul id="proglist" data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog"> -->
+
 
 	
 		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
 			<h3 class="ui-li-heading">8:15am &#8211; 8:30am Opening </h3>
-			<p class="ui-li-desc">Aditya Akella and Albert Greenberg</p>
+			
+				<p class="ui-li-desc">Session Chair: Aditya Akella and Albert Greenberg</p>
+			
 		</li>
 	
 
 	
 		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
 			<h3 class="ui-li-heading">8:30am &#8211; 9:30am Full talks #1: SDN Architecture and Infrastructure</h3>
-			<p class="ui-li-desc">TBD</p>
+			
+				<p class="ui-li-desc">Session Chair: TBD</p>
+			
 		</li>
 	
 
@@ -45,7 +51,9 @@
 	
 		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
 			<h3 class="ui-li-heading">9:30am &#8211; 10:15am Lightning talks #1</h3>
-			<p class="ui-li-desc">TBD</p>
+			
+				<p class="ui-li-desc">Session Chair: TBD</p>
+			
 		</li>
 	
 
@@ -100,7 +108,9 @@
 	
 		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
 			<h3 class="ui-li-heading">10:30am &#8211; 11:05am Lightning talks #2</h3>
-			<p class="ui-li-desc">TBD</p>
+			
+				<p class="ui-li-desc">Session Chair: TBD</p>
+			
 		</li>
 	
 
@@ -142,7 +152,9 @@
 	
 		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
 			<h3 class="ui-li-heading">11:05am &#8211; 12:05pm Full talks #2: Security, Correctness, Debugging</h3>
-			<p class="ui-li-desc">TBD</p>
+			
+				<p class="ui-li-desc">Session Chair: TBD</p>
+			
 		</li>
 	
 
@@ -183,7 +195,9 @@
 	
 		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
 			<h3 class="ui-li-heading">1:30pm &#8211; 2:15pm Lightning talks #3</h3>
-			<p class="ui-li-desc">TBD</p>
+			
+				<p class="ui-li-desc">Session Chair: TBD</p>
+			
 		</li>
 	
 
@@ -232,7 +246,9 @@
 	
 		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
 			<h3 class="ui-li-heading">2:15pm-3:15pm Full talks #3: Efficiency, Scalability</h3>
-			<p class="ui-li-desc">TBD</p>
+			
+				<p class="ui-li-desc">Session Chair: TBD</p>
+			
 		</li>
 	
 
@@ -273,7 +289,9 @@
 	
 		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
 			<h3 class="ui-li-heading">3:30-4:30pm Full talks #4: New abstractions, Update Mechanisms</h3>
-			<p class="ui-li-desc">TBD</p>
+			
+				<p class="ui-li-desc">Session Chair: TBD</p>
+			
 		</li>
 	
 
@@ -306,8 +324,9 @@
 	
 
 	
-		<li class="ui-bar-d ui-li ui-li-divider ui-bar-b" data-role="list-divider" role="heading">
+		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
 			<h3 class="ui-li-heading">4:30pm-6:00pm Poster session</h3>
+			
 		</li>
 	
 
@@ -439,7 +458,7 @@
 
 	
 		<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
-			<h3 class="ui-li-heading">Tolerating SDN Application Failures with LegoSDN.</h3>
+			<h3 class="ui-li-heading">Tolerating SDN Application Failures with LegoSDN</h3>
 			<p class="ui-li-desc">Balakrishnan Chandrasekaran; Theophilus Benson</p>
 		</li>
 	

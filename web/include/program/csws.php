@@ -1,16 +1,22 @@
-<ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
+<ul id="proglist" data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-dividertheme="a">
+<!-- <ul id="proglist" data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog"> -->
+
 
 	
 		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
 			<h3 class="ui-li-heading">8:45am &#8211; 9:00am Welcome</h3>
-			<p class="ui-li-desc">Dirk Kutscher, Mirja K&#252;hlewind</p>
+			
+				<p class="ui-li-desc">Session Chair: Dirk Kutscher, Mirja K&#252;hlewind</p>
+			
 		</li>
 	
 
 	
 		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
 			<h3 class="ui-li-heading">9:00am &#8211; 10:00am Keynote 1</h3>
-			<p class="ui-li-desc">TBD</p>
+			
+				<p class="ui-li-desc">Session Chair: TBD</p>
+			
 		</li>
 	
 
@@ -23,7 +29,9 @@
 	
 		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
 			<h3 class="ui-li-heading">10:30pm &#8211; 12:00pm Technical Session 1: Queuing and Scheduling</h3>
-			<p class="ui-li-desc">TBD</p>
+			
+				<p class="ui-li-desc">Session Chair: TBD</p>
+			
 		</li>
 	
 
@@ -57,7 +65,9 @@
 	
 		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
 			<h3 class="ui-li-heading">13:30am &#8211; 14:30pm Technical Session 2: Transport Protocols</h3>
-			<p class="ui-li-desc">Mirja K&#252;hlewind</p>
+			
+				<p class="ui-li-desc">Session Chair: Mirja K&#252;hlewind</p>
+			
 		</li>
 	
 
@@ -78,7 +88,9 @@
 	
 		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
 			<h3 class="ui-li-heading">14:30pm &#8211; 15:30pm Technical Session 3: Mobile Networks</h3>
-			<p class="ui-li-desc">Dirk Kutscher</p>
+			
+				<p class="ui-li-desc">Session Chair: Dirk Kutscher</p>
+			
 		</li>
 	
 
@@ -105,7 +117,9 @@
 	
 		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
 			<h3 class="ui-li-heading">16:30pm &#8211; 17:30pm Technical Session 3: Mobile Networks (cont&#39;d)</h3>
-			<p class="ui-li-desc">Dirk Kutscher</p>
+			
+				<p class="ui-li-desc">Session Chair: Dirk Kutscher</p>
+			
 		</li>
 	
 
@@ -131,8 +145,9 @@
 	
 
 	
-		<li class="ui-bar-d ui-li ui-li-divider ui-bar-b" data-role="list-divider" role="heading">
+		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
 			<h3 class="ui-li-heading">17:30pm &#8211; 17:45pm Wrap-Up and Conclusions</h3>
+			
 		</li>
 	
 

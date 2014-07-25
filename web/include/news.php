@@ -1,3 +1,4 @@
+<?php add_dateitem("July 25, 2014", 'Cutoff date for the <b>Palmer House Hotel extended to July 31, 2014</b>.  Take advantage of this extension to be at the center of the action!'); ?>
 <?php add_dateitem("June 21, 2014", '<a href="childcare.php">Child care</a> details and registration available'); ?>
 <?php add_dateitem("June 16, 2014", '<a href="https://www.regonline.com/acmsigcomm2014" rel="external">Conference registration is open</a>'); ?>
 <?php add_dateitem("June 14, 2014", "Conference registration will open on Monday, June 16."); ?>

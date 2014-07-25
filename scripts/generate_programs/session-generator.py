@@ -26,9 +26,9 @@ def generate_session(wks):
 	output_from_parsed_template = template.render(session_list=session_list)	
 
 	# to save the results
-	with open("../../web/include/program-tmp/%s.php" %wks.title, "wb") as fh:
+	with open("../../web/include/program/%s.php" %wks.title, "wb") as fh:
 	    fh.write(output_from_parsed_template.encode('ascii', 'xmlcharrefreplace'))
-	    print "../../web/include/program-tmp/%s.php generates" %wks.title
+	    print "../../web/include/program/%s.php generates" %wks.title
 
 if __name__ == '__main__':
 	account = raw_input("Enter Your Google Account:\n")

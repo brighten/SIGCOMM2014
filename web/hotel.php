@@ -31,11 +31,11 @@
 
 <p><i>17 E. Monroe St.</i></p>
 
-		<p>This is the main conference venue.  Its history dates back to 1871, and it was once the considered the worlds largest hotel.  Recently restored to its original beauty, the Palmer House is magnificently appointed, centrally located, and a natural choice for SIGCOMM 2014.</p>
+		<p>This is the main conference venue.  Its history dates back to 1871, and it was once the considered the world's largest hotel.  Recently restored to its original beauty, the Palmer House is magnificently appointed, centrally located, and a natural choice for SIGCOMM 2014.</p>
 
 <ul>
 		<li>Rate: $209/night</li>
-		<li>Hotel cut-off date: July 19, 2014</li>
+		<li>Hotel cut-off date: <del>July 19, 2014</del> <b>July 31, 2014</b></li>
 <li>Dates: Check in starting August 14, check out by August 25</li>
 
 <li><a href="https://resweb.passkey.com/Resweb.do?mode=welcome_ei_new&eventID=11571514">Room reservation site</a></li>

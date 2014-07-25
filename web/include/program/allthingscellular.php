@@ -1,16 +1,22 @@
-<ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
+<ul id="proglist" data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-dividertheme="a">
+<!-- <ul id="proglist" data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog"> -->
+
 
 	
 		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
 			<h3 class="ui-li-heading">8:45am - 9:00am Opening </h3>
-			<p class="ui-li-desc">Jeffrey Pang (AT&amp;T Research), Kun Tan (Microsoft Research)</p>
+			
+				<p class="ui-li-desc">Session Chair: Jeffrey Pang (AT&amp;T Research), Kun Tan (Microsoft Research)</p>
+			
 		</li>
 	
 
 	
 		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
 			<h3 class="ui-li-heading">9:00am - 10:15am Keynote: Networking with Massive MU-MIMO Base Stations</h3>
-			<p class="ui-li-desc">Lin Zhong (Rice University)</p>
+			
+				<p class="ui-li-desc">Session Chair: Lin Zhong (Rice University)</p>
+			
 		</li>
 	
 
@@ -23,7 +29,9 @@
 	
 		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
 			<h3 class="ui-li-heading">10:45am - 12:00pm Session 1: Architecture and Protocols</h3>
-			<p class="ui-li-desc">TBD</p>
+			
+				<p class="ui-li-desc">Session Chair: TBD</p>
+			
 		</li>
 	
 
@@ -57,7 +65,9 @@
 	
 		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
 			<h3 class="ui-li-heading">1:30pm - 2:45pm Session 2: Software Defined Networking / Network Function Virtualization</h3>
-			<p class="ui-li-desc">TBD</p>
+			
+				<p class="ui-li-desc">Session Chair: TBD</p>
+			
 		</li>
 	
 
@@ -78,7 +88,7 @@
 	
 		<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
 			<h3 class="ui-li-heading">Applying NFV and SDN to LTE Mobile Core Gateways; The Functions Placement Problem</h3>
-			<p class="ui-li-desc">Arsany Basta and Wolfgang kellerer&#160;(LKN, TUM)&#160;and Marco Hoffmann, Hans Jochen Morper, and Klaus Hoffmann&#160;(NSN)</p>
+			<p class="ui-li-desc">Arsany Basta and Wolfgang Kellerer&#160;(LKN, TUM)&#160;and Marco Hoffmann, Hans Jochen Morper, and Klaus Hoffmann&#160;(NSN)</p>
 		</li>
 	
 
@@ -91,7 +101,9 @@
 	
 		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
 			<h3 class="ui-li-heading">3:15pm - 4:15pm Panel: Building a Cellular Networking Research Program</h3>
-			<p class="ui-li-desc">Li Erran Li (Alcatel-Lucent), Songwu Lu (UCLA), Chunyi Peng (Ohio State), Jacobus Van der Merwe (University of Utah), Lin Zhong (Rice University)</p>
+			
+				<p class="ui-li-desc">Session Chair: Li Erran Li (Alcatel-Lucent), Songwu Lu (UCLA), Chunyi Peng (Ohio State), Jacobus Van der Merwe (University of Utah), Lin Zhong (Rice University)</p>
+			
 		</li>
 	
 
@@ -104,7 +116,9 @@
 	
 		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
 			<h3 class="ui-li-heading">4:20pm - 5:35pm Session 3: Measurements</h3>
-			<p class="ui-li-desc">TBD</p>
+			
+				<p class="ui-li-desc">Session Chair: TBD</p>
+			
 		</li>
 	
 
@@ -132,7 +146,9 @@
 	
 		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
 			<h3 class="ui-li-heading">5:35pm-5:45pm Closing</h3>
-			<p class="ui-li-desc">Jeffrey Pang (AT&amp;T Research), Kun Tan (Microsoft Research)</p>
+			
+				<p class="ui-li-desc">Session Chair: Jeffrey Pang (AT&amp;T Research), Kun Tan (Microsoft Research)</p>
+			
 		</li>
 	
 
