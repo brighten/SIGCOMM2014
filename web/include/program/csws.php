@@ -13,10 +13,17 @@
 
 	
 		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
-			<h3 class="ui-li-heading">9:00am &#8211; 10:00am Keynote 1</h3>
+			<h3 class="ui-li-heading">9:00am &#8211; 10:00am Keynote</h3>
 			
-				<p class="ui-li-desc">Session Chair: TBD</p>
+				<p class="ui-li-desc">Session Chair: Dirk Kutscher, Mirja K&#252;hlewind</p>
 			
+		</li>
+	
+
+	
+		<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
+			<h3 class="ui-li-heading">The Value of Repeatable Experiments and Negative Results -- A Journey through the History and Future of AQM and Fair Queuing Algorithms</h3>
+			<p class="ui-li-desc">Dave Taht</p>
 		</li>
 	
 
@@ -30,7 +37,7 @@
 		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
 			<h3 class="ui-li-heading">10:30pm &#8211; 12:00pm Technical Session 1: Queuing and Scheduling</h3>
 			
-				<p class="ui-li-desc">Session Chair: TBD</p>
+				<p class="ui-li-desc">Session Chair: Mirja K&#252;hlewind</p>
 			
 		</li>
 	
@@ -66,7 +73,7 @@
 		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
 			<h3 class="ui-li-heading">13:30am &#8211; 14:30pm Technical Session 2: Transport Protocols</h3>
 			
-				<p class="ui-li-desc">Session Chair: Mirja K&#252;hlewind</p>
+				<p class="ui-li-desc">Session Chair: TBD</p>
 			
 		</li>
 	

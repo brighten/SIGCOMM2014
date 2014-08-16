@@ -25,8 +25,9 @@
 
 <div class=supporter><div>
 <a href="http://www.akamai.com/"><img src="images/sponsors/akamai.png" alt="Akamai" style="width: 120px;"/></a>
-<a href="http://www.facebook.com/"><img src="images/sponsors/facebook.png" alt=FaceBook style="width: 120px;"/></a>
-<a href="http://www.hp.com/"><img src="images/sponsors/hp.png" alt=HP style="width: 84px;"/></a>
+<a href="http://www.conviva.com/"><img src="images/sponsors/conviva.jpg" alt="Conviva" style="width: 145px;"/></a>
+<a href="http://www.facebook.com/"><img src="images/sponsors/facebook.png" alt="Facebook" style="width: 120px;"/></a>
+<a href="http://www.hp.com/"><img src="images/sponsors/hp.png" alt="HP" style="width: 84px;"/></a>
 <a href="http://www.fp7-flamingo.eu"><img src="images/sponsors/flamingo.jpg" alt="Flamingo" style="width:200px;"/></a>
 <a href="http://www.uic.edu/uic/"><img src="images/sponsors/uic.png" alt="UIC" style="width: 185px;"/></a>
 <a href="http://www.vmware.com/"><img src="images/sponsors/vmware.jpg" alt=VMware style="width: 165px;"/></a>

@@ -15,7 +15,7 @@
 		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
 			<h3 class="ui-li-heading">8:30am &#8211; 9:30am Full talks #1: SDN Architecture and Infrastructure</h3>
 			
-				<p class="ui-li-desc">Session Chair: TBD</p>
+				<p class="ui-li-desc">Session Chair: Marco Canini, UCL, Belgium</p>
 			
 		</li>
 	
@@ -52,7 +52,7 @@
 		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
 			<h3 class="ui-li-heading">9:30am &#8211; 10:15am Lightning talks #1</h3>
 			
-				<p class="ui-li-desc">Session Chair: TBD</p>
+				<p class="ui-li-desc">Session Chair: Jeff Mogul, Google, USA</p>
 			
 		</li>
 	
@@ -109,7 +109,7 @@
 		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
 			<h3 class="ui-li-heading">10:30am &#8211; 11:05am Lightning talks #2</h3>
 			
-				<p class="ui-li-desc">Session Chair: TBD</p>
+				<p class="ui-li-desc">Session Chair: Eric Keller, Univ. of Colorado, USA</p>
 			
 		</li>
 	
@@ -153,7 +153,7 @@
 		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
 			<h3 class="ui-li-heading">11:05am &#8211; 12:05pm Full talks #2: Security, Correctness, Debugging</h3>
 			
-				<p class="ui-li-desc">Session Chair: TBD</p>
+				<p class="ui-li-desc">Session Chair: Bob Lantz, ON.Lab, USA</p>
 			
 		</li>
 	
@@ -196,7 +196,7 @@
 		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
 			<h3 class="ui-li-heading">1:30pm &#8211; 2:15pm Lightning talks #3</h3>
 			
-				<p class="ui-li-desc">Session Chair: TBD</p>
+				<p class="ui-li-desc">Session Chair: Anees Shaikh, Google, USA</p>
 			
 		</li>
 	
@@ -247,7 +247,7 @@
 		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
 			<h3 class="ui-li-heading">2:15pm-3:15pm Full talks #3: Efficiency, Scalability</h3>
 			
-				<p class="ui-li-desc">Session Chair: TBD</p>
+				<p class="ui-li-desc">Session Chair: Aditya Akella, UW-Madison, USA</p>
 			
 		</li>
 	
@@ -290,7 +290,7 @@
 		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
 			<h3 class="ui-li-heading">3:30-4:30pm Full talks #4: New abstractions, Update Mechanisms</h3>
 			
-				<p class="ui-li-desc">Session Chair: TBD</p>
+				<p class="ui-li-desc">Session Chair: Dejan Kostic, KTH Royal Inst. of Tech., Sweden</p>
 			
 		</li>
 	

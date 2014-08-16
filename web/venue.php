@@ -16,6 +16,8 @@
 
 <p>For the conference banquet, we have rented out the Shedd Aquarium, once the largest aquarium in the world, and still visited by over 2 million people annually. The Shedd aquarium is a pleasant park stroll away from the conference venue.</p>
 
+<p>The walk back to the Palmer House is 32 minutes in a (hopefully) balmy summer night. The area is safe for walking, but if you're not in the mood, the CTA buses <a href="http://www.transitchicago.com/assets/1/bus_schedules/130.pdf" rel="external">#130</a> and <a href="http://www.transitchicago.com/assets/1/bus_schedules/146.pdf" rel="external">#146</a> serve a direct route between the aquarium and the hotel, until 11:30 pm. Please note that bus drivers do not make change. A taxi should be around $10.</p>
+
 
 <h2 class=hcls>Student Dinner</h2>
 

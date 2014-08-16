@@ -13,7 +13,7 @@
 
 	
 		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
-			<h3 class="ui-li-heading">8:50am &#8211; 9:30am Keynote #1 - Deb Agarwal, Lawrence Berkeley National Laboratory, University of California</h3>
+			<h3 class="ui-li-heading">8:50am &#8211; 9:30am Keynote #1</h3>
 			
 				<p class="ui-li-desc">Session Chair: Sami Rollins</p>
 			
@@ -21,8 +21,17 @@
 	
 
 	
+		<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
+			<h3 class="ui-li-heading">Leading Innovation in the Network and Your Career</h3>
+			<p class="ui-li-desc">Deb Agarwal, Lawrence Berkeley National Laboratory, University of California</p>
+		</li>
+	
+
+	
 		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
-			<h3 class="ui-li-heading">9:35am &#8211; 10:35am Mentoring Session #1 - Topic-Hopping: Speed Discussion on Selected Topics</h3>
+			<h3 class="ui-li-heading">9:35am &#8211; 10:35am Mentoring Session #1 - Job Searching</h3>
+			
+				<p class="ui-li-desc">Session Chair: Klara Nahrstedt</p>
 			
 		</li>
 	
@@ -45,7 +54,7 @@
 	
 		<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
 			<h3 class="ui-li-heading"></h3>
-			<p class="ui-li-desc">Panelists: Aruna Balasubramanian, Fabian Bustamante, Ram&#243;m C&#225;ceres, Sonia Fahmy
+			<p class="ui-li-desc">Panelists: Aruna Balasubramanian, Fabian Bustamante, Ram&#243;n C&#225;ceres, Sonia Fahmy
 </p>
 		</li>
 	
@@ -58,10 +67,17 @@
 
 	
 		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
-			<h3 class="ui-li-heading">1:30pm - 2:10pm Keynote #2 - Ram&#243;n C&#225;ceres, AT&amp;T</h3>
+			<h3 class="ui-li-heading">1:30pm - 2:10pm Keynote #2 </h3>
 			
 				<p class="ui-li-desc">Session Chair: Katia Jaffr&#232;s-Runser</p>
 			
+		</li>
+	
+
+	
+		<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
+			<h3 class="ui-li-heading">Cellular Networks as Sensors</h3>
+			<p class="ui-li-desc">Ram&#243;n C&#225;ceres, AT&amp;T</p>
 		</li>
 	
 
@@ -99,7 +115,9 @@
 
 	
 		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
-			<h3 class="ui-li-heading">4:30pm - 5:30pm Mentoring Session #2 - Topic-Diving: Breakout Discussion on Selected Topics</h3>
+			<h3 class="ui-li-heading">4:30pm - 5:30pm Mentoring Session #2 - Career Development</h3>
+			
+				<p class="ui-li-desc">Session Chair: Renata Cruz Teixeira</p>
 			
 		</li>
 	

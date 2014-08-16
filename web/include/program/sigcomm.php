@@ -3,7 +3,7 @@
 
 
 	
-		<li class="heading" data-role="list-divider" style="display:block"><h3>Tuesday, August 18, 2014</h3></li>
+		<li class="heading" data-role="list-divider" style="display:block"><h3>Tuesday, August 19, 2014</h3></li>
 	
 
 	
@@ -243,13 +243,6 @@
 		<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
 			<h3 class="ui-li-heading">AI3: Application-Independent Information Infrastructure</h3>
 			<p class="ui-li-desc">Bo Zhang (City University of Hong Kong); Jinfan Wang (City University of Hong Kong); Xinyu Wang (City University of Hong Kong); Yingying Cheng (City University of Hong Kong); Xiaohua Jia (City University of Hong Kong); Jianfei He (Huawei Technologies Co. Ltd.)</p>
-		</li>
-	
-
-	
-		<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
-			<h3 class="ui-li-heading">Robust Full Duplex Radio Link</h3>
-			<p class="ui-li-desc">Dinesh Bharadia (Stanford University); Kiran Joshi (Stanford University); Sachin Katti (Stanford University)</p>
 		</li>
 	
 
@@ -652,7 +645,7 @@
 	
 		<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
 			<h3 class="ui-li-heading">Application-Driven Bandwidth Guarantees in Datacenters</h3>
-			<p class="ui-li-desc">Jeongkeun Lee (HP Labs); Yoshio Turner (HP Labs); Myungjin Lee (Edinburgh University); Lucian Popa (Databricks); Joon-Myung Kang (HP Labs); Sujata Banerjee (HP Labs); Puneet Sharma (HP Labs)</p>
+			<p class="ui-li-desc">Jeongkeun Lee (HP Labs); Yoshio Turner (HP Labs); Myungjin Lee (Edinburgh University); Lucian Popa (Databricks); Sujata Banerjee (HP Labs); Joon-Myung Kang (HP Labs); Puneet Sharma (HP Labs)</p>
 		</li>
 	
 
@@ -758,6 +751,48 @@
 
 	
 		<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
+			<h3 class="ui-li-heading">Express Route - Hybrid Cloud Networking Using SDN</h3>
+			<p class="ui-li-desc">Microsoft</p>
+		</li>
+	
+
+	
+		<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
+			<h3 class="ui-li-heading">Real-life Uses for Network Virtualisation</h3>
+			<p class="ui-li-desc">VMWare</p>
+		</li>
+	
+
+	
+		<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
+			<h3 class="ui-li-heading">Google Video Quality Report</h3>
+			<p class="ui-li-desc">Google</p>
+		</li>
+	
+
+	
+		<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
+			<h3 class="ui-li-heading">ACI Integration with Multi-Hypervisors and Bare Metal Servers</h3>
+			<p class="ui-li-desc">Cisco</p>
+		</li>
+	
+
+	
+		<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
+			<h3 class="ui-li-heading">Self Interference Cancellation and Full Duplex Wireless</h3>
+			<p class="ui-li-desc">Kumu</p>
+		</li>
+	
+
+	
+		<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
+			<h3 class="ui-li-heading">HP Technology Previews of Two SDN Applications</h3>
+			<p class="ui-li-desc">HP</p>
+		</li>
+	
+
+	
+		<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
 			<h3 class="ui-li-heading">VIRL: The Virtual Internet Routing Lab</h3>
 			<p class="ui-li-desc">Joel Obstfeld (Cisco Systems); Simon Knight (University of Adelaide/Cisco Systems); Ed Kern (Cisco Systems); Qiang Sheng Wang (Cisco Systems); Tom Bryan (Cisco Systems); Dan Bourque (Cisco Systems)</p>
 		</li>
@@ -787,7 +822,7 @@
 	
 		<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
 			<h3 class="ui-li-heading">Characterizing Botnets-as-a-Service</h3>
-			<p class="ui-li-desc">Wentao Chang (George Mason University); An Wang (George Mason University); Aziz Mohaisen (Verisign Labs)</p>
+			<p class="ui-li-desc">Wentao Chang (George Mason University); An Wang (George Mason University); Aziz Mohaisen (Verisign Labs); Songqing Chen (George Mason University)</p>
 		</li>
 	
 
