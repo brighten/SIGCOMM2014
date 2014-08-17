@@ -13,6 +13,9 @@
 		</li>
 	{% elif session.type == "talk" or session.type == "poster" or session.type == "demo" or session.type == "inviteddemo" %}
 		<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
+			<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+				<a href={{session.paper}} rel="external" target="_blank" class="ui-link" style="text-decoration: none">Paper</a>
+			</p>
 			<h3 class="ui-li-heading">{{session.title | e}}</h3>
 			<p class="ui-li-desc">{{session.speaker | e}}</p>
 		</li>

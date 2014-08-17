@@ -18,7 +18,8 @@ def generate_session(wks):
 		session = { "type": row[0],
 					"time": row[1],
 					"title": row[2],	
-					"speaker": row[3]}
+					"speaker": row[3],
+					"paper": row[4]}
 		session_list.append(session)	
 
 	env = Environment(loader=FileSystemLoader('templates'))
