@@ -22,9 +22,11 @@
 
 	
 		<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
+			
 			<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
-				<a href= rel="external" target="_blank" class="ui-link" style="text-decoration: none">Paper</a>
+				<a href=http://dl.acm.org/authorize?N71331 rel="external" target="_blank" class="ui-link" style="text-decoration: none">Paper</a>
 			</p>
+			
 			<h3 class="ui-li-heading">The Value of Repeatable Experiments and Negative Results -- A Journey through the History and Future of AQM and Fair Queuing Algorithms</h3>
 			<p class="ui-li-desc">Dave Taht</p>
 		</li>
@@ -47,9 +49,11 @@
 
 	
 		<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
+			
 			<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
 				<a href=http://dl.acm.org/authorize?N71332 rel="external" target="_blank" class="ui-link" style="text-decoration: none">Paper</a>
 			</p>
+			
 			<h3 class="ui-li-heading">Revisiting Old Friends: Is CoDel Really Achieving What RED Cannot?</h3>
 			<p class="ui-li-desc">Nicolas Kuhn, Emmanuel Lochin and Olivier Mehani</p>
 		</li>
@@ -57,9 +61,11 @@
 
 	
 		<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
+			
 			<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
 				<a href=http://dl.acm.org/authorize?N71333 rel="external" target="_blank" class="ui-link" style="text-decoration: none">Paper</a>
 			</p>
+			
 			<h3 class="ui-li-heading">Managing Fairness and Application Performance with Active Queue Management in DOCSIS-based Cable Networks </h3>
 			<p class="ui-li-desc">James Martin, Gongbing Hong and James Westall</p>
 		</li>
@@ -67,9 +73,11 @@
 
 	
 		<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
+			
 			<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
 				<a href=http://dl.acm.org/authorize?N71334 rel="external" target="_blank" class="ui-link" style="text-decoration: none">Paper</a>
 			</p>
+			
 			<h3 class="ui-li-heading">WQM: An Aggregation-Aware Queue Management Scheme for IEEE 802.11n Based Networks</h3>
 			<p class="ui-li-desc">Ahmad Showail, Kamran Jamshaid and Basem Shihada</p>
 		</li>
@@ -92,9 +100,11 @@
 
 	
 		<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
+			
 			<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
 				<a href=http://dl.acm.org/authorize?N71345 rel="external" target="_blank" class="ui-link" style="text-decoration: none">Paper</a>
 			</p>
+			
 			<h3 class="ui-li-heading">Coupled Congestion Control for RTP Media</h3>
 			<p class="ui-li-desc">Safiqul Islam, Michael Welzl, Stein Gjessing and Naeem Khademi</p>
 		</li>
@@ -102,9 +112,11 @@
 
 	
 		<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
+			
 			<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
 				<a href=http://dl.acm.org/authorize?N71346 rel="external" target="_blank" class="ui-link" style="text-decoration: none">Paper</a>
 			</p>
+			
 			<h3 class="ui-li-heading">Experimental Evaluation of Multipath TCP Schedulers</h3>
 			<p class="ui-li-desc">Christoph Paasch, Simone Ferlin, &#214;zg&#252; Alay and Olivier Bonaventure</p>
 		</li>
@@ -121,9 +133,11 @@
 
 	
 		<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
+			
 			<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
 				<a href=http://dl.acm.org/authorize?N71347 rel="external" target="_blank" class="ui-link" style="text-decoration: none">Paper</a>
 			</p>
+			
 			<h3 class="ui-li-heading">ConEx Lite for Mobile Networks </h3>
 			<p class="ui-li-desc">Steve Baillargeon and Ingemar Johansson</p>
 		</li>
@@ -131,9 +145,11 @@
 
 	
 		<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
+			
 			<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
 				<a href=http://dl.acm.org/authorize?N71348 rel="external" target="_blank" class="ui-link" style="text-decoration: none">Paper</a>
 			</p>
+			
 			<h3 class="ui-li-heading">Mobile Network Sharing Between Operators: A Demand Trace-Driven Study </h3>
 			<p class="ui-li-desc">Paolo Di Francesco, Francesco Malandrino and Luiz Dasilva</p>
 		</li>
@@ -156,9 +172,11 @@
 
 	
 		<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
+			
 			<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
 				<a href=http://dl.acm.org/authorize?N71349 rel="external" target="_blank" class="ui-link" style="text-decoration: none">Paper</a>
 			</p>
+			
 			<h3 class="ui-li-heading">Network Assisted Rate Adaptation for Conversational Video over LTE, Concept and performance evaluation </h3>
 			<p class="ui-li-desc">Ylva Timner, Jonas Pettersson, Hans Hannu, Min Wang and Ingemar Johansson</p>
 		</li>
@@ -166,9 +184,11 @@
 
 	
 		<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
+			
 			<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
 				<a href=http://dl.acm.org/authorize?N71340 rel="external" target="_blank" class="ui-link" style="text-decoration: none">Paper</a>
 			</p>
+			
 			<h3 class="ui-li-heading">Self-clocked rate adaptation for conversational video in LTE </h3>
 			<p class="ui-li-desc">Ingemar Johansson</p>
 		</li>
@@ -176,9 +196,11 @@
 
 	
 		<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
+			
 			<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
 				<a href=http://dl.acm.org/authorize?N71341 rel="external" target="_blank" class="ui-link" style="text-decoration: none">Paper</a>
 			</p>
+			
 			<h3 class="ui-li-heading">Dynamic Bandwidth Allocation for Multiple Network Connections: Improving User QoE and Network Usage of YouTube in Mobile Broadband</h3>
 			<p class="ui-li-desc">Florian Wamser, Thomas Zinner, Phuoc Tran-Gia and Jing Zhu</p>
 		</li>
