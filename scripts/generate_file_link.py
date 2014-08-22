@@ -1,7 +1,7 @@
 import gspread
 
 count = 1
-type = ['day', 'session', 'break']
+type = ['day','break']
 
 def load_file(wks):
 	global count
