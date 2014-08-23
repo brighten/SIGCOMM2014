@@ -1,36 +1,41 @@
 <ul id="proglist" data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-dividertheme="a">
-<!-- <ul id="proglist" data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog"> -->
+	<!-- <ul id="proglist" data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog"> -->
+	{% for session in session_list %}
+		{% if session.type == "day" %}
+			<li class="heading" data-role="list-divider" style="display:block"><h3>{{session.time | e}}</h3></li>
+			{% elif session.type == "session" %}
+			<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
+				<h3 class="ui-li-heading">{{session.time | e}} {{session.title | e}}</h3>
+				{% if session.speaker %}
+					<p class="ui-li-desc">Session Chair: {{session.speaker | e}}</p>
+				{% endif %}
+			</li>
+			{% elif session.type == "talk" or session.type == "poster" or session.type == "demo" or session.type == "inviteddemo" %}
+			<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
+				{% if session.paper %}
+					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+					<a href={{session.paper}} rel="external" target="_blank" class="ui-link" style="text-decoration: none">Paper</a>
+					</p>
+				{% endif %}
 
-{% for session in session_list %}
-	{% if session.type == "day" %}
-		<li class="heading" data-role="list-divider" style="display:block"><h3>{{session.time | e}}</h3></li>
-	{% elif session.type == "session" %}
-		<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
-			<h3 class="ui-li-heading">{{session.time | e}} {{session.title | e}}</h3>
-			{% if session.speaker %}
-				<p class="ui-li-desc">Session Chair: {{session.speaker | e}}</p>
-			{% endif %}
-		</li>
-	{% elif session.type == "talk" or session.type == "poster" or session.type == "demo" or session.type == "inviteddemo" %}
-		<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
-			{% if session.paper %}
-			<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
-				<a href={{session.paper}} rel="external" target="_blank" class="ui-link" style="text-decoration: none">Paper</a>
-			</p>
-			{% endif %}
-			<h3 class="ui-li-heading">{{session.title | e}}</h3>
-			<p class="ui-li-desc">{{session.speaker | e}}</p>
-		</li>
-	{% elif session.type == "BestOfCCR" %}
-		<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
-			<h3 class="ui-li-heading"><img src="images/star.png" alt="*" width="24px" height="25px"/>{{session.title | e}}</h3>
-			<p class="ui-li-desc">{{session.speaker | e}}</p>
-		</li>
-	{% elif session.type == "break" %}
-		<li class="ui-bar-d ui-li ui-li-divider ui-bar-b" data-role="list-divider" role="heading">
-			<h3 class="ui-li-heading">{{session.time | e}} {{session.title | e}}</h3>
-		</li>
-	{% endif %}
-{% endfor %}
+				{% if session.slide %}
+					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+					<a href={{session.slide}} rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					</p>
+				{% endif %}
+				
+				<h3 class="ui-li-heading">{{session.title | e}}</h3>
+				<p class="ui-li-desc">{{session.speaker | e}}</p>
+			</li>
+			{% elif session.type == "BestOfCCR" %}
+			<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
+				<h3 class="ui-li-heading"><img src="images/star.png" alt="*" width="24px" height="25px"/>{{session.title | e}}</h3>
+				<p class="ui-li-desc">{{session.speaker | e}}</p>
+			</li>
+			{% elif session.type == "break" %}
+			<li class="ui-bar-d ui-li ui-li-divider ui-bar-b" data-role="list-divider" role="heading">
+				<h3 class="ui-li-heading">{{session.time | e}} {{session.title | e}}</h3>
+			</li>
+		{% endif %}
+	{% endfor %}
 </ul>
-

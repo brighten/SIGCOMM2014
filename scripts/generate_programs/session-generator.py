@@ -5,6 +5,7 @@
 
 from jinja2 import Environment, FileSystemLoader
 import gspread
+import os.path
 
 # After this, nothing should need to change
 def generate_session(wks):
@@ -19,8 +20,13 @@ def generate_session(wks):
 					"time": row[1],
 					"title": row[2],	
 					"speaker": row[3],
-					"paper": row[4]}
+					"paper": row[4],
+					"slide": "/doc/slides/%s" %row[5]}
 		session_list.append(session)	
+
+	for i in session_list:
+		if not os.path.isfile("../../web%s" %i["slide"]):
+			i["slide"] = None
 
 	env = Environment(loader=FileSystemLoader('templates'))
 	template = env.get_template('session-template.html')
