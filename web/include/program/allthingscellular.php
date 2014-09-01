@@ -43,6 +43,10 @@
 				
 
 				
+					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+					<a href=/doc/slides/122.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					</p>
+				
 				
 				<h3 class="ui-li-heading">How Green is Multipath TCP for Mobile Devices?</h3>
 				<p class="ui-li-desc">Yeon-sup Lim and Yung-Chih Chen&#160;(University of Massachusetts Amherst), Erich M. Nahum&#160;(IBM T.J. Watson Research Center), Don Towsley&#160;(University of Massachusetts Amherst), and Richard J. Gibbens&#160;(University of Cambridge)</p>
@@ -58,6 +62,10 @@
 				
 
 				
+					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+					<a href=/doc/slides/123.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					</p>
+				
 				
 				<h3 class="ui-li-heading">Increasing Cellular Capacity Using ISM Band Side-channels: A First Study</h3>
 				<p class="ui-li-desc">Jingwen Bai&#160;(Rice University), Chenxi Liu&#160;(Tsinghua University), and Ashutosh Sabharwal&#160;(Rice University)</p>
@@ -72,6 +80,10 @@
 					</p>
 				
 
+				
+					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+					<a href=/doc/slides/124.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					</p>
 				
 				
 				<h3 class="ui-li-heading">SON Conflict Resolution using Reinforcement Learning with State Aggregation</h3>
@@ -103,6 +115,10 @@
 				
 
 				
+					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+					<a href=/doc/slides/126.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					</p>
+				
 				
 				<h3 class="ui-li-heading">SMORE: Software-Defined Networking Mobile Offloading Architecture</h3>
 				<p class="ui-li-desc">Junguk Cho, Binh Nguyen, Arijit Banerjee, and Jacobus Van der Merwe&#160;(School of Computing, University of Utah)</p>
@@ -118,6 +134,10 @@
 				
 
 				
+					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+					<a href=/doc/slides/127.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					</p>
+				
 				
 				<h3 class="ui-li-heading">Dynamic Tunnel Switching for SDN-Based Cellular Core Networks</h3>
 				<p class="ui-li-desc">Johanna Heinonen and Tapio Partti&#160;(Nokia Solutions and Networks), Marko Kallio and Kari Lappalainen&#160;(Tieto), and Hannu Flinck and Jarmo Hillo&#160;(Nokia Solutions and Networks)</p>
@@ -132,6 +152,10 @@
 					</p>
 				
 
+				
+					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+					<a href=/doc/slides/128.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					</p>
 				
 				
 				<h3 class="ui-li-heading">Applying NFV and SDN to LTE Mobile Core Gateways; The Functions Placement Problem</h3>
@@ -177,6 +201,10 @@
 					</p>
 				
 
+				
+					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+					<a href=/doc/slides/131.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					</p>
 				
 				
 				<h3 class="ui-li-heading">Towards understanding TCP performance on LTE/EPC mobile networks</h3>

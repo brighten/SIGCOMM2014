@@ -52,6 +52,10 @@
 				
 
 				
+					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+					<a href=/doc/slides/157.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					</p>
+				
 				
 				<h3 class="ui-li-heading">ProActive Routing in Scalable Data Centers with PARIS </h3>
 				<p class="ui-li-desc">D. Arora, T. Benson, J. Rexford</p>
@@ -66,6 +70,10 @@
 					</p>
 				
 
+				
+					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+					<a href=/doc/slides/158.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					</p>
 				
 				
 				<h3 class="ui-li-heading">Modeling and Simulation of Concurrent Workload Processing in Cloud-Distributed Enterprise Information System</h3>
@@ -112,6 +120,10 @@
 				
 
 				
+					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+					<a href=/doc/slides/161.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					</p>
+				
 				
 				<h3 class="ui-li-heading">Performance of Network and Computing Resource Sharing in Federated Cloud</h3>
 				<p class="ui-li-desc">W. Cerroni</p>
@@ -126,6 +138,10 @@
 					</p>
 				
 
+				
+					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+					<a href=/doc/slides/162.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					</p>
 				
 				
 				<h3 class="ui-li-heading">Capacity of Inter-Cloud Layer-2 Virtual Networking</h3>
@@ -150,6 +166,10 @@
 					</p>
 				
 
+				
+					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+					<a href=/doc/slides/164.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					</p>
 				
 				
 				<h3 class="ui-li-heading">A Virtual Machine Repacking in Clouds: Faster Live Migration Algorithms</h3>
@@ -181,6 +201,10 @@
 				
 
 				
+					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+					<a href=/doc/slides/166.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					</p>
+				
 				
 				<h3 class="ui-li-heading">Traffic-Aware Clustering and VM Migration in Distributed Data Center</h3>
 				<p class="ui-li-desc">M. Cello, K. Xi, J. Chao, M. Marchese</p>
@@ -210,6 +234,10 @@
 					</p>
 				
 
+				
+					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+					<a href=/doc/slides/168.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					</p>
 				
 				
 				<h3 class="ui-li-heading">Green Latency-aware Data Deployment in Data Centers: Balancing Latency, Energy in Networks and Servers</h3>
@@ -256,6 +284,10 @@
 				
 
 				
+					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+					<a href=/doc/slides/171.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					</p>
+				
 				
 				<h3 class="ui-li-heading">A Decomposition-based Architecture for Distributed Virtual Network Embedding </h3>
 				<p class="ui-li-desc">F. Esposito, I. Matta</p>
@@ -301,6 +333,10 @@
 				
 
 				
+					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+					<a href=/doc/slides/174.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					</p>
+				
 				
 				<h3 class="ui-li-heading">Traffic Steering in Software Defined Networks: Planning and Online Routing</h3>
 				<p class="ui-li-desc">Z. Cao, M. Kodialam, T. Lakshman</p>
@@ -316,6 +352,10 @@
 				
 
 				
+					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+					<a href=/doc/slides/175.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					</p>
+				
 				
 				<h3 class="ui-li-heading">Design and Implementation of an OpenFlow Hardware Abstraction Layer</h3>
 				<p class="ui-li-desc">D. Parniewicz, R. Corin, L. Ogrodowczyk, M. Fard, J. Matias, M. Gerola, U. Toseef, A. Zaalouk, B. Belter, K. Pentikousis, E. Jacob, V. Fuentes</p>
@@ -330,6 +370,10 @@
 					</p>
 				
 
+				
+					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+					<a href=/doc/slides/176.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					</p>
 				
 				
 				<h3 class="ui-li-heading">Achieving Efficient and Fast Update for Multiple Flows in Software-Defined Networks </h3>

@@ -151,6 +151,10 @@
 				
 
 				
+					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+					<a href=/doc/slides/265.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					</p>
+				
 				
 				<h3 class="ui-li-heading">SDR-based Passive Indoor Localization System for GSM</h3>
 				<p class="ui-li-desc">Islam Alyafawi; Desislava Dimitrova; Torsten Ingo Braun</p>

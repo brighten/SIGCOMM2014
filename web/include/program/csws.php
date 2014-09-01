@@ -28,6 +28,10 @@
 				
 
 				
+					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+					<a href=/doc/slides/137.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					</p>
+				
 				
 				<h3 class="ui-li-heading">The Value of Repeatable Experiments and Negative Results -- A Journey through the History and Future of AQM and Fair Queuing Algorithms</h3>
 				<p class="ui-li-desc">Dave Taht</p>
@@ -58,6 +62,10 @@
 				
 
 				
+					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+					<a href=/doc/slides/139.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					</p>
+				
 				
 				<h3 class="ui-li-heading">Revisiting Old Friends: Is CoDel Really Achieving What RED Cannot?</h3>
 				<p class="ui-li-desc">Nicolas Kuhn, Emmanuel Lochin and Olivier Mehani</p>
@@ -73,6 +81,10 @@
 				
 
 				
+					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+					<a href=/doc/slides/140.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					</p>
+				
 				
 				<h3 class="ui-li-heading">Managing Fairness and Application Performance with Active Queue Management in DOCSIS-based Cable Networks </h3>
 				<p class="ui-li-desc">James Martin, Gongbing Hong and James Westall</p>
@@ -87,6 +99,10 @@
 					</p>
 				
 
+				
+					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+					<a href=/doc/slides/141.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					</p>
 				
 				
 				<h3 class="ui-li-heading">WQM: An Aggregation-Aware Queue Management Scheme for IEEE 802.11n Based Networks</h3>
@@ -118,6 +134,10 @@
 				
 
 				
+					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+					<a href=/doc/slides/143.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					</p>
+				
 				
 				<h3 class="ui-li-heading">Coupled Congestion Control for RTP Media</h3>
 				<p class="ui-li-desc">Safiqul Islam, Michael Welzl, Stein Gjessing and Naeem Khademi</p>
@@ -132,6 +152,10 @@
 					</p>
 				
 
+				
+					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+					<a href=/doc/slides/144.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					</p>
 				
 				
 				<h3 class="ui-li-heading">Experimental Evaluation of Multipath TCP Schedulers</h3>
@@ -172,6 +196,10 @@
 				
 
 				
+					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+					<a href=/doc/slides/147.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					</p>
+				
 				
 				<h3 class="ui-li-heading">Mobile Network Sharing Between Operators: A Demand Trace-Driven Study </h3>
 				<p class="ui-li-desc">Paolo Di Francesco, Francesco Malandrino and Luiz Dasilva</p>
@@ -202,6 +230,10 @@
 				
 
 				
+					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+					<a href=/doc/slides/149.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					</p>
+				
 				
 				<h3 class="ui-li-heading">Network Assisted Rate Adaptation for Conversational Video over LTE, Concept and performance evaluation </h3>
 				<p class="ui-li-desc">Ylva Timner, Jonas Pettersson, Hans Hannu, Min Wang and Ingemar Johansson</p>
@@ -217,6 +249,10 @@
 				
 
 				
+					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+					<a href=/doc/slides/150.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					</p>
+				
 				
 				<h3 class="ui-li-heading">Self-clocked rate adaptation for conversational video in LTE </h3>
 				<p class="ui-li-desc">Ingemar Johansson</p>
@@ -231,6 +267,10 @@
 					</p>
 				
 
+				
+					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+					<a href=/doc/slides/151.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					</p>
 				
 				
 				<h3 class="ui-li-heading">Dynamic Bandwidth Allocation for Multiple Network Connections: Improving User QoE and Network Usage of YouTube in Mobile Broadband</h3>
