@@ -38,17 +38,13 @@
 			<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
-					<a href=http://dl.acm.org/authorize?N71321 rel="external" target="_blank" class="ui-link" style="text-decoration: none">Paper</a>
+					<a href="http://dl.acm.org/authorize?N71321" rel="external" target="_blank" class="ui-link" style="text-decoration: none">Paper</a>
 					</p>
 				
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
-<<<<<<< HEAD
-					<a href="/doc/slides/122.pdf" rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slides</a>
-=======
-					<a href=doc/slides/122.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
->>>>>>> 393aa9707beab908a5dc656b9267909f6691509b
+					<a href="doc/slides/122.pdf" rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slides</a>
 					</p>
 				
 				
@@ -61,17 +57,13 @@
 			<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
-					<a href=http://dl.acm.org/authorize?N71322 rel="external" target="_blank" class="ui-link" style="text-decoration: none">Paper</a>
+					<a href="http://dl.acm.org/authorize?N71322" rel="external" target="_blank" class="ui-link" style="text-decoration: none">Paper</a>
 					</p>
 				
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
-<<<<<<< HEAD
-					<a href="/doc/slides/123.pdf" rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slides</a>
-=======
-					<a href=doc/slides/123.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
->>>>>>> 393aa9707beab908a5dc656b9267909f6691509b
+					<a href="doc/slides/123.pdf" rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slides</a>
 					</p>
 				
 				
@@ -84,17 +76,13 @@
 			<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
-					<a href=http://dl.acm.org/authorize?N71323 rel="external" target="_blank" class="ui-link" style="text-decoration: none">Paper</a>
+					<a href="http://dl.acm.org/authorize?N71323" rel="external" target="_blank" class="ui-link" style="text-decoration: none">Paper</a>
 					</p>
 				
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
-<<<<<<< HEAD
-					<a href="/doc/slides/124.pdf" rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slides</a>
-=======
-					<a href=doc/slides/124.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
->>>>>>> 393aa9707beab908a5dc656b9267909f6691509b
+					<a href="doc/slides/124.pdf" rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slides</a>
 					</p>
 				
 				
@@ -122,17 +110,13 @@
 			<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
-					<a href=http://dl.acm.org/authorize?N71324 rel="external" target="_blank" class="ui-link" style="text-decoration: none">Paper</a>
+					<a href="http://dl.acm.org/authorize?N71324" rel="external" target="_blank" class="ui-link" style="text-decoration: none">Paper</a>
 					</p>
 				
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
-<<<<<<< HEAD
-					<a href="/doc/slides/126.pdf" rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slides</a>
-=======
-					<a href=doc/slides/126.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
->>>>>>> 393aa9707beab908a5dc656b9267909f6691509b
+					<a href="doc/slides/126.pdf" rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slides</a>
 					</p>
 				
 				
@@ -145,17 +129,13 @@
 			<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
-					<a href=http://dl.acm.org/authorize?N71335 rel="external" target="_blank" class="ui-link" style="text-decoration: none">Paper</a>
+					<a href="http://dl.acm.org/authorize?N71335" rel="external" target="_blank" class="ui-link" style="text-decoration: none">Paper</a>
 					</p>
 				
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
-<<<<<<< HEAD
-					<a href="/doc/slides/127.pdf" rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slides</a>
-=======
-					<a href=doc/slides/127.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
->>>>>>> 393aa9707beab908a5dc656b9267909f6691509b
+					<a href="doc/slides/127.pdf" rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slides</a>
 					</p>
 				
 				
@@ -168,17 +148,13 @@
 			<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
-					<a href=http://dl.acm.org/authorize?N71336 rel="external" target="_blank" class="ui-link" style="text-decoration: none">Paper</a>
+					<a href="http://dl.acm.org/authorize?N71336" rel="external" target="_blank" class="ui-link" style="text-decoration: none">Paper</a>
 					</p>
 				
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
-<<<<<<< HEAD
-					<a href="/doc/slides/128.pdf" rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slides</a>
-=======
-					<a href=doc/slides/128.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
->>>>>>> 393aa9707beab908a5dc656b9267909f6691509b
+					<a href="doc/slides/128.pdf" rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slides</a>
 					</p>
 				
 				
@@ -221,17 +197,13 @@
 			<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
-					<a href=http://dl.acm.org/authorize?N71338 rel="external" target="_blank" class="ui-link" style="text-decoration: none">Paper</a>
+					<a href="http://dl.acm.org/authorize?N71338" rel="external" target="_blank" class="ui-link" style="text-decoration: none">Paper</a>
 					</p>
 				
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
-<<<<<<< HEAD
-					<a href="/doc/slides/131.pdf" rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slides</a>
-=======
-					<a href=doc/slides/131.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
->>>>>>> 393aa9707beab908a5dc656b9267909f6691509b
+					<a href="doc/slides/131.pdf" rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slides</a>
 					</p>
 				
 				
@@ -244,7 +216,7 @@
 			<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
-					<a href=http://dl.acm.org/authorize?N71339 rel="external" target="_blank" class="ui-link" style="text-decoration: none">Paper</a>
+					<a href="http://dl.acm.org/authorize?N71339" rel="external" target="_blank" class="ui-link" style="text-decoration: none">Paper</a>
 					</p>
 				
 
@@ -259,7 +231,7 @@
 			<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
-					<a href=http://dl.acm.org/authorize?N71330 rel="external" target="_blank" class="ui-link" style="text-decoration: none">Paper</a>
+					<a href="http://dl.acm.org/authorize?N71330" rel="external" target="_blank" class="ui-link" style="text-decoration: none">Paper</a>
 					</p>
 				
 
