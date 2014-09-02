@@ -52,7 +52,7 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
-					<a href=/doc/slides/4.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					<a href=doc/slides/4.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
 					</p>
 				
 				
@@ -71,7 +71,7 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
-					<a href=/doc/slides/5.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					<a href=doc/slides/5.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
 					</p>
 				
 				
@@ -90,7 +90,7 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
-					<a href=/doc/slides/6.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					<a href=doc/slides/6.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
 					</p>
 				
 				
@@ -109,7 +109,7 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
-					<a href=/doc/slides/7.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					<a href=doc/slides/7.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
 					</p>
 				
 				
@@ -143,7 +143,7 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
-					<a href=/doc/slides/9.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					<a href=doc/slides/9.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
 					</p>
 				
 				
@@ -162,7 +162,7 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
-					<a href=/doc/slides/10.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					<a href=doc/slides/10.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
 					</p>
 				
 				
@@ -181,7 +181,7 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
-					<a href=/doc/slides/11.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					<a href=doc/slides/11.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
 					</p>
 				
 				
@@ -200,7 +200,7 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
-					<a href=/doc/slides/12.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					<a href=doc/slides/12.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
 					</p>
 				
 				
@@ -219,7 +219,7 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
-					<a href=/doc/slides/13.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					<a href=doc/slides/13.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
 					</p>
 				
 				
@@ -539,7 +539,7 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
-					<a href=/doc/slides/35.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					<a href=doc/slides/35.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
 					</p>
 				
 				
@@ -558,7 +558,7 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
-					<a href=/doc/slides/36.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					<a href=doc/slides/36.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
 					</p>
 				
 				
@@ -577,7 +577,7 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
-					<a href=/doc/slides/37.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					<a href=doc/slides/37.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
 					</p>
 				
 				
@@ -596,7 +596,7 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
-					<a href=/doc/slides/38.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					<a href=doc/slides/38.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
 					</p>
 				
 				
@@ -628,7 +628,7 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
-					<a href=/doc/slides/40.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					<a href=doc/slides/40.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
 					</p>
 				
 				
@@ -647,7 +647,7 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
-					<a href=/doc/slides/41.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					<a href=doc/slides/41.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
 					</p>
 				
 				
@@ -666,7 +666,7 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
-					<a href=/doc/slides/42.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					<a href=doc/slides/42.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
 					</p>
 				
 				
@@ -685,7 +685,7 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
-					<a href=/doc/slides/43.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					<a href=doc/slides/43.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
 					</p>
 				
 				
@@ -719,7 +719,7 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
-					<a href=/doc/slides/45.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					<a href=doc/slides/45.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
 					</p>
 				
 				
@@ -738,7 +738,7 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
-					<a href=/doc/slides/46.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					<a href=doc/slides/46.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
 					</p>
 				
 				
@@ -757,7 +757,7 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
-					<a href=/doc/slides/47.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					<a href=doc/slides/47.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
 					</p>
 				
 				
@@ -776,7 +776,7 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
-					<a href=/doc/slides/48.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					<a href=doc/slides/48.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
 					</p>
 				
 				
@@ -825,7 +825,7 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
-					<a href=/doc/slides/51.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					<a href=doc/slides/51.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
 					</p>
 				
 				
@@ -874,7 +874,7 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
-					<a href=/doc/slides/54.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					<a href=doc/slides/54.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
 					</p>
 				
 				
@@ -1216,7 +1216,7 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
-					<a href=/doc/slides/78.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					<a href=doc/slides/78.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
 					</p>
 				
 				
@@ -1250,7 +1250,7 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
-					<a href=/doc/slides/80.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					<a href=doc/slides/80.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
 					</p>
 				
 				
@@ -1297,7 +1297,7 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
-					<a href=/doc/slides/83.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					<a href=doc/slides/83.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
 					</p>
 				
 				
@@ -1316,7 +1316,7 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
-					<a href=/doc/slides/84.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					<a href=doc/slides/84.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
 					</p>
 				
 				
@@ -1335,7 +1335,7 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
-					<a href=/doc/slides/85.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					<a href=doc/slides/85.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
 					</p>
 				
 				
@@ -1369,7 +1369,7 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
-					<a href=/doc/slides/87.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					<a href=doc/slides/87.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
 					</p>
 				
 				
@@ -1403,7 +1403,7 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
-					<a href=/doc/slides/89.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					<a href=doc/slides/89.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
 					</p>
 				
 				
@@ -1422,7 +1422,7 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
-					<a href=/doc/slides/90.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					<a href=doc/slides/90.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
 					</p>
 				
 				
@@ -1471,7 +1471,7 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
-					<a href=/doc/slides/93.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					<a href=doc/slides/93.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
 					</p>
 				
 				
@@ -1490,7 +1490,7 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
-					<a href=/doc/slides/94.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					<a href=doc/slides/94.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
 					</p>
 				
 				
@@ -1509,7 +1509,7 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
-					<a href=/doc/slides/95.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					<a href=doc/slides/95.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
 					</p>
 				
 				
@@ -1528,7 +1528,7 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
-					<a href=/doc/slides/96.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					<a href=doc/slides/96.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
 					</p>
 				
 				
@@ -1786,7 +1786,7 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
-					<a href=/doc/slides/116.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					<a href=doc/slides/116.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
 					</p>
 				
 				
@@ -1805,7 +1805,7 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
-					<a href=/doc/slides/117.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					<a href=doc/slides/117.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
 					</p>
 				
 				
@@ -1824,7 +1824,7 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
-					<a href=/doc/slides/118.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+					<a href=doc/slides/118.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
 					</p>
 				
 				
