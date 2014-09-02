@@ -78,12 +78,12 @@
 
 <h2 class="hcls">Slides</h2>
 <ol data-role="">
-    <li><a href="doc/slides/mininet-intro.pdf">Teaching Computer Networking with Mininet</a></li>
-    <li><a href="doc/slides/mininet-bgp-demo.pdf">Demo: BGP Path Hijacking</a></li>
-    <li><a href="doc/slides/mininet-bufferbloat-handson.pdf">Teaching Computer Networking with Mininet, Session 2: Hands-on Lab -- BufferBloat</a></li>
-    <li><a href="doc/slides/mininet-gatech-experiences.pdf">A ReMOOCable Experience: Teaching Computer Networking to the Masses</a></li>
-    <li><a href="doc/slides/mininet-MIT-experiences.pdf">Experiences from a protocol-design contest</a></li>
-    <li><a href="doc/slides/mininet-stanford-experiences.pdf">Mininet @ Stanford</a></li>
+    <li><a href="doc/slides/mininet-intro.pdf" rel="external" target="_blank">Teaching Computer Networking with Mininet</a></li>
+    <li><a href="doc/slides/mininet-bgp-demo.pdf" rel="external" target="_blank">Demo: BGP Path Hijacking</a></li>
+    <li><a href="doc/slides/mininet-bufferbloat-handson.pdf" rel="external" target="_blank">Teaching Computer Networking with Mininet, Session 2: Hands-on Lab -- BufferBloat</a></li>
+    <li><a href="doc/slides/mininet-gatech-experiences.pdf" rel="external" target="_blank">A ReMOOCable Experience: Teaching Computer Networking to the Masses</a></li>
+    <li><a href="doc/slides/mininet-MIT-experiences.pdf" rel="external" target="_blank">Experiences from a protocol-design contest</a></li>
+    <li><a href="doc/slides/mininet-stanford-experiences.pdf" rel="external" target="_blank">Mininet @ Stanford</a></li>
 </ol>
 
 
