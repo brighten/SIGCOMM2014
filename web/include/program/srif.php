@@ -152,7 +152,11 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+<<<<<<< HEAD
 					<a href="/doc/slides/265.pdf" rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slides</a>
+=======
+					<a href=doc/slides/265.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+>>>>>>> 393aa9707beab908a5dc656b9267909f6691509b
 					</p>
 				
 				

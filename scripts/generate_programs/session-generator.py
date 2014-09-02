@@ -21,18 +21,18 @@ def generate_session(wks):
 					"title": row[2],	
 					"speaker": row[3],
 					"paper": row[4],
-					"slide": "/doc/slides/%s" %row[5]}
+					"slide": "doc/slides/%s" %row[5]}
 		session_list.append(session)	
 
 	for i in session_list:
-		if not os.path.isfile("../../web%s" %i["slide"]):
+		if not os.path.isfile("../../web/%s" %i["slide"]):
 			i["slide"] = None
 
 	env = Environment(loader=FileSystemLoader('templates'))
 	template = env.get_template('session-template.html')
-	output_from_parsed_template = template.render(session_list=session_list)	
+	output_from_parsed_template = template.render(session_list=session_list)
 
-	# to save the results
+	# Save the results
 	with open("../../web/include/program/%s.php" %wks.title, "wb") as fh:
 	    fh.write(output_from_parsed_template.encode('ascii', 'xmlcharrefreplace'))
 	    print "../../web/include/program/%s.php generates" %wks.title

@@ -1,3 +1,5 @@
+<?php add_dateitem("August 18, 2014", 'To accommodate for the large number of attendees this year, the Reception has been moved to the Grand Ballroom. It will start, as planned, at 6:30PM.'); ?>
+<?php add_dateitem("August 17, 2014", 'Get the <a href="http://whova.com/portal/acmsi_201408" rel="external">Whova</a> event app on your mobile device to make the most of SIGCOMM 2014 experience! Download <a href="https://itunes.apple.com/us/app/whova-event-cse25/id716979741?ls=1&mt=8" rel="external">Whova for iPhone</a> or <a href="https://play.google.com/store/apps/details?id=com.whova.event" rel="external">Whova for Android</a> and sign in to the app with your SIGCOMM 2014 registration email.'); ?>
 <?php add_dateitem("August 8, 2014", 'Rooms at the group rate are still available at the <a href="hotel.php"><b>Palmer House Hotel</b></a>! Please join us at the center of the action!'); ?>
 <?php add_dateitem("June 21, 2014", '<a href="childcare.php">Child care</a> details and registration available'); ?>
 <?php add_dateitem("June 16, 2014", '<a href="https://www.regonline.com/acmsigcomm2014" rel="external">Conference registration is open</a>'); ?>

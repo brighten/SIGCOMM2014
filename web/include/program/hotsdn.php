@@ -29,7 +29,11 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+<<<<<<< HEAD
 					<a href="/doc/slides/181.pdf" rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slides</a>
+=======
+					<a href=doc/slides/181.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+>>>>>>> 393aa9707beab908a5dc656b9267909f6691509b
 					</p>
 				
 				
@@ -48,7 +52,11 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+<<<<<<< HEAD
 					<a href="/doc/slides/182.pdf" rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slides</a>
+=======
+					<a href=doc/slides/182.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+>>>>>>> 393aa9707beab908a5dc656b9267909f6691509b
 					</p>
 				
 				
@@ -82,7 +90,11 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+<<<<<<< HEAD
 					<a href="/doc/slides/184.pdf" rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slides</a>
+=======
+					<a href=doc/slides/184.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+>>>>>>> 393aa9707beab908a5dc656b9267909f6691509b
 					</p>
 				
 				
@@ -110,7 +122,11 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+<<<<<<< HEAD
 					<a href="/doc/slides/186.pdf" rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slides</a>
+=======
+					<a href=doc/slides/186.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+>>>>>>> 393aa9707beab908a5dc656b9267909f6691509b
 					</p>
 				
 				
@@ -129,7 +145,11 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+<<<<<<< HEAD
 					<a href="/doc/slides/187.pdf" rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slides</a>
+=======
+					<a href=doc/slides/187.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+>>>>>>> 393aa9707beab908a5dc656b9267909f6691509b
 					</p>
 				
 				
@@ -148,7 +168,11 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+<<<<<<< HEAD
 					<a href="/doc/slides/188.pdf" rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slides</a>
+=======
+					<a href=doc/slides/188.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+>>>>>>> 393aa9707beab908a5dc656b9267909f6691509b
 					</p>
 				
 				
@@ -182,7 +206,11 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+<<<<<<< HEAD
 					<a href="/doc/slides/190.pdf" rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slides</a>
+=======
+					<a href=doc/slides/190.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+>>>>>>> 393aa9707beab908a5dc656b9267909f6691509b
 					</p>
 				
 				
@@ -201,7 +229,11 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+<<<<<<< HEAD
 					<a href="/doc/slides/191.pdf" rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slides</a>
+=======
+					<a href=doc/slides/191.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+>>>>>>> 393aa9707beab908a5dc656b9267909f6691509b
 					</p>
 				
 				
@@ -235,7 +267,11 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+<<<<<<< HEAD
 					<a href="/doc/slides/193.pdf" rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slides</a>
+=======
+					<a href=doc/slides/193.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+>>>>>>> 393aa9707beab908a5dc656b9267909f6691509b
 					</p>
 				
 				
@@ -254,7 +290,11 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+<<<<<<< HEAD
 					<a href="/doc/slides/194.pdf" rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slides</a>
+=======
+					<a href=doc/slides/194.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+>>>>>>> 393aa9707beab908a5dc656b9267909f6691509b
 					</p>
 				
 				
@@ -288,7 +328,11 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+<<<<<<< HEAD
 					<a href="/doc/slides/196.pdf" rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slides</a>
+=======
+					<a href=doc/slides/196.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+>>>>>>> 393aa9707beab908a5dc656b9267909f6691509b
 					</p>
 				
 				
@@ -307,7 +351,11 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+<<<<<<< HEAD
 					<a href="/doc/slides/197.pdf" rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slides</a>
+=======
+					<a href=doc/slides/197.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+>>>>>>> 393aa9707beab908a5dc656b9267909f6691509b
 					</p>
 				
 				
@@ -335,7 +383,11 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+<<<<<<< HEAD
 					<a href="/doc/slides/199.pdf" rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slides</a>
+=======
+					<a href=doc/slides/199.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+>>>>>>> 393aa9707beab908a5dc656b9267909f6691509b
 					</p>
 				
 				
@@ -354,7 +406,11 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+<<<<<<< HEAD
 					<a href="/doc/slides/200.pdf" rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slides</a>
+=======
+					<a href=doc/slides/200.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+>>>>>>> 393aa9707beab908a5dc656b9267909f6691509b
 					</p>
 				
 				
@@ -388,7 +444,11 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+<<<<<<< HEAD
 					<a href="/doc/slides/202.pdf" rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slides</a>
+=======
+					<a href=doc/slides/202.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+>>>>>>> 393aa9707beab908a5dc656b9267909f6691509b
 					</p>
 				
 				
@@ -422,7 +482,11 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+<<<<<<< HEAD
 					<a href="/doc/slides/204.pdf" rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slides</a>
+=======
+					<a href=doc/slides/204.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+>>>>>>> 393aa9707beab908a5dc656b9267909f6691509b
 					</p>
 				
 				
@@ -441,7 +505,11 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+<<<<<<< HEAD
 					<a href="/doc/slides/205.pdf" rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slides</a>
+=======
+					<a href=doc/slides/205.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+>>>>>>> 393aa9707beab908a5dc656b9267909f6691509b
 					</p>
 				
 				
@@ -460,7 +528,11 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+<<<<<<< HEAD
 					<a href="/doc/slides/206.pdf" rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slides</a>
+=======
+					<a href=doc/slides/206.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+>>>>>>> 393aa9707beab908a5dc656b9267909f6691509b
 					</p>
 				
 				
@@ -479,7 +551,11 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+<<<<<<< HEAD
 					<a href="/doc/slides/207.pdf" rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slides</a>
+=======
+					<a href=doc/slides/207.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+>>>>>>> 393aa9707beab908a5dc656b9267909f6691509b
 					</p>
 				
 				
@@ -498,7 +574,11 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+<<<<<<< HEAD
 					<a href="/doc/slides/208.pdf" rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slides</a>
+=======
+					<a href=doc/slides/208.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+>>>>>>> 393aa9707beab908a5dc656b9267909f6691509b
 					</p>
 				
 				
@@ -517,7 +597,11 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+<<<<<<< HEAD
 					<a href="/doc/slides/209.pdf" rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slides</a>
+=======
+					<a href=doc/slides/209.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+>>>>>>> 393aa9707beab908a5dc656b9267909f6691509b
 					</p>
 				
 				
@@ -545,7 +629,11 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+<<<<<<< HEAD
 					<a href="/doc/slides/211.pdf" rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slides</a>
+=======
+					<a href=doc/slides/211.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+>>>>>>> 393aa9707beab908a5dc656b9267909f6691509b
 					</p>
 				
 				
@@ -564,7 +652,11 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+<<<<<<< HEAD
 					<a href="/doc/slides/212.pdf" rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slides</a>
+=======
+					<a href=doc/slides/212.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+>>>>>>> 393aa9707beab908a5dc656b9267909f6691509b
 					</p>
 				
 				
@@ -583,7 +675,11 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+<<<<<<< HEAD
 					<a href="/doc/slides/213.pdf" rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slides</a>
+=======
+					<a href=doc/slides/213.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+>>>>>>> 393aa9707beab908a5dc656b9267909f6691509b
 					</p>
 				
 				
@@ -602,7 +698,11 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+<<<<<<< HEAD
 					<a href="/doc/slides/214.pdf" rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slides</a>
+=======
+					<a href=doc/slides/214.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+>>>>>>> 393aa9707beab908a5dc656b9267909f6691509b
 					</p>
 				
 				
@@ -636,7 +736,11 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+<<<<<<< HEAD
 					<a href="/doc/slides/216.pdf" rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slides</a>
+=======
+					<a href=doc/slides/216.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+>>>>>>> 393aa9707beab908a5dc656b9267909f6691509b
 					</p>
 				
 				
@@ -655,7 +759,11 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+<<<<<<< HEAD
 					<a href="/doc/slides/217.pdf" rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slides</a>
+=======
+					<a href=doc/slides/217.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+>>>>>>> 393aa9707beab908a5dc656b9267909f6691509b
 					</p>
 				
 				
@@ -674,7 +782,11 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+<<<<<<< HEAD
 					<a href="/doc/slides/218.pdf" rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slides</a>
+=======
+					<a href=doc/slides/218.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+>>>>>>> 393aa9707beab908a5dc656b9267909f6691509b
 					</p>
 				
 				
@@ -693,7 +805,11 @@
 
 				
 					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+<<<<<<< HEAD
 					<a href="/doc/slides/219.pdf" rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slides</a>
+=======
+					<a href=doc/slides/219.pdf rel="external" target="_blank" class="ui-link" style="text-decoration: none">Slide</a>
+>>>>>>> 393aa9707beab908a5dc656b9267909f6691509b
 					</p>
 				
 				
