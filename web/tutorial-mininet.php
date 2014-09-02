@@ -76,8 +76,8 @@
                 ?>
 		</ul>
 
-<h2 class="hcls">Technical Program</h2>
-<ol data-role="listview">
+<h2 class="hcls">Slides</h2>
+<ol data-role="">
     <li><a href="doc/slides/mininet-intro.pdf">Teaching Computer Networking with Mininet</a></li>
     <li><a href="doc/slides/mininet-bgp-demo.pdf">Demo: BGP Path Hijacking</a></li>
     <li><a href="doc/slides/mininet-bufferbloat-handson.pdf">Teaching Computer Networking with Mininet, Session 2: Hands-on Lab -- BufferBloat</a></li>
