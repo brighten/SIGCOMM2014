@@ -40,6 +40,7 @@ $mypage = current_pagename();
 			<ul data-role="listview" data-inset="false">
 				<li data-icon="false" class="subnav-c <?php if ($mypage=="program.php") echo 'navselected' ?>" ><a href="program.php">Program</a></li>
 				<li data-icon="false" class="subnav-c <?php if ($mypage=="pc.php") echo 'navselected' ?>" ><a href="pc.php">Program Committee</a></li>
+				<li data-icon="false" class="subnav-c <?php if ($mypage=="awards.php") echo 'navselected' ?>" ><a href="awards.php">Awards</a></li>
 				<li data-icon="false" class="subnav-c <?php if ($mypage=="cfp.php") echo 'navselected' ?>" ><a href="cfp.php">Call for Papers</a></li>
 				<li data-icon="false" class="subnav-c <?php if ($mypage=="submission.php") echo 'navselected' ?>" ><a href="submission.php">Paper Submission</a></li>
 			</ul>

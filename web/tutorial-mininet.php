@@ -76,7 +76,12 @@
                 ?>
 		</ul>
 
-<h2 class="hcls">Slides</h2>
+<h2 class="hcls">Resources</h2>
+
+<p><a href="https://github.com/mininet/mininet/wiki/SIGCOMM-2014-Tutorial:-Teaching-Computer-Networking-with-Mininet" rel="external">GitHub site</a></p>
+
+Slides:
+
 <ol data-role="">
     <li><a href="doc/slides/mininet-intro.pdf" rel="external" target="_blank">Teaching Computer Networking with Mininet</a></li>
     <li><a href="doc/slides/mininet-bgp-demo.pdf" rel="external" target="_blank">Demo: BGP Path Hijacking</a></li>

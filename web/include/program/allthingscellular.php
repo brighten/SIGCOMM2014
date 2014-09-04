@@ -12,10 +12,30 @@
 	
 		
 			<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
-				<h3 class="ui-li-heading">9:00am - 10:15am Keynote: Networking with Massive MU-MIMO Base Stations</h3>
+				<h3 class="ui-li-heading">9:00am - 10:15am Keynote</h3>
 				
-					<p class="ui-li-desc">Session Chair: Lin Zhong (Rice University)</p>
+					<p class="ui-li-desc">Session Chair: 
+</p>
 				
+			</li>
+			
+	
+		
+			<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
+				
+					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+					<a href="http://dl.acm.org/authorize?N71320" rel="external" target="_blank" class="ui-link" style="text-decoration: none; color: white">Paper</a>
+					</p>
+				
+
+				
+					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+					<a href="doc/slides/120.pdf" rel="external" target="_blank" class="ui-link" style="text-decoration: none; color: white">Slides</a>
+					</p>
+				
+				
+				<h3 class="ui-li-heading">Networking with Massive MU-MIMO Base Stations</h3>
+				<p class="ui-li-desc">Lin Zhong (Rice University)</p>
 			</li>
 			
 	
@@ -173,8 +193,21 @@
 			<li class="ui-bar-b ui-li ui-li-divider" data-role="list-divider" role="heading">
 				<h3 class="ui-li-heading">3:15pm - 4:15pm Panel: Building a Cellular Networking Research Program</h3>
 				
-					<p class="ui-li-desc">Session Chair: Li Erran Li (Alcatel-Lucent), Songwu Lu (UCLA), Chunyi Peng (Ohio State), Jacobus Van der Merwe (University of Utah), Lin Zhong (Rice University)</p>
+			</li>
+			
+	
+		
+			<li data-icon="false" class="ui-li ui-li-static ui-btn-up-d">
 				
+					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+					<a href="http://dl.acm.org/authorize?N71337" rel="external" target="_blank" class="ui-link" style="text-decoration: none; color: white">Paper</a>
+					</p>
+				
+
+				
+				
+				<h3 class="ui-li-heading"></h3>
+				<p class="ui-li-desc">Li Erran Li (Alcatel-Lucent), Songwu Lu (UCLA), Chunyi Peng (Ohio State), Jacobus Van der Merwe (University of Utah), Lin Zhong (Rice University)</p>
 			</li>
 			
 	

@@ -36,10 +36,12 @@
 
 <h2 class="hcls">Outline</h2>
 
+<p><b><a href="http://www.1-4-5.net/~dmm/sigcomm/2014/" rel="external">Slides</a></b></p>
+
 <ol>
 <li>Introduction: Framing the Discussion</li>
 	<ol>
-    <li> SDN and the TCP/IP architecture: past and futures, differences and similarities</li>
+    <li>SDN and the TCP/IP architecture: past and futures, differences and similarities</li>
     <li>Developing common terminology</li>
     <li>New uses of the network and their implications</li>
     <li>How network engineers can benefit from breakthroughs in network theory</li>
@@ -81,6 +83,7 @@
 	</ol>
 <li>Discussion</li>
 </ol>
+
 
 <h2 class="hcls">Expected Audience and Prerequisites</h2>
 
