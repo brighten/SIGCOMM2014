@@ -858,6 +858,10 @@
 				
 
 				
+					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+					<a href="doc/slides/53.pdf" rel="external" target="_blank" class="ui-link" style="text-decoration: none; color: white">Slides</a>
+					</p>
+				
 				
 				<h3 class="ui-li-heading">FireFly: A Reconfigurable Wireless Datacenter Fabric using Free-Space Optics</h3>
 				<p class="ui-li-desc">Navid Hamedazimi (Stony Brook University); Zafar Ayyub Qazi (Stony Brook University); Himanshu Gupta (Stony Brook University); Samir R Das (Stony Brook University); Vyas Sekar (Carnegie Mellon); Jon P Longtin (Stony Brook University); Himanshu Shah (SBU); Ashish Tanwer (SBU); </p>

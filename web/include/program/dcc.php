@@ -186,6 +186,10 @@
 				
 
 				
+					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+					<a href="doc/slides/165.pdf" rel="external" target="_blank" class="ui-link" style="text-decoration: none; color: white">Slides</a>
+					</p>
+				
 				
 				<h3 class="ui-li-heading">Experiences with Distributed Heterogeneous Clouds over Community Networks</h3>
 				<p class="ui-li-desc">M. Selimi, F. Freitag, R. Centelles, P. Escrich, D. Marti, R. Baig</p>
