@@ -74,7 +74,7 @@ xxxxx@gmail.com
 xxxxx
 https://docs.google.com/spreadsheets/d/1so597bYgcyiOsNEj9gbTX6bLJUMG0kP1D6DJZ8xRF2g/edit#gid=1080662693
 ```
-The first line is google account, the second line is password for the account, and the third line is URL to the spreadsheet.  In the SIGCOMM 2014 site, we had git automatically ignore `google_info.txt` so that it would not be committed to github by accident.  A more secure solution here would be nice, but this was at least effective.
+The first line is google account, the second line is password for the account, and the third line is URL to the spreadsheet.  In the SIGCOMM 2014 site, we had git automatically ignore `google_info.txt` so that it would not be committed to github by accident.  A more secure solution here would be nice, but this was expedient.
 
 Then you can run the script using `python session-generator.py < google_info.txt`
 
@@ -86,10 +86,13 @@ You may want to add a new row type, for some particular formatting output.  Chec
 
 You may want to add a column to the spreadsheet.  You'd have to modify `session-generator.py` (line 9) to set the `session` variable to pull in data from your new column.  You'd also have to modify `templates/session-template.html` to use the new data in the output.
 
-## Files in the old folder
-`upload_google_sheet_for_***.py` is used for uploading xlsx sheet in the input_data folder.
+## Old files
+
+The directory `scripts/generate_programs/old` contains scripts which are no longer necessary for the site, but kept for completeness.  You can safely ignore them.
+
+`upload_google_sheet_for_*.py` uploaded xlsx and tsv sheets to google docs.  This was because we had previously stored the programs in files, before moving to the Google Sheets-based solution.
 
 `session-v2_uploader.py` is used for uploading session-v2.xls file to Google Sheet
 
-`generate-prgram.ml` is the Ocaml script for generating static page
+`generate-program.ml` was an OCaml program for generating programs, again prior to the session-generator solution.
 

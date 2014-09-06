@@ -35,7 +35,7 @@ def generate_session(wks):
 	# Save the results
 	with open("../../web/include/program/%s.php" %wks.title, "wb") as fh:
 	    fh.write(output_from_parsed_template.encode('ascii', 'xmlcharrefreplace'))
-	    print "../../web/include/program/%s.php generates" %wks.title
+	    print "../../web/include/program/%s.php generated" %wks.title
 
 if __name__ == '__main__':
 	account = raw_input("Enter Your Google Account:\n")
@@ -47,4 +47,4 @@ if __name__ == '__main__':
 
 	for worksheet in worksheet_list:
 		generate_session(worksheet)
-	print "All sessions get generated"
+	print "All sessions generated."

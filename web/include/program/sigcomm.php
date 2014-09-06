@@ -1224,7 +1224,7 @@
 					</p>
 				
 				
-				<h3 class="ui-li-heading">A Global Name Service for a Highly Mobile Internet</h3>
+				<h3 class="ui-li-heading">A Global Name Service for a Highly Mobile Internetwork</h3>
 				<p class="ui-li-desc">Abhigyan Sharma (University of Massachusetts Amherst); Xiaozheng Tie (University of Massachusetts Amherst); Hardeep Uppal (University of Massachusetts Amherst); Arun Venkataramani (University of Massachusetts Amherst); David Westbrook (University of Massachusetts Amherst); Aditya Yadav (University of Massachusetts Amherst)</p>
 			</li>
 			
