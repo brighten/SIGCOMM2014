@@ -15,7 +15,7 @@ There is one sheet (tab, on the bottom of the screen) per program.  For example 
 
 In each sheet, there are the following columns:
 
-1. *Type:*  This is the type of the row in the program.  Current valid values are:  `day`, `session`, `talk`, `break`, `poster`, `demo`, `inviteddemo`, `BestOfCCR`.  The value here affects the output formatting style.  It's easy to add special purpose types, as with BestOfCCR, to get particular outputs (how to do this is described below).
+1. **Type:**  This is the type of the row in the program.  Current valid values are:  `day`, `session`, `talk`, `break`, `poster`, `demo`, `inviteddemo`, `BestOfCCR`.  The value here affects the output formatting style.  It's easy to add special purpose types, as with BestOfCCR, to get particular outputs (how to do this is described below).
 2. *Time:*  This is the day (if the type is 'day') or the time of a session.  For the other Types, leave it blank.
 3. *Session or paper title:* For example, for a session, you might use `Wireless 1` or `Keynote`.  For a talk/demo/etc. it would be the title of the paper.
 4. *Session chair, speaker, or authors:* Self-explanatory.
