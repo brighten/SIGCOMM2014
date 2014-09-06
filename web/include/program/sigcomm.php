@@ -1305,7 +1305,7 @@
 					</p>
 				
 				
-				<h3 class="ui-li-heading">Application-Aware Network Scheduling in Data-Intensive Clusters</h3>
+				<h3 class="ui-li-heading">Efficient Coflow Scheduling with Varys</h3>
 				<p class="ui-li-desc">Mosharaf Chowdhury (UC Berkeley); Yuan Zhong (Columbia University); Ion Stoica (UC Berkeley)</p>
 			</li>
 			

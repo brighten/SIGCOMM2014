@@ -12,7 +12,7 @@
 
 <p><b>Winner</b><br>
 Behind the Curtain - The importance of replica selection in next generation cellular networks<br>
-<i>John Rula; Fabian Bustamante</i>
+<i>John Rula; Fabi&aacute;n Bustamante</i>
 </p>
 
 <p><b>Second Place</b><br>
@@ -29,7 +29,7 @@ Traffic Statistic Collection with FleXam<br>
 
 <p><b>Winner</b><br>
 A cliq of content curators<br>
-<i>Angela H. Jiang; Zachary S. Bischof; Fabian E. Bustamante</i>
+<i>Angela H. Jiang; Zachary S. Bischof; Fabi&aacute;n E. Bustamante</i>
 
 <p><b>Second Place</b><br>
 FlowInsight: Decoupling Visibility from Operability in SDN Data Plane<br>
