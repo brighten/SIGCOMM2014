@@ -16,11 +16,11 @@ There is one sheet (tab, on the bottom of the screen) per program.  For example 
 In each sheet, there are the following columns:
 
 1. **Type:**  This is the type of the row in the program.  Current valid values are:  `day`, `session`, `talk`, `break`, `poster`, `demo`, `inviteddemo`, `BestOfCCR`.  The value here affects the output formatting style.  It's easy to add special purpose types, as with BestOfCCR, to get particular outputs (how to do this is described below).
-2. *Time:*  This is the day (if the type is 'day') or the time of a session.  For the other Types, leave it blank.
-3. *Session or paper title:* For example, for a session, you might use `Wireless 1` or `Keynote`.  For a talk/demo/etc. it would be the title of the paper.
-4. *Session chair, speaker, or authors:* Self-explanatory.
-5. *Paper filename:* For the SIGCOMM 2014 site this is interpreted as a URL pointing to the PDF of the paper.  The papers were hosted externally by ACM so this is an ACM Digital Library link.  It would be easy to extend the script to look for a local file if it is not a URL.  This cell can be blank, in which case no link button is shown.  Also, it is ignored for Sessions and certain other Types.
-6. *Presentation slides:* Identifier of presentation slides which we expect to find in a certain directory.  Specifically if this cell value is `123.pdf` then the script will check whether `web/doc/slides/123.pdf` is present, and if so, will display a link button to the slides.  This cell can be blank, in which case no link button is shown.  Also, it is ignored for Sessions and certain other Types.
+2. **Time:**  This is the day (if the type is 'day') or the time of a session.  For the other Types, leave it blank.
+3. **Session or paper title:** For example, for a session, you might use `Wireless 1` or `Keynote`.  For a talk/demo/etc. it would be the title of the paper.
+4. **Session chair, speaker, or authors:** Self-explanatory.
+5. **Paper filename:** For the SIGCOMM 2014 site this is interpreted as a URL pointing to the PDF of the paper.  The papers were hosted externally by ACM so this is an ACM Digital Library link.  It would be easy to extend the script to look for a local file if it is not a URL.  This cell can be blank, in which case no link button is shown.  Also, it is ignored for Sessions and certain other Types.
+6. **Presentation slides:** Identifier of presentation slides which we expect to find in a certain directory.  Specifically if this cell value is `123.pdf` then the script will check whether `web/doc/slides/123.pdf` is present, and if so, will display a link button to the slides.  This cell can be blank, in which case no link button is shown.  Also, it is ignored for Sessions and certain other Types.
 
 Note that the header row is discarded (so, it must be present to be stripped off).  The column names are not important -- only the order (it might be better to fix this in the future).  Furthermore, the color in the spreadsheet is not important; that was just for convenience when editing on Google Sheets.
 
