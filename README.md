@@ -20,6 +20,8 @@ You are welcome to reuse and adapt the 2014 code under the same Creative Commons
 
 The 2014 site includes a number of code and interface enhancements, such as `scripts/generate_programs`, and is also missing certain older scripts.
 
+The 2014 web chair was Brighten Godfrey, with Xuefeng Zhu working on web and tool programming.
+
 ## Overview
 
 The repository is organized as follows:
@@ -41,14 +43,12 @@ Within `web`:
 * `doc`			Static documents served by the site:  the calls for papers, PDF of the conference schedule, etc.
 * `doc/slides`	PDFs of the presenters' slides (inspected by `scripts/generate_programs` in order to generate links to slides)
 
-This site uses a bunch of open javascript libraries. You will want to use their latest versions:
+The site uses a bunch of open javascript libraries. You will want to use their latest versions:
 
 * http://jquery.com/ - the javascript goes into `js`
 * http://jquerymobile.com/ - the javascript goes into `js` and the CSS and images go into `css`
 * http://jquerymobile.com/demos/1.1.0/docs/_assets/css/jqm-docs.css - the CSS for the jquerymobile documentation page, goes into CSS
 * http://code.google.com/p/css3-mediaqueries-js/ - the javascript goes into `js`
-
-
 
 
 ## Getting started as SIGCOMM web chair
@@ -83,11 +83,11 @@ where 2014 is replaced with the year of the SIGCOMM conference.
 
 ## Advice and future enhancements
 
-The web chair is a job that requires work continuously over a period of more than a year -- first a significant burst of work developing the intial site, then continuous updates on a weekly to daily basis (986 messages in my inbox match "sigcomm 2014 site"), with bursts of activity when the accepted papers are posted and near when the event occurs.  As such, you will want to automate as much as possible.
+The web chair is a job that requires work continuously over a period of more than a year -- first a significant burst of work developing the intial site, then continuous updates on a weekly to daily basis (986 messages in my email match "sigcomm 2014 site"), with bursts of activity when the accepted papers are posted and near when the event occurs.  As such, you will want to automate as much as possible.
 
-Be sure, early on in the process, that all the chairs (web, publications, PC, workshop, and general) agree to use a single database of papers as soon as the accepted papers are chosen.  The 2014 site uses a Google spreadsheet as the master database of programs for the main conference and workshops (see the README in `scripts/generate_programs`); it worked great, allowing collaborative editing and easy updates, saving time for the web chair and making life easier for everyone.  However, that was not always the case, and we wasted large amounts of time before developing this system and getting everyone to use it.  If the PC chairs and workshop chairs and publication chairs all have different versions of the program, they will get out of sync -- as hundreds of corrections and changes are made over a period of several months -- and it will be a giant mess.  (Furthermore, if the PC and workshop chairs cannot make changes themselves, the web chair will end up saddled with dealing with hundreds of fixes.) As soon as the accepted papers for the main conference and workshops are chosen, they should be put into a master google spreadsheet that everyone works from and is the only place authoritative changes can be made.  The web chair should work proactively to ensure this happens.  A good time would be in February, before any papers are accepted.
+Be sure, early on in the process, that all the chairs (web, publications, PC, workshop, and general) agree to use a single database of papers as soon as the accepted papers are chosen.  The 2014 site uses a Google spreadsheet as the master database of programs for the main conference and workshops (see the README in `scripts/generate_programs`); it worked great, allowing collaborative editing and easy updates, saving time for the web chair and making life easier for everyone.  However, that was not always the case, and we wasted large amounts of time before developing this system and getting everyone to use it.  If the PC chairs and workshop chairs and publication chairs all have different versions of the program, they will get out of sync -- as hundreds of corrections and changes are made over a period of several months -- and it will be a giant mess.  (Furthermore, if the PC and workshop chairs cannot make changes themselves, the web chair will end up saddled with dealing with hundreds of fixes.) As soon as the accepted papers for the main conference and workshops are chosen, they should be put into a master google spreadsheet that everyone works from and is the only place authoritative changes can be made.  The web chair should work proactively to ensure this happens, informing the PC and workshop chairs that they should arrange their programs within this spreadsheet rather than in some external way.  A good time to do this would be in February, before any papers are accepted, with a reminder at the time of the SIGCOMM PC meeting.
 
-It would be very prudent to extend `scripts/generate_programs` to produce the tutorial programs as well.  Receiving tutorial programs in a variety of formats from the tutorial chairs, and accomodating a stream of updates, took significant time.  Most likely, little or nothing needs to be changed in `scripts/generate_programs`.  You'll just need to get the tutorial chairs to use the system, and make a few changes to include the right files in the appropriate .php files for the workshops.
+It would be very prudent to extend `scripts/generate_programs` to produce the tutorial programs as well as the workshop and conference programs.  Receiving tutorial programs in a variety of formats from the tutorial chairs, and accomodating a stream of updates, took significant time.  Most likely, little or nothing needs to be changed in `scripts/generate_programs`.  You'll just need to get the tutorial chairs to use the system, and make a few changes to include the right files in the appropriate .php files for the workshops.
 
 A number of site maintenance tools were not ported from the 2012 and 2013 sites to the 2014 site.  These should be resurrected.  Details are in a section below.
 
