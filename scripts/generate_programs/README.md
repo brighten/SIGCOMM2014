@@ -27,17 +27,21 @@ Note that the header row is discarded (so, it must be present to be stripped off
 
 ## Output
 
-The script downloads the spreadsheet and produces one file in `web/include/program` for each sheet.  For example if the Google spreadsheet contains sheets `sigcomm` and `hotsdn` then the script will write files `web/include/program/sigcomm.php` and ``web/include/program/hotsdn.php`.  Those files are in turn included in the web page; for example inside `web/program.php` (the program for the main conference) you will find the following:
+The script downloads the spreadsheet and produces one file in `web/include/program` for each sheet.  For example if the Google spreadsheet contains sheets named `sigcomm` and `hotsdn` then the script will write files `web/include/program/sigcomm.php` and `web/include/program/hotsdn.php`.  Those files are in turn included in the web page; for example inside `web/program.php` (the program for the main conference) you will find the following:
 ```
 <?php
     include ("include/program/sigcomm.php");
 ?>
 ```
 
-## Installing `session-generator`
+## Install dependencies
+
+You will need to install several software packages.
 
 On a Mac running Macports:
 ```
+sudo port select --set python python27
+sudo port select --set pip pip27
 sudo port install py27-jinja2
 ```
 gspread should already be installed.
@@ -58,14 +62,7 @@ cd jinja2
 ln -s jinja2 /usr/lib/python2.X/site-packages
 ```
 
-From Macports:
-```
-sudo port select --set python python27
-sudo port select --set pip pip27
-```
-
-
-## Running `session-generator`
+## Running it
 
 When you run `python session-generator.py`, you will be prompted to enter three lines:  A google account ID, a google password, and the URL to the google spreadsheet.  The script downloads the spreadsheet and produces the output files as described above.
 
