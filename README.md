@@ -14,7 +14,7 @@ Under the license, you acknowledge "ACM SIGCOMM 2012" as the source and you link
 
 ### 2014 site
 
-The repository for the 2014 site is at https://github.com/brighten/SIGCOMM2014 and the site itself is online at http://conferences.sigcomm.org/sigcomm/2014/program.php .
+The repository for the 2014 site is at https://github.com/brighten/SIGCOMM2014 and the site itself is online at http://conferences.sigcomm.org/sigcomm/2014/ .
 
 You are welcome to reuse and adapt the 2014 code under the same Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License and the same sharing conditions as above.
 
@@ -49,6 +49,56 @@ This site uses a bunch of open javascript libraries. You will want to use their 
 * http://code.google.com/p/css3-mediaqueries-js/ - the javascript goes into `js`
 
 
+
+
+## Getting started as SIGCOMM web chair
+
+To get started, first check out http://www.sigcomm.org/conference-planning/web-chairs
+
+An additional task to start on early is designing a logo.
+
+You'll have to request an account at:
+http://campus.acm.org/public/infodir/account_request.cfm
+
+For questions or to check on status of your request, you may try following up with ishelpdesk@hq.acm.org.
+
+To publish the site:  ACM's web hosting service setup is in the process of changing (as of spring 2014).  The instructions here are what we used for SIGCOMM 2014, but future conferences will probably have a different procedure.
+
+We used sftp access to ACM's server.  However, Drupal is also available.  For sftp upload and download, you have several software options.  ACM's ishelpdesk recommended FileZilla, writing:
+1. Simply configure Filezilla's site manager "HOST" field turing.acm.org
+	PLEASE NOTE: DO NOT CONFIGURE "QUICK CONNECT" (in Filezilla) – It defaults to regular FTP which will not work with turing.acm.org.
+2. Use "SFTP using SSH" in the server type field (Note from Brighten: I didn't see this field in the Mac verison of this software.  Just entered 22 in the Port field.)
+3. Fill in the username and password fields with your credentials.
+4. Set the logon type field to "normal".  (Note from Brighten: I didn't see this field in the Mac version of this software)
+
+However, another option for uploading is `lftp`, which uploads a diff like rsync.  This is what we used regularly for the 2014 site.  On a Mac with MacPorts, just do `sudo port install lftp`.  Once `lftp` is installed, suppose the pathname to your local copy of the site is /x/web  and your username on the ACM server is USERNAME with password PASSWORD.  Then do this:
+
+	$ cd /x
+	$ lftp sftp://USERNAME@conferences.sigcomm.org
+	password: PASSWORD
+	lftp> cd /acminfo/2/sigs/sigcomm/conferences/sigcomm/
+	lftp> mirror -Reva web 2014
+
+where 2014 is replaced with the year of the SIGCOMM conference.
+
+## Advice and future enhancements
+
+The web chair is a job that requires work continuously over a period of more than a year -- first a significant burst of work developing the intial site, then continuous updates on a weekly to daily basis (986 messages in my inbox match "sigcomm 2014 site"), with bursts of activity when the accepted papers are posted and near when the event occurs.  As such, you will want to automate as much as possible.
+
+Be sure, early on in the process, that all the chairs (web, publications, PC, workshop, and general) agree to use a single database of papers as soon as the accepted papers are chosen.  The 2014 site uses a Google spreadsheet as the master database of programs for the main conference and workshops (see the README in `scripts/generate_programs`); it worked great, allowing collaborative editing and easy updates, saving time for the web chair and making life easier for everyone.  However, that was not always the case, and we wasted large amounts of time before developing this system and getting everyone to use it.  If the PC chairs and workshop chairs and publication chairs all have different versions of the program, they will get out of sync -- as hundreds of corrections and changes are made over a period of several months -- and it will be a giant mess.  (Furthermore, if the PC and workshop chairs cannot make changes themselves, the web chair will end up saddled with dealing with hundreds of fixes.) As soon as the accepted papers for the main conference and workshops are chosen, they should be put into a master google spreadsheet that everyone works from and is the only place authoritative changes can be made.  The web chair should work proactively to ensure this happens.  A good time would be in February, before any papers are accepted.
+
+It would be very prudent to extend `scripts/generate_programs` to produce the tutorial programs as well.  Receiving tutorial programs in a variety of formats from the tutorial chairs, and accomodating a stream of updates, took significant time.  Most likely, little or nothing needs to be changed in `scripts/generate_programs`.  You'll just need to get the tutorial chairs to use the system, and make a few changes to include the right files in the appropriate .php files for the workshops.
+
+A number of site maintenance tools were not ported from the 2012 and 2013 sites to the 2014 site.  These should be resurrected.  Details are in a section below.
+
+Relatedly, an automated publishing script should be developed for the new ACM web servers which I understand will start to be used for the 2015 site.
+
+One annoying bug we didn't fix:  Some piece of javascript causes the following to happen:  When you load one of the pages, at the moment that it is done loading, it snaps back up to the top of the page.  Result:  You load a page partially, begin scrolling down and reading, and as you are in the middle of looking at something it snaps back up to the top.  Even worse result:  you visit a page X, then click on another page Y, and when X finishes loading it redisplays X.
+
+It would be nice if each of the pages, which currently ends in a .php, were put in its own subdirectory as an index.php.  This would make the URLs look nicer.  URLs are a publicly-visible memorable name, and shouldn't include details of how the site is implemented, like programming languages.
+
+We recieved two reports that the site does not work with the Chrome "DoNotTrackMe" extension, but never investigated.  Reportedly, this cased the navigation bar to break.  It might have had something to do with the third party calls (facebook/twitter/g+ buttons) ... or not.
+
 ## Tools from previous years, missing in this year's repo
 
 Some supporting tools from previous years were not ported over to this year.  Ideally, a future web chair should look at the 2012 or  2013 site snapshots, and pull these into future repos with full documentation for install dependencies and how to run the tools.  For reference, here is a list of the tools not ported over:
@@ -64,11 +114,9 @@ Much better to publish this minified version than the source files. Bash script 
 
 In order to save time, this script does *not* optimize any images. You should really run your images through pngquant (http://pngquant.org/) and then image_optim (https://github.com/toy/image_optim) before you add them to the repository.
 
-
 ### Local test server
 
 With recent versions of PHP, you can run a development test server on your machine like this: `php -S 127.0.0.1:8000`
-
 
 ### Checking for broken links
 
@@ -78,38 +126,6 @@ Run a local test server (see above) and then run `linklint` (http://www.linklint
 
 Checker results are in `report/index.html` afterwards.
 
-
 ### Checking for HTML issues
 
 Run a local test server (see above) and then run `bash scripts/lint`.
-
-
-## For future SIGCOMM web chairs
-
-To get started, first check out http://www.sigcomm.org/conference-planning/web-chairs
-
-An additional task to start on early is designing a logo.
-
-You'll have to request an account at:
-http://campus.acm.org/public/infodir/account_request.cfm
-
-For questions or to check on status of your request, you may try following up with ishelpdesk@hq.acm.org.
-
-To publish the site:  ACM's web hosting service setup is in the process of changing (as of spring 2014).  The instructions here are what we used for SIGCOMM 2014, but future conferences will probably have a different procedure.
-
-We used sftp access to ACM's server.  However, Drupal is also available.  For sftp upload and download, you have several software options.  ishelpdesk recommended FileZilla, writing:
-	1. Simply configure Filezilla's site manager "HOST" field turing.acm.org
-	PLEASE NOTE: DO NOT CONFIGURE "QUICK CONNECT" (in Filezilla) – It defaults to regular FTP which will not work with turing.acm.org.
-	2. Use [SFTP using SSH] in the server type field (Note from Brighten: I didn't see this field in the Mac verison of this software.  Just entered 22 in the Port field.)
-	3. Fill in the [username] and [password] fields with the credentials I sent in the previous email.
-	4. Set the logon type field to [normal].  (Note from Brighten: I didn't see this field in the Mac version of this software)
-
-However, another option for uploading is lftp, which uploads a diff like rsync.  On a Mac with MacPorts, just do 'sudo port install lftp'.  Once lftp is installed, suppose the pathname to your local copy of the site is /x/web  and your username on the ACM server is USERNAME with password PASSWORD.  Then do this:
-
-	$ cd /x
-	$ lftp sftp://USERNAME@conferences.sigcomm.org
-	password: PASSWORD
-	lftp> cd /acminfo/2/sigs/sigcomm/conferences/sigcomm/
-	lftp> mirror -Reva web 2014
-
-where 2014 is replaced with the year of the SIGCOMM conference.
