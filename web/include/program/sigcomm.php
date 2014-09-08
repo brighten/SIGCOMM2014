@@ -1833,7 +1833,7 @@
 				
 				
 				<h3 class="ui-li-heading">CONGA: Distributed Congestion-Aware Load Balancing for Datacenters</h3>
-				<p class="ui-li-desc">Mohammad Alizadeh (Cisco); Tom Edsall (Cisco); Sarang Dharmapurikar (Cisco); Ramanan Vaidyanathan (Cisco); Kevin Chu (Cisco); Andy Fingerhut (Google); Terry Lam (Cisco); Francis Matus (Cisco); Rong Pan (Cisco); Navindra Yadav (Cisco); George Varghese (Microsoft)</p>
+				<p class="ui-li-desc">Mohammad Alizadeh (Cisco); Tom Edsall (Cisco); Sarang Dharmapurikar (Cisco); Ramanan Vaidyanathan (Cisco); Kevin Chu (Cisco); Andy Fingerhut (Cisco); Vinh The Lam (Google); Francis Matus (Cisco); Rong Pan (Cisco); Navindra Yadav (Cisco); George Varghese (Microsoft)</p>
 			</li>
 			
 	
