@@ -1498,8 +1498,8 @@
 					</p>
 				
 				
-				<h3 class="ui-li-heading">Dionysus: Dynamic Scheduling of Network Updates</h3>
-				<p class="ui-li-desc">Xin Jin (Princeton University); Hongqiang Harry Liu (Yale University); Rohan Gandhi (Purdue University); Srikanth Kandula (Microsoft Research); Ratul Mahajan (Microsoft Research); Jennifer Rexford (Princeton University); Roger Wattenhofer (ETH); Ming Zhang (Microsoft Research)</p>
+				<h3 class="ui-li-heading">Dynamic Scheduling of Network Updates</h3>
+				<p class="ui-li-desc">Xin Jin (Princeton University); Hongqiang Harry Liu (Yale University); Rohan Gandhi (Purdue University); Srikanth Kandula (Microsoft Research); Ratul Mahajan (Microsoft Research); Ming Zhang (Microsoft Research); Jennifer Rexford (Princeton University); Roger Wattenhofer (ETH)</p>
 			</li>
 			
 	
