@@ -844,7 +844,7 @@
 
 				
 				
-				<h3 class="ui-li-heading">FastPass: A Zero-Queue Datacenter Network Architecture</h3>
+				<h3 class="ui-li-heading">Fastpass: A Centralized &#34;Zero-Queue&#34; Datacenter Network</h3>
 				<p class="ui-li-desc">Jonathan Perry (MIT); Amy Ousterhout (MIT); Hari Balakrishnan (MIT); Devavrat Shah (MIT); Hans Fugal (Facebook)</p>
 			</li>
 			
