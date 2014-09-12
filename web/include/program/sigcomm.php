@@ -167,7 +167,7 @@
 				
 				
 				<h3 class="ui-li-heading">Network Neutrality Inference</h3>
-				<p class="ui-li-desc">Zhiyong Zhang (U. of Electronic Science and Technology, China); Ovidiu Mara (EPFL); Katerina Argyraki (EPFL)</p>
+				<p class="ui-li-desc">Zhiyong Zhang (U. of Electronic Science and Technology, China and EPFL); Ovidiu Mara (EPFL); Katerina Argyraki (EPFL)</p>
 			</li>
 			
 	
