@@ -62,7 +62,7 @@ http://campus.acm.org/public/infodir/account_request.cfm
 
 For questions or to check on status of your request, you may try following up with ishelpdesk@hq.acm.org.
 
-To publish the site:  ACM's web hosting service setup is in the process of changing (as of spring 2014).  The instructions here are what we used for SIGCOMM 2014, but future conferences will probably have a different procedure.
+To publish the site:  ACM's web hosting service setup is in the process of changing (as of spring 2014).  The instructions here are what we used for SIGCOMM 2014, but future conferences will probably have a different procedure and should create an automated publish script for whatever that situation is.
 
 We used sftp access to ACM's server.  However, Drupal is also available.  For sftp upload and download, you have several software options.  ACM's ishelpdesk recommended FileZilla, writing:
 1. Simply configure Filezilla's site manager "HOST" field turing.acm.org
