@@ -1,3 +1,10 @@
+#
+# This script is used to generate unique id for slides and assign them to talks in Google Sheet
+# Code developed by Xuefeng Zhu <xzhu15@illinois.edu> for SIGCOMM 2014 web site.
+# Original verison August 2014
+#
+
+
 import gspread
 
 count = 1
