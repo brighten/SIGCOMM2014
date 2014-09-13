@@ -29,7 +29,10 @@
 
 				
 				
-				<h3 class="ui-li-heading">Distributed Cloud Computing in High Energy Physics</h3>
+				
+					<h3 class="ui-li-heading"><a href="http://dl.acm.org/authorize?N71342" rel="external" target="_blank">Distributed Cloud Computing in High Energy Physics</a></h3>
+
+				
 				<p class="ui-li-desc">Randall J. Sobie</p>
 			</li>
 			
@@ -57,7 +60,10 @@
 					</p>
 				
 				
-				<h3 class="ui-li-heading">ProActive Routing in Scalable Data Centers with PARIS </h3>
+				
+					<h3 class="ui-li-heading"><a href="http://dl.acm.org/authorize?N71343" rel="external" target="_blank">ProActive Routing in Scalable Data Centers with PARIS </a></h3>
+
+				
 				<p class="ui-li-desc">D. Arora, T. Benson, J. Rexford</p>
 			</li>
 			
@@ -76,7 +82,10 @@
 					</p>
 				
 				
-				<h3 class="ui-li-heading">Modeling and Simulation of Concurrent Workload Processing in Cloud-Distributed Enterprise Information System</h3>
+				
+					<h3 class="ui-li-heading"><a href="http://dl.acm.org/authorize?N71344" rel="external" target="_blank">Modeling and Simulation of Concurrent Workload Processing in Cloud-Distributed Enterprise Information System</a></h3>
+
+				
 				<p class="ui-li-desc">A. Antonescu, T. Braun</p>
 			</li>
 			
@@ -106,7 +115,10 @@
 
 				
 				
-				<h3 class="ui-li-heading">Invited Paper: DEIDtect: Towards Distributed Elastic Intrusion Detection</h3>
+				
+					<h3 class="ui-li-heading"><a href="http://dl.acm.org/authorize?N71455" rel="external" target="_blank">Invited Paper: DEIDtect: Towards Distributed Elastic Intrusion Detection</a></h3>
+
+				
 				<p class="ui-li-desc">Praveen Kumar Shanmugam, Naveen Dasa Subramanyam, Joe Breen, Corey Roach, Jacobus Van der Merwe</p>
 			</li>
 			
@@ -125,7 +137,10 @@
 					</p>
 				
 				
-				<h3 class="ui-li-heading">Performance of Network and Computing Resource Sharing in Federated Cloud</h3>
+				
+					<h3 class="ui-li-heading"><a href="http://dl.acm.org/authorize?N71456" rel="external" target="_blank">Performance of Network and Computing Resource Sharing in Federated Cloud</a></h3>
+
+				
 				<p class="ui-li-desc">W. Cerroni</p>
 			</li>
 			
@@ -144,7 +159,10 @@
 					</p>
 				
 				
-				<h3 class="ui-li-heading">Capacity of Inter-Cloud Layer-2 Virtual Networking</h3>
+				
+					<h3 class="ui-li-heading"><a href="http://dl.acm.org/authorize?N71457" rel="external" target="_blank">Capacity of Inter-Cloud Layer-2 Virtual Networking</a></h3>
+
+				
 				<p class="ui-li-desc">Y. Xin, I. Baldin, C. Heermann, A. Mandal, P. Ruth</p>
 			</li>
 			
@@ -172,7 +190,10 @@
 					</p>
 				
 				
-				<h3 class="ui-li-heading">A Virtual Machine Repacking in Clouds: Faster Live Migration Algorithms</h3>
+				
+					<h3 class="ui-li-heading"><a href="http://dl.acm.org/authorize?N71458" rel="external" target="_blank">A Virtual Machine Repacking in Clouds: Faster Live Migration Algorithms</a></h3>
+
+				
 				<p class="ui-li-desc">M. Hadji, P. Labrog&#232;re</p>
 			</li>
 			
@@ -191,7 +212,10 @@
 					</p>
 				
 				
-				<h3 class="ui-li-heading">Experiences with Distributed Heterogeneous Clouds over Community Networks</h3>
+				
+					<h3 class="ui-li-heading"><a href="http://dl.acm.org/authorize?N71459" rel="external" target="_blank">Experiences with Distributed Heterogeneous Clouds over Community Networks</a></h3>
+
+				
 				<p class="ui-li-desc">M. Selimi, F. Freitag, R. Centelles, P. Escrich, D. Marti, R. Baig</p>
 			</li>
 			
@@ -210,7 +234,10 @@
 					</p>
 				
 				
-				<h3 class="ui-li-heading">Traffic-Aware Clustering and VM Migration in Distributed Data Center</h3>
+				
+					<h3 class="ui-li-heading"><a href="http://dl.acm.org/authorize?N71450" rel="external" target="_blank">Traffic-Aware Clustering and VM Migration in Distributed Data Center</a></h3>
+
+				
 				<p class="ui-li-desc">M. Cello, K. Xi, J. Chao, M. Marchese</p>
 			</li>
 			
@@ -225,7 +252,10 @@
 
 				
 				
-				<h3 class="ui-li-heading">ParaDrop: A Multi-tenant Platform for Dynamically Installed Third Party Services On Home Gateways</h3>
+				
+					<h3 class="ui-li-heading"><a href="http://dl.acm.org/authorize?N71451" rel="external" target="_blank">ParaDrop: A Multi-tenant Platform for Dynamically Installed Third Party Services On Home Gateways</a></h3>
+
+				
 				<p class="ui-li-desc">D. Willis, A. Dasgupta, S. Banerjee</p>
 			</li>
 			
@@ -244,7 +274,10 @@
 					</p>
 				
 				
-				<h3 class="ui-li-heading">Green Latency-aware Data Deployment in Data Centers: Balancing Latency, Energy in Networks and Servers</h3>
+				
+					<h3 class="ui-li-heading"><a href="http://dl.acm.org/authorize?N71452" rel="external" target="_blank">Green Latency-aware Data Deployment in Data Centers: Balancing Latency, Energy in Networks and Servers</a></h3>
+
+				
 				<p class="ui-li-desc">Y. Fan, H. Ding, D. Hu</p>
 			</li>
 			
@@ -274,7 +307,10 @@
 
 				
 				
-				<h3 class="ui-li-heading">Response Time-Optimized Distributed Cloud Resource Allocation</h3>
+				
+					<h3 class="ui-li-heading"><a href="http://dl.acm.org/authorize?N71453" rel="external" target="_blank">Response Time-Optimized Distributed Cloud Resource Allocation</a></h3>
+
+				
 				<p class="ui-li-desc">M. Keller, H. Karl</p>
 			</li>
 			
@@ -293,7 +329,10 @@
 					</p>
 				
 				
-				<h3 class="ui-li-heading">A Decomposition-based Architecture for Distributed Virtual Network Embedding </h3>
+				
+					<h3 class="ui-li-heading"><a href="http://dl.acm.org/authorize?N71454" rel="external" target="_blank">A Decomposition-based Architecture for Distributed Virtual Network Embedding </a></h3>
+
+				
 				<p class="ui-li-desc">F. Esposito, I. Matta</p>
 			</li>
 			
@@ -308,7 +347,10 @@
 
 				
 				
-				<h3 class="ui-li-heading">Optimizing Job Reliability via Contention-Free, Distributed Scheduling of VM </h3>
+				
+					<h3 class="ui-li-heading"><a href="http://dl.acm.org/authorize?N71465" rel="external" target="_blank">Optimizing Job Reliability via Contention-Free, Distributed Scheduling of VM </a></h3>
+
+				
 				<p class="ui-li-desc">Y. Xiang, H. Liu, T. Lan, H. Huang, S. Subramaniam</p>
 			</li>
 			
@@ -342,7 +384,10 @@
 					</p>
 				
 				
-				<h3 class="ui-li-heading">Traffic Steering in Software Defined Networks: Planning and Online Routing</h3>
+				
+					<h3 class="ui-li-heading"><a href="http://dl.acm.org/authorize?N71466" rel="external" target="_blank">Traffic Steering in Software Defined Networks: Planning and Online Routing</a></h3>
+
+				
 				<p class="ui-li-desc">Z. Cao, M. Kodialam, T. Lakshman</p>
 			</li>
 			
@@ -361,7 +406,10 @@
 					</p>
 				
 				
-				<h3 class="ui-li-heading">Design and Implementation of an OpenFlow Hardware Abstraction Layer</h3>
+				
+					<h3 class="ui-li-heading"><a href="http://dl.acm.org/authorize?N71467" rel="external" target="_blank">Design and Implementation of an OpenFlow Hardware Abstraction Layer</a></h3>
+
+				
 				<p class="ui-li-desc">D. Parniewicz, R. Corin, L. Ogrodowczyk, M. Fard, J. Matias, M. Gerola, U. Toseef, A. Zaalouk, B. Belter, K. Pentikousis, E. Jacob, V. Fuentes</p>
 			</li>
 			
@@ -380,7 +428,10 @@
 					</p>
 				
 				
-				<h3 class="ui-li-heading">Achieving Efficient and Fast Update for Multiple Flows in Software-Defined Networks </h3>
+				
+					<h3 class="ui-li-heading"><a href="http://dl.acm.org/authorize?N71468" rel="external" target="_blank">Achieving Efficient and Fast Update for Multiple Flows in Software-Defined Networks </a></h3>
+
+				
 				<p class="ui-li-desc">Y. Liu, Y. Li, Y. Wang, A. Vasilakos, J. Yuan</p>
 			</li>
 			

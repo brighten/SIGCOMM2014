@@ -25,7 +25,9 @@
 
 				
 				
-				<h3 class="ui-li-heading">Leading Innovation in the Network and Your Career</h3>
+				
+					<h3 class="ui-li-heading">Leading Innovation in the Network and Your Career</h3>
+				
 				<p class="ui-li-desc">Deb Agarwal, Lawrence Berkeley National Laboratory, University of California</p>
 			</li>
 			
@@ -60,7 +62,9 @@
 
 				
 				
-				<h3 class="ui-li-heading"></h3>
+				
+					<h3 class="ui-li-heading"></h3>
+				
 				<p class="ui-li-desc">Panelists: Aruna Balasubramanian, Fabian Bustamante, Ram&#243;n C&#225;ceres, Sonia Fahmy
 </p>
 			</li>
@@ -87,7 +91,9 @@
 
 				
 				
-				<h3 class="ui-li-heading">Cellular Networks as Sensors</h3>
+				
+					<h3 class="ui-li-heading">Cellular Networks as Sensors</h3>
+				
 				<p class="ui-li-desc">Ram&#243;n C&#225;ceres, AT&amp;T</p>
 			</li>
 			
@@ -107,7 +113,9 @@
 
 				
 				
-				<h3 class="ui-li-heading"></h3>
+				
+					<h3 class="ui-li-heading"></h3>
+				
 				<p class="ui-li-desc">Panelists: Klara Nahrstedt, Graciela Perera, Joel Branch, Deb Agarwal
 </p>
 			</li>

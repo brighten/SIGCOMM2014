@@ -42,7 +42,10 @@
 
 				
 				
-				<h3 class="ui-li-heading">Software Defined Radios for Smart Utility Networks</h3>
+				
+					<h3 class="ui-li-heading"><a href="http://dl.acm.org/authorize?N71475" rel="external" target="_blank">Software Defined Radios for Smart Utility Networks</a></h3>
+
+				
 				<p class="ui-li-desc">Srinivas Lingam; Tim Schmidl; Anuj Batra, Texas Instruments</p>
 			</li>
 			
@@ -57,7 +60,10 @@
 
 				
 				
-				<h3 class="ui-li-heading">WhiteLAN: Facilitate Cost-Efficient SDR Research with COTS IEEE 802.11b/g devices</h3>
+				
+					<h3 class="ui-li-heading"><a href="http://dl.acm.org/authorize?N71476" rel="external" target="_blank">WhiteLAN: Facilitate Cost-Efficient SDR Research with COTS IEEE 802.11b/g devices</a></h3>
+
+				
 				<p class="ui-li-desc">Arun Ashok; Iyappan Subbiah; Gabor Varga; Moritz Schrey; Andreas Achtzehn; Marina Petrova; Stefan Heinen</p>
 			</li>
 			
@@ -79,7 +85,10 @@
 
 				
 				
-				<h3 class="ui-li-heading">CogMAC+ - A Decentralized Multichannel MAC Protocol for Cognitive Wireless Networks</h3>
+				
+					<h3 class="ui-li-heading"><a href="http://dl.acm.org/authorize?N71462" rel="external" target="_blank">CogMAC+ - A Decentralized Multichannel MAC Protocol for Cognitive Wireless Networks</a></h3>
+
+				
 				<p class="ui-li-desc">Peng Wang; Junaid Ansari; Marina Petrova; Petri M&#228;h&#246;nen</p>
 			</li>
 			
@@ -94,7 +103,10 @@
 
 				
 				
-				<h3 class="ui-li-heading">802.11a/g PHY  implementation in Blink, domain-specific language for wireless programming</h3>
+				
+					<h3 class="ui-li-heading"><a href="http://dl.acm.org/authorize?N71463" rel="external" target="_blank">802.11a/g PHY  implementation in Blink, domain-specific language for wireless programming</a></h3>
+
+				
 				<p class="ui-li-desc">Gordon Stewart; Mahanth Gowda; Geoff Mainland; Bozidar Radunovic; Dimitrios Vytiniotis</p>
 			</li>
 			
@@ -109,7 +121,10 @@
 
 				
 				
-				<h3 class="ui-li-heading">WARP Drive - Accelerating Wireless Multi-hop Cross-layer Experimentation on SDRs</h3>
+				
+					<h3 class="ui-li-heading"><a href="http://dl.acm.org/authorize?N71464" rel="external" target="_blank">WARP Drive - Accelerating Wireless Multi-hop Cross-layer Experimentation on SDRs</a></h3>
+
+				
 				<p class="ui-li-desc">Adrian Loch; Matthias Schulz; Matthias Hollick</p>
 			</li>
 			
@@ -137,7 +152,10 @@
 
 				
 				
-				<h3 class="ui-li-heading">Improving Transport Design for WARP SDR Deployments </h3>
+				
+					<h3 class="ui-li-heading"><a href="http://dl.acm.org/authorize?N71469" rel="external" target="_blank">Improving Transport Design for WARP SDR Deployments </a></h3>
+
+				
 				<p class="ui-li-desc">Krishna C. Garikipati; Kang G. Shin</p>
 			</li>
 			
@@ -156,7 +174,10 @@
 					</p>
 				
 				
-				<h3 class="ui-li-heading">SDR-based Passive Indoor Localization System for GSM</h3>
+				
+					<h3 class="ui-li-heading"><a href="http://dl.acm.org/authorize?N71460" rel="external" target="_blank">SDR-based Passive Indoor Localization System for GSM</a></h3>
+
+				
 				<p class="ui-li-desc">Islam Alyafawi; Desislava Dimitrova; Torsten Ingo Braun</p>
 			</li>
 			
@@ -171,7 +192,10 @@
 
 				
 				
-				<h3 class="ui-li-heading">A real-time and Protocol-aware Reactive Jamming Framework Built on Software-Defined Radios</h3>
+				
+					<h3 class="ui-li-heading"><a href="http://dl.acm.org/authorize?N71461" rel="external" target="_blank">A real-time and Protocol-aware Reactive Jamming Framework Built on Software-Defined Radios</a></h3>
+
+				
 				<p class="ui-li-desc">Danh Nguyen; Cem Sahin; Boris Shishkin; Nagarajan Kandasamy; Kapil Dandekar</p>
 			</li>
 			
@@ -199,7 +223,10 @@
 
 				
 				
-				<h3 class="ui-li-heading">Exploring MAC Parallelization on Software Defined Radio Platforms</h3>
+				
+					<h3 class="ui-li-heading"><a href="http://dl.acm.org/authorize?N71477" rel="external" target="_blank">Exploring MAC Parallelization on Software Defined Radio Platforms</a></h3>
+
+				
 				<p class="ui-li-desc">Junaid Ansari; Xi Zhang; Sameer Gaikwad; Petri M&#228;h&#246;nen</p>
 			</li>
 			
@@ -214,7 +241,10 @@
 
 				
 				
-				<h3 class="ui-li-heading">Implementing TD-LTE as software defined radio in general purpose processor</h3>
+				
+					<h3 class="ui-li-heading"><a href="http://dl.acm.org/authorize?N71478" rel="external" target="_blank">Implementing TD-LTE as software defined radio in general purpose processor</a></h3>
+
+				
 				<p class="ui-li-desc">Jussi Kerttula; Nicolas Malm; Kalle Ruttik; Riku J&#228;ntti; Olav Tirkkonen</p>
 			</li>
 			
@@ -229,7 +259,10 @@
 
 				
 				
-				<h3 class="ui-li-heading">Joint Phase Tracking and Channel Decoding for OFDM PNC: Algorithm and Experimental Evaluation</h3>
+				
+					<h3 class="ui-li-heading"><a href="http://dl.acm.org/authorize?N71479" rel="external" target="_blank">Joint Phase Tracking and Channel Decoding for OFDM PNC: Algorithm and Experimental Evaluation</a></h3>
+
+				
 				<p class="ui-li-desc">Taotao Wang; Soung Chang Liew; Lizhao You</p>
 			</li>
 			
@@ -251,7 +284,10 @@
 
 				
 				
-				<h3 class="ui-li-heading">Proof-of-concept Implementation for Network Orchestrated Relay Selection Mechanism</h3>
+				
+					<h3 class="ui-li-heading"><a href="http://dl.acm.org/authorize?N71470" rel="external" target="_blank">Proof-of-concept Implementation for Network Orchestrated Relay Selection Mechanism</a></h3>
+
+				
 				<p class="ui-li-desc">Vicknesan Ayadurai; Mikael Prytz, Ericsson</p>
 			</li>
 			
@@ -266,7 +302,10 @@
 
 				
 				
-				<h3 class="ui-li-heading">MIMO-OFDM spatial multiplexing technique implementation for GNU Radios</h3>
+				
+					<h3 class="ui-li-heading"><a href="http://dl.acm.org/authorize?N71471" rel="external" target="_blank">MIMO-OFDM spatial multiplexing technique implementation for GNU Radios</a></h3>
+
+				
 				<p class="ui-li-desc">Francesca Martelli; Alexander Kocian; Paolo Santi; Vanessa Gardellin</p>
 			</li>
 			

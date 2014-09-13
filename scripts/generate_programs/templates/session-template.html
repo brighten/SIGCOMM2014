@@ -24,7 +24,12 @@
 					</p>
 				{% endif %}
 				
-				<h3 class="ui-li-heading">{{session.title | e}}</h3>
+				{% if session.paper %}
+					<h3 class="ui-li-heading"><a href="{{session.paper}}" rel="external" target="_blank">{{session.title | e}}</a></h3>
+
+				{% else %}
+					<h3 class="ui-li-heading">{{session.title | e}}</h3>
+				{% endif %}
 				<p class="ui-li-desc">{{session.speaker | e}}</p>
 			</li>
 			{% elif session.type == "BestOfCCR" %}
