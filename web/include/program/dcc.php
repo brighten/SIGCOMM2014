@@ -306,6 +306,10 @@
 				
 
 				
+					<p class="ui-li-aside prog-paper ui-li-desc" style="padding: 6px; border-radius: 5px">
+					<a href="doc/slides/170.pdf" rel="external" target="_blank" class="ui-link" style="text-decoration: none; color: white">Slides</a>
+					</p>
+				
 				
 				
 					<h3 class="ui-li-heading"><a href="http://dl.acm.org/authorize?N71453" rel="external" target="_blank">Response Time-Optimized Distributed Cloud Resource Allocation</a></h3>
