@@ -1,4 +1,6 @@
 #
+# This script is used to retrieve paper links from html files in "ACM Digitial Library links" folder, 
+# and load them into Google Sheet  
 # Code developed by Xuefeng Zhu <xzhu15@illinois.edu> for SIGCOMM 2014 web site.
 # Original verison August 2014
 #
